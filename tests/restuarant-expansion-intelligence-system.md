@@ -147,7 +147,7 @@ POST /api/expansion/analyze
 
 ## Sample Data Files (Provided)
 
-**Download all data files from:** `https://github.com/Traveledge/ai-test-data/tree/main/restaurant`
+**Download all data files from:** `https://github.com/TravelEdge/triparc-ai-test/ai-test-data/tree/main/restaurant`
 
 We've provided ready-to-use JSON files with substantial data for meaningful testing:
 

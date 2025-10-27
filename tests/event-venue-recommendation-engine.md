@@ -177,7 +177,7 @@ POST /api/venues/recommend
 
 ## Sample Data Files (Provided)
 
-**Download all data files from:** `https://github.com/Traveledge/ai-test-data/tree/main/venue`
+**Download all data files from:** `https://github.com/TravelEdge/triparc-ai-test/ai-test-data/tree/main/venue`
 
 We've provided ready-to-use JSON files with substantial data for meaningful testing:
 
