@@ -1,0 +1,1002 @@
+[
+  {
+    "city_id": "PLS",
+    "name": "Karleyboro, NH",
+    "state": "NH",
+    "population": 1014840,
+    "median_income": 72152,
+    "median_age": 34,
+    "growth_rate": 0.032,
+    "existing_locations": 1,
+    "region": "West Coast",
+    "metro_area": "Karleyboro Metro Area",
+    "avg_rent_psf": 39,
+    "restaurant_density": "high",
+    "major_industries": [
+      "healthcare",
+      "finance",
+      "aerospace"
+    ],
+    "unemployment_rate": 0.06
+  },
+  {
+    "city_id": "PIX",
+    "name": "Walkerland, SD",
+    "state": "SD",
+    "population": 2243724,
+    "median_income": 63787,
+    "median_age": 34,
+    "growth_rate": 0.041,
+    "existing_locations": 5,
+    "region": "West Coast",
+    "metro_area": "Walkerland Metro Area",
+    "avg_rent_psf": 74,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "finance",
+      "technology",
+      "retail"
+    ],
+    "unemployment_rate": 0.036
+  },
+  {
+    "city_id": "GHX",
+    "name": "Bayonne, KS",
+    "state": "KS",
+    "population": 897167,
+    "median_income": 92185,
+    "median_age": 41,
+    "growth_rate": 0.045,
+    "existing_locations": 0,
+    "region": "Southwest",
+    "metro_area": "Bayonne Metro Area",
+    "avg_rent_psf": 45,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "logistics",
+      "biotech",
+      "agriculture"
+    ],
+    "unemployment_rate": 0.027
+  },
+  {
+    "city_id": "CML",
+    "name": "Lake Milton, AZ",
+    "state": "AZ",
+    "population": 2516994,
+    "median_income": 89090,
+    "median_age": 33,
+    "growth_rate": -0.015,
+    "existing_locations": 2,
+    "region": "West Coast",
+    "metro_area": "Lake Milton Metro Area",
+    "avg_rent_psf": 52,
+    "restaurant_density": "high",
+    "major_industries": [
+      "aerospace",
+      "technology",
+      "healthcare"
+    ],
+    "unemployment_rate": 0.025
+  },
+  {
+    "city_id": "HKI",
+    "name": "Klockotown, SC",
+    "state": "SC",
+    "population": 2633866,
+    "median_income": 79240,
+    "median_age": 36,
+    "growth_rate": 0.008,
+    "existing_locations": 4,
+    "region": "Northeast",
+    "metro_area": "Klockotown Metro Area",
+    "avg_rent_psf": 34,
+    "restaurant_density": "high",
+    "major_industries": [
+      "real_estate",
+      "aerospace",
+      "education"
+    ],
+    "unemployment_rate": 0.044
+  },
+  {
+    "city_id": "ORX",
+    "name": "Fort Quintenstad, IL",
+    "state": "IL",
+    "population": 592783,
+    "median_income": 47862,
+    "median_age": 34,
+    "growth_rate": 0.047,
+    "existing_locations": 1,
+    "region": "Midwest",
+    "metro_area": "Fort Quintenstad Metro Area",
+    "avg_rent_psf": 61,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "technology",
+      "tourism",
+      "entertainment"
+    ],
+    "unemployment_rate": 0.026
+  },
+  {
+    "city_id": "NVG",
+    "name": "Kent, NH",
+    "state": "NH",
+    "population": 2361002,
+    "median_income": 49308,
+    "median_age": 36,
+    "growth_rate": 0.014,
+    "existing_locations": 3,
+    "region": "West Coast",
+    "metro_area": "Kent Metro Area",
+    "avg_rent_psf": 64,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "finance",
+      "retail",
+      "agriculture"
+    ],
+    "unemployment_rate": 0.075
+  },
+  {
+    "city_id": "CWL",
+    "name": "Viviannechester, NJ",
+    "state": "NJ",
+    "population": 2788075,
+    "median_income": 79256,
+    "median_age": 29,
+    "growth_rate": 0.013,
+    "existing_locations": 2,
+    "region": "Southwest",
+    "metro_area": "Viviannechester Metro Area",
+    "avg_rent_psf": 53,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "finance",
+      "agriculture",
+      "biotech"
+    ],
+    "unemployment_rate": 0.05
+  },
+  {
+    "city_id": "SDZ",
+    "name": "Tateville, HI",
+    "state": "HI",
+    "population": 1552997,
+    "median_income": 66527,
+    "median_age": 35,
+    "growth_rate": -0.01,
+    "existing_locations": 3,
+    "region": "Northeast",
+    "metro_area": "Tateville Metro Area",
+    "avg_rent_psf": 43,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "aerospace",
+      "entertainment",
+      "technology"
+    ],
+    "unemployment_rate": 0.078
+  },
+  {
+    "city_id": "KPU",
+    "name": "Murfreesboro, TN",
+    "state": "TN",
+    "population": 1098187,
+    "median_income": 76960,
+    "median_age": 28,
+    "growth_rate": 0.032,
+    "existing_locations": 1,
+    "region": "Midwest",
+    "metro_area": "Murfreesboro Metro Area",
+    "avg_rent_psf": 36,
+    "restaurant_density": "low",
+    "major_industries": [
+      "entertainment",
+      "tourism",
+      "aerospace"
+    ],
+    "unemployment_rate": 0.057
+  },
+  {
+    "city_id": "RCZ",
+    "name": "North Geoffreyfort, IL",
+    "state": "IL",
+    "population": 904996,
+    "median_income": 86012,
+    "median_age": 35,
+    "growth_rate": 0.037,
+    "existing_locations": 3,
+    "region": "Southwest",
+    "metro_area": "North Geoffreyfort Metro Area",
+    "avg_rent_psf": 56,
+    "restaurant_density": "high",
+    "major_industries": [
+      "agriculture",
+      "technology",
+      "healthcare"
+    ],
+    "unemployment_rate": 0.058
+  },
+  {
+    "city_id": "GST",
+    "name": "Port Lavinaboro, DE",
+    "state": "DE",
+    "population": 2448534,
+    "median_income": 77240,
+    "median_age": 29,
+    "growth_rate": 0.041,
+    "existing_locations": 2,
+    "region": "Southeast",
+    "metro_area": "Port Lavinaboro Metro Area",
+    "avg_rent_psf": 39,
+    "restaurant_density": "low",
+    "major_industries": [
+      "retail",
+      "manufacturing",
+      "education"
+    ],
+    "unemployment_rate": 0.077
+  },
+  {
+    "city_id": "YFI",
+    "name": "Virginiamouth, MA",
+    "state": "MA",
+    "population": 1278235,
+    "median_income": 76365,
+    "median_age": 42,
+    "growth_rate": 0.003,
+    "existing_locations": 5,
+    "region": "Southeast",
+    "metro_area": "Virginiamouth Metro Area",
+    "avg_rent_psf": 26,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "tourism",
+      "aerospace",
+      "logistics"
+    ],
+    "unemployment_rate": 0.028
+  },
+  {
+    "city_id": "SAG",
+    "name": "Lake Kayleighworth, WA",
+    "state": "WA",
+    "population": 2233803,
+    "median_income": 75507,
+    "median_age": 38,
+    "growth_rate": 0.006,
+    "existing_locations": 2,
+    "region": "Southeast",
+    "metro_area": "Lake Kayleighworth Metro Area",
+    "avg_rent_psf": 31,
+    "restaurant_density": "high",
+    "major_industries": [
+      "agriculture",
+      "real_estate",
+      "logistics"
+    ],
+    "unemployment_rate": 0.053
+  },
+  {
+    "city_id": "RSS",
+    "name": "Watsicafield, FL",
+    "state": "FL",
+    "population": 212707,
+    "median_income": 76124,
+    "median_age": 30,
+    "growth_rate": 0.043,
+    "existing_locations": 5,
+    "region": "Southwest",
+    "metro_area": "Watsicafield Metro Area",
+    "avg_rent_psf": 35,
+    "restaurant_density": "high",
+    "major_industries": [
+      "real_estate",
+      "manufacturing",
+      "aerospace"
+    ],
+    "unemployment_rate": 0.054
+  },
+  {
+    "city_id": "ONF",
+    "name": "Irmaton, OH",
+    "state": "OH",
+    "population": 2369855,
+    "median_income": 49163,
+    "median_age": 34,
+    "growth_rate": 0.002,
+    "existing_locations": 2,
+    "region": "Northeast",
+    "metro_area": "Irmaton Metro Area",
+    "avg_rent_psf": 62,
+    "restaurant_density": "high",
+    "major_industries": [
+      "finance",
+      "agriculture",
+      "manufacturing"
+    ],
+    "unemployment_rate": 0.047
+  },
+  {
+    "city_id": "PII",
+    "name": "Bechtelarhaven, MN",
+    "state": "MN",
+    "population": 2944225,
+    "median_income": 90997,
+    "median_age": 36,
+    "growth_rate": 0.05,
+    "existing_locations": 1,
+    "region": "Midwest",
+    "metro_area": "Bechtelarhaven Metro Area",
+    "avg_rent_psf": 61,
+    "restaurant_density": "high",
+    "major_industries": [
+      "entertainment",
+      "biotech",
+      "consulting"
+    ],
+    "unemployment_rate": 0.032
+  },
+  {
+    "city_id": "UOC",
+    "name": "Port Ines, TX",
+    "state": "TX",
+    "population": 372499,
+    "median_income": 68994,
+    "median_age": 32,
+    "growth_rate": 0.031,
+    "existing_locations": 0,
+    "region": "Midwest",
+    "metro_area": "Port Ines Metro Area",
+    "avg_rent_psf": 42,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "education",
+      "healthcare",
+      "manufacturing"
+    ],
+    "unemployment_rate": 0.047
+  },
+  {
+    "city_id": "IKR",
+    "name": "Lake Guyfort, WY",
+    "state": "WY",
+    "population": 452807,
+    "median_income": 89332,
+    "median_age": 39,
+    "growth_rate": -0.008,
+    "existing_locations": 3,
+    "region": "Northeast",
+    "metro_area": "Lake Guyfort Metro Area",
+    "avg_rent_psf": 71,
+    "restaurant_density": "low",
+    "major_industries": [
+      "tourism",
+      "education",
+      "logistics"
+    ],
+    "unemployment_rate": 0.064
+  },
+  {
+    "city_id": "MSU",
+    "name": "Kirkland, FL",
+    "state": "FL",
+    "population": 317436,
+    "median_income": 46052,
+    "median_age": 32,
+    "growth_rate": 0.042,
+    "existing_locations": 3,
+    "region": "Southeast",
+    "metro_area": "Kirkland Metro Area",
+    "avg_rent_psf": 34,
+    "restaurant_density": "high",
+    "major_industries": [
+      "entertainment",
+      "real_estate",
+      "consulting"
+    ],
+    "unemployment_rate": 0.063
+  },
+  {
+    "city_id": "YAY",
+    "name": "West Scarlett, FL",
+    "state": "FL",
+    "population": 1503634,
+    "median_income": 73925,
+    "median_age": 32,
+    "growth_rate": 0.043,
+    "existing_locations": 4,
+    "region": "West Coast",
+    "metro_area": "West Scarlett Metro Area",
+    "avg_rent_psf": 43,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "aerospace",
+      "energy",
+      "manufacturing"
+    ],
+    "unemployment_rate": 0.063
+  },
+  {
+    "city_id": "BQS",
+    "name": "Imogeneland, OK",
+    "state": "OK",
+    "population": 2261147,
+    "median_income": 45209,
+    "median_age": 34,
+    "growth_rate": 0.006,
+    "existing_locations": 5,
+    "region": "Southwest",
+    "metro_area": "Imogeneland Metro Area",
+    "avg_rent_psf": 27,
+    "restaurant_density": "high",
+    "major_industries": [
+      "technology",
+      "agriculture",
+      "energy"
+    ],
+    "unemployment_rate": 0.063
+  },
+  {
+    "city_id": "IDW",
+    "name": "South Lucyfort, OH",
+    "state": "OH",
+    "population": 1143079,
+    "median_income": 91478,
+    "median_age": 39,
+    "growth_rate": 0.007,
+    "existing_locations": 1,
+    "region": "Midwest",
+    "metro_area": "South Lucyfort Metro Area",
+    "avg_rent_psf": 47,
+    "restaurant_density": "high",
+    "major_industries": [
+      "real_estate",
+      "energy",
+      "agriculture"
+    ],
+    "unemployment_rate": 0.076
+  },
+  {
+    "city_id": "BOA",
+    "name": "Springfield, ID",
+    "state": "ID",
+    "population": 982874,
+    "median_income": 93036,
+    "median_age": 33,
+    "growth_rate": -0.015,
+    "existing_locations": 2,
+    "region": "Southwest",
+    "metro_area": "Springfield Metro Area",
+    "avg_rent_psf": 52,
+    "restaurant_density": "high",
+    "major_industries": [
+      "technology",
+      "tourism",
+      "energy"
+    ],
+    "unemployment_rate": 0.036
+  },
+  {
+    "city_id": "GTK",
+    "name": "North Johnnyfort, KS",
+    "state": "KS",
+    "population": 661827,
+    "median_income": 92608,
+    "median_age": 33,
+    "growth_rate": -0.013,
+    "existing_locations": 5,
+    "region": "West Coast",
+    "metro_area": "North Johnnyfort Metro Area",
+    "avg_rent_psf": 61,
+    "restaurant_density": "high",
+    "major_industries": [
+      "healthcare",
+      "biotech",
+      "manufacturing"
+    ],
+    "unemployment_rate": 0.06
+  },
+  {
+    "city_id": "PGK",
+    "name": "Newport Beach, RI",
+    "state": "RI",
+    "population": 448022,
+    "median_income": 48695,
+    "median_age": 28,
+    "growth_rate": -0.017,
+    "existing_locations": 2,
+    "region": "Midwest",
+    "metro_area": "Newport Beach Metro Area",
+    "avg_rent_psf": 29,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "biotech",
+      "education",
+      "entertainment"
+    ],
+    "unemployment_rate": 0.053
+  },
+  {
+    "city_id": "PEE",
+    "name": "Kertzmanncester, TN",
+    "state": "TN",
+    "population": 1304159,
+    "median_income": 73395,
+    "median_age": 35,
+    "growth_rate": -0.012,
+    "existing_locations": 1,
+    "region": "Midwest",
+    "metro_area": "Kertzmanncester Metro Area",
+    "avg_rent_psf": 38,
+    "restaurant_density": "high",
+    "major_industries": [
+      "manufacturing",
+      "finance",
+      "education"
+    ],
+    "unemployment_rate": 0.076
+  },
+  {
+    "city_id": "BPY",
+    "name": "New Cameronshire, MN",
+    "state": "MN",
+    "population": 2726213,
+    "median_income": 54765,
+    "median_age": 32,
+    "growth_rate": -0.019,
+    "existing_locations": 0,
+    "region": "Midwest",
+    "metro_area": "New Cameronshire Metro Area",
+    "avg_rent_psf": 31,
+    "restaurant_density": "high",
+    "major_industries": [
+      "agriculture",
+      "education",
+      "healthcare"
+    ],
+    "unemployment_rate": 0.063
+  },
+  {
+    "city_id": "KCL",
+    "name": "South Franzside, AZ",
+    "state": "AZ",
+    "population": 2284903,
+    "median_income": 67201,
+    "median_age": 36,
+    "growth_rate": 0.03,
+    "existing_locations": 1,
+    "region": "Southeast",
+    "metro_area": "South Franzside Metro Area",
+    "avg_rent_psf": 68,
+    "restaurant_density": "low",
+    "major_industries": [
+      "energy",
+      "tourism",
+      "entertainment"
+    ],
+    "unemployment_rate": 0.067
+  },
+  {
+    "city_id": "UTR",
+    "name": "Gradyboro, UT",
+    "state": "UT",
+    "population": 1858719,
+    "median_income": 82627,
+    "median_age": 39,
+    "growth_rate": 0.049,
+    "existing_locations": 5,
+    "region": "Midwest",
+    "metro_area": "Gradyboro Metro Area",
+    "avg_rent_psf": 57,
+    "restaurant_density": "high",
+    "major_industries": [
+      "technology",
+      "healthcare",
+      "biotech"
+    ],
+    "unemployment_rate": 0.054
+  },
+  {
+    "city_id": "XIA",
+    "name": "Leannland, NJ",
+    "state": "NJ",
+    "population": 454737,
+    "median_income": 89473,
+    "median_age": 37,
+    "growth_rate": -0.017,
+    "existing_locations": 4,
+    "region": "Midwest",
+    "metro_area": "Leannland Metro Area",
+    "avg_rent_psf": 41,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "entertainment",
+      "logistics",
+      "agriculture"
+    ],
+    "unemployment_rate": 0.044
+  },
+  {
+    "city_id": "ISC",
+    "name": "McClurefield, DE",
+    "state": "DE",
+    "population": 1664006,
+    "median_income": 79395,
+    "median_age": 31,
+    "growth_rate": -0.006,
+    "existing_locations": 1,
+    "region": "Northeast",
+    "metro_area": "McClurefield Metro Area",
+    "avg_rent_psf": 43,
+    "restaurant_density": "low",
+    "major_industries": [
+      "biotech",
+      "technology",
+      "aerospace"
+    ],
+    "unemployment_rate": 0.026
+  },
+  {
+    "city_id": "BFM",
+    "name": "Cedar Rapids, UT",
+    "state": "UT",
+    "population": 1449304,
+    "median_income": 48717,
+    "median_age": 40,
+    "growth_rate": 0.011,
+    "existing_locations": 2,
+    "region": "Southeast",
+    "metro_area": "Cedar Rapids Metro Area",
+    "avg_rent_psf": 31,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "technology",
+      "agriculture",
+      "biotech"
+    ],
+    "unemployment_rate": 0.059
+  },
+  {
+    "city_id": "OBH",
+    "name": "North Alysa, NJ",
+    "state": "NJ",
+    "population": 641094,
+    "median_income": 52773,
+    "median_age": 28,
+    "growth_rate": 0.028,
+    "existing_locations": 0,
+    "region": "Northeast",
+    "metro_area": "North Alysa Metro Area",
+    "avg_rent_psf": 75,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "tourism",
+      "education",
+      "entertainment"
+    ],
+    "unemployment_rate": 0.032
+  },
+  {
+    "city_id": "RFY",
+    "name": "New Alessandra, KS",
+    "state": "KS",
+    "population": 2939546,
+    "median_income": 79131,
+    "median_age": 30,
+    "growth_rate": -0.001,
+    "existing_locations": 3,
+    "region": "Southeast",
+    "metro_area": "New Alessandra Metro Area",
+    "avg_rent_psf": 26,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "biotech",
+      "education",
+      "consulting"
+    ],
+    "unemployment_rate": 0.049
+  },
+  {
+    "city_id": "TRV",
+    "name": "Lake Alyssonland, NC",
+    "state": "NC",
+    "population": 1137251,
+    "median_income": 76918,
+    "median_age": 33,
+    "growth_rate": 0.009,
+    "existing_locations": 2,
+    "region": "Southwest",
+    "metro_area": "Lake Alyssonland Metro Area",
+    "avg_rent_psf": 68,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "finance",
+      "technology",
+      "aerospace"
+    ],
+    "unemployment_rate": 0.025
+  },
+  {
+    "city_id": "PTG",
+    "name": "New Lavada, ID",
+    "state": "ID",
+    "population": 358690,
+    "median_income": 82210,
+    "median_age": 41,
+    "growth_rate": -0.012,
+    "existing_locations": 0,
+    "region": "Northeast",
+    "metro_area": "New Lavada Metro Area",
+    "avg_rent_psf": 39,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "biotech",
+      "agriculture",
+      "aerospace"
+    ],
+    "unemployment_rate": 0.034
+  },
+  {
+    "city_id": "XRP",
+    "name": "Windlerchester, HI",
+    "state": "HI",
+    "population": 436561,
+    "median_income": 76597,
+    "median_age": 41,
+    "growth_rate": 0.027,
+    "existing_locations": 5,
+    "region": "Northeast",
+    "metro_area": "Windlerchester Metro Area",
+    "avg_rent_psf": 65,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "finance",
+      "education",
+      "retail"
+    ],
+    "unemployment_rate": 0.057
+  },
+  {
+    "city_id": "DZZ",
+    "name": "Port Wilton, UT",
+    "state": "UT",
+    "population": 2745738,
+    "median_income": 56949,
+    "median_age": 35,
+    "growth_rate": 0.03,
+    "existing_locations": 5,
+    "region": "Southeast",
+    "metro_area": "Port Wilton Metro Area",
+    "avg_rent_psf": 69,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "biotech",
+      "logistics",
+      "technology"
+    ],
+    "unemployment_rate": 0.075
+  },
+  {
+    "city_id": "KBG",
+    "name": "Feeneyport, SC",
+    "state": "SC",
+    "population": 617078,
+    "median_income": 91934,
+    "median_age": 41,
+    "growth_rate": 0.009,
+    "existing_locations": 0,
+    "region": "Midwest",
+    "metro_area": "Feeneyport Metro Area",
+    "avg_rent_psf": 32,
+    "restaurant_density": "high",
+    "major_industries": [
+      "biotech",
+      "technology",
+      "real_estate"
+    ],
+    "unemployment_rate": 0.057
+  },
+  {
+    "city_id": "EIX",
+    "name": "West Valley City, CT",
+    "state": "CT",
+    "population": 962675,
+    "median_income": 63275,
+    "median_age": 31,
+    "growth_rate": 0.034,
+    "existing_locations": 0,
+    "region": "Southeast",
+    "metro_area": "West Valley City Metro Area",
+    "avg_rent_psf": 64,
+    "restaurant_density": "low",
+    "major_industries": [
+      "aerospace",
+      "consulting",
+      "manufacturing"
+    ],
+    "unemployment_rate": 0.053
+  },
+  {
+    "city_id": "HBQ",
+    "name": "New Francesco, OR",
+    "state": "OR",
+    "population": 883465,
+    "median_income": 94950,
+    "median_age": 34,
+    "growth_rate": 0.042,
+    "existing_locations": 2,
+    "region": "Southeast",
+    "metro_area": "New Francesco Metro Area",
+    "avg_rent_psf": 30,
+    "restaurant_density": "low",
+    "major_industries": [
+      "energy",
+      "agriculture",
+      "finance"
+    ],
+    "unemployment_rate": 0.079
+  },
+  {
+    "city_id": "DJT",
+    "name": "Port Judgebury, MT",
+    "state": "MT",
+    "population": 985457,
+    "median_income": 74037,
+    "median_age": 36,
+    "growth_rate": 0.032,
+    "existing_locations": 0,
+    "region": "Southeast",
+    "metro_area": "Port Judgebury Metro Area",
+    "avg_rent_psf": 40,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "finance",
+      "energy",
+      "logistics"
+    ],
+    "unemployment_rate": 0.044
+  },
+  {
+    "city_id": "VTT",
+    "name": "Scranton, NE",
+    "state": "NE",
+    "population": 610612,
+    "median_income": 74670,
+    "median_age": 31,
+    "growth_rate": 0.002,
+    "existing_locations": 4,
+    "region": "Southeast",
+    "metro_area": "Scranton Metro Area",
+    "avg_rent_psf": 59,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "aerospace",
+      "manufacturing",
+      "retail"
+    ],
+    "unemployment_rate": 0.08
+  },
+  {
+    "city_id": "ECC",
+    "name": "West Jordan, UT",
+    "state": "UT",
+    "population": 798265,
+    "median_income": 83628,
+    "median_age": 36,
+    "growth_rate": 0.026,
+    "existing_locations": 3,
+    "region": "Northeast",
+    "metro_area": "West Jordan Metro Area",
+    "avg_rent_psf": 73,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "agriculture",
+      "finance",
+      "energy"
+    ],
+    "unemployment_rate": 0.076
+  },
+  {
+    "city_id": "OKV",
+    "name": "Tannerfort, CA",
+    "state": "CA",
+    "population": 422665,
+    "median_income": 94059,
+    "median_age": 28,
+    "growth_rate": 0.014,
+    "existing_locations": 2,
+    "region": "Midwest",
+    "metro_area": "Tannerfort Metro Area",
+    "avg_rent_psf": 40,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "energy",
+      "aerospace",
+      "agriculture"
+    ],
+    "unemployment_rate": 0.057
+  },
+  {
+    "city_id": "TAI",
+    "name": "Zemlakborough, PA",
+    "state": "PA",
+    "population": 1004272,
+    "median_income": 52127,
+    "median_age": 36,
+    "growth_rate": -0.011,
+    "existing_locations": 0,
+    "region": "West Coast",
+    "metro_area": "Zemlakborough Metro Area",
+    "avg_rent_psf": 36,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "aerospace",
+      "technology",
+      "agriculture"
+    ],
+    "unemployment_rate": 0.04
+  },
+  {
+    "city_id": "EWI",
+    "name": "Dibbertland, GA",
+    "state": "GA",
+    "population": 1980340,
+    "median_income": 58392,
+    "median_age": 28,
+    "growth_rate": 0.04,
+    "existing_locations": 3,
+    "region": "West Coast",
+    "metro_area": "Dibbertland Metro Area",
+    "avg_rent_psf": 25,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "technology",
+      "healthcare",
+      "education"
+    ],
+    "unemployment_rate": 0.038
+  },
+  {
+    "city_id": "YNZ",
+    "name": "Powlowskifort, MT",
+    "state": "MT",
+    "population": 1807711,
+    "median_income": 80491,
+    "median_age": 35,
+    "growth_rate": 0.05,
+    "existing_locations": 1,
+    "region": "Southeast",
+    "metro_area": "Powlowskifort Metro Area",
+    "avg_rent_psf": 36,
+    "restaurant_density": "medium",
+    "major_industries": [
+      "entertainment",
+      "finance",
+      "retail"
+    ],
+    "unemployment_rate": 0.044
+  },
+  {
+    "city_id": "WNQ",
+    "name": "Blandaberg, LA",
+    "state": "LA",
+    "population": 477559,
+    "median_income": 94337,
+    "median_age": 28,
+    "growth_rate": 0.01,
+    "existing_locations": 5,
+    "region": "West Coast",
+    "metro_area": "Blandaberg Metro Area",
+    "avg_rent_psf": 43,
+    "restaurant_density": "very_high",
+    "major_industries": [
+      "education",
+      "technology",
+      "energy"
+    ],
+    "unemployment_rate": 0.041
+  }
+]

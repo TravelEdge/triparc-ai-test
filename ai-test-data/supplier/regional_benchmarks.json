@@ -1,0 +1,2405 @@
+[
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Electronics Manufacturing",
+    "avg_defect_rate": 0.029,
+    "avg_on_time_delivery": 0.87,
+    "avg_lead_time_days": 41,
+    "avg_labor_cost_hourly_usd": 7.6,
+    "avg_shipping_cost_usd_per_kg": 3.9,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "infrastructure limitations",
+      "customs clearance delays",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "improving infrastructure",
+      "competitive pricing",
+      "strong technical capabilities",
+      "established supply chains"
+    ],
+    "risk_factors": [
+      "currency fluctuation",
+      "political stability concerns",
+      "intellectual property concerns",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Automotive Components",
+    "avg_defect_rate": 0.025,
+    "avg_on_time_delivery": 0.94,
+    "avg_lead_time_days": 28,
+    "avg_labor_cost_hourly_usd": 6.4,
+    "avg_shipping_cost_usd_per_kg": 4.4,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "capacity constraints",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "innovation capability"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "regulatory changes",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Textiles",
+    "avg_defect_rate": 0.044,
+    "avg_on_time_delivery": 0.91,
+    "avg_lead_time_days": 56,
+    "avg_labor_cost_hourly_usd": 6.5,
+    "avg_shipping_cost_usd_per_kg": 2.2,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "documentation accuracy",
+      "language barriers"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "innovation capability",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "supply chain disruptions",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Machinery",
+    "avg_defect_rate": 0.027,
+    "avg_on_time_delivery": 0.94,
+    "avg_lead_time_days": 51,
+    "avg_labor_cost_hourly_usd": 13,
+    "avg_shipping_cost_usd_per_kg": 2.3,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "strong technical capabilities",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Plastics",
+    "avg_defect_rate": 0.036,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 44,
+    "avg_labor_cost_hourly_usd": 9,
+    "avg_shipping_cost_usd_per_kg": 2.2,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "IATF16949",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "capacity constraints",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "skilled workforce",
+      "strong technical capabilities",
+      "competitive pricing",
+      "government support"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "supply chain disruptions",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Metal Fabrication",
+    "avg_defect_rate": 0.035,
+    "avg_on_time_delivery": 0.9,
+    "avg_lead_time_days": 48,
+    "avg_labor_cost_hourly_usd": 8.7,
+    "avg_shipping_cost_usd_per_kg": 4.7,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "language barriers",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "government support"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "intellectual property concerns",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Chemicals",
+    "avg_defect_rate": 0.034,
+    "avg_on_time_delivery": 0.91,
+    "avg_lead_time_days": 28,
+    "avg_labor_cost_hourly_usd": 11.7,
+    "avg_shipping_cost_usd_per_kg": 5,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "language barriers"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "strong technical capabilities",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "talent retention",
+      "natural disasters"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Pharmaceuticals",
+    "avg_defect_rate": 0.027,
+    "avg_on_time_delivery": 0.86,
+    "avg_lead_time_days": 51,
+    "avg_labor_cost_hourly_usd": 9.3,
+    "avg_shipping_cost_usd_per_kg": 2.2,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "IATF16949",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "talent retention",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Food Processing",
+    "avg_defect_rate": 0.034,
+    "avg_on_time_delivery": 0.94,
+    "avg_lead_time_days": 48,
+    "avg_labor_cost_hourly_usd": 14.8,
+    "avg_shipping_cost_usd_per_kg": 3.3,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO13485",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "quality consistency",
+      "shipping delays during monsoon",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "innovation capability",
+      "established supply chains",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "supply chain disruptions",
+      "talent retention",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Vietnam",
+    "industry": "Packaging",
+    "avg_defect_rate": 0.044,
+    "avg_on_time_delivery": 0.93,
+    "avg_lead_time_days": 62,
+    "avg_labor_cost_hourly_usd": 12.2,
+    "avg_shipping_cost_usd_per_kg": 2.2,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "documentation accuracy",
+      "capacity constraints",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "innovation capability",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "intellectual property concerns",
+      "currency fluctuation",
+      "natural disasters"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Electronics Manufacturing",
+    "avg_defect_rate": 0.03,
+    "avg_on_time_delivery": 0.83,
+    "avg_lead_time_days": 59,
+    "avg_labor_cost_hourly_usd": 10.3,
+    "avg_shipping_cost_usd_per_kg": 3.7,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "established supply chains",
+      "competitive pricing",
+      "quality focus"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation",
+      "infrastructure gaps",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Automotive Components",
+    "avg_defect_rate": 0.053,
+    "avg_on_time_delivery": 0.9,
+    "avg_lead_time_days": 64,
+    "avg_labor_cost_hourly_usd": 11.3,
+    "avg_shipping_cost_usd_per_kg": 4.7,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "capacity constraints",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "innovation capability",
+      "competitive pricing",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "currency fluctuation",
+      "intellectual property concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Textiles",
+    "avg_defect_rate": 0.02,
+    "avg_on_time_delivery": 0.88,
+    "avg_lead_time_days": 65,
+    "avg_labor_cost_hourly_usd": 13,
+    "avg_shipping_cost_usd_per_kg": 2.9,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "documentation accuracy",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "government support",
+      "skilled workforce",
+      "quality focus",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Machinery",
+    "avg_defect_rate": 0.04,
+    "avg_on_time_delivery": 0.82,
+    "avg_lead_time_days": 57,
+    "avg_labor_cost_hourly_usd": 7.7,
+    "avg_shipping_cost_usd_per_kg": 5,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO14001",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "language barriers",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "improving infrastructure",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "currency fluctuation",
+      "talent retention",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Plastics",
+    "avg_defect_rate": 0.047,
+    "avg_on_time_delivery": 0.85,
+    "avg_lead_time_days": 36,
+    "avg_labor_cost_hourly_usd": 7.8,
+    "avg_shipping_cost_usd_per_kg": 2.1,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "customs clearance delays"
+    ],
+    "success_factors": [
+      "competitive pricing",
+      "quality focus",
+      "strong technical capabilities",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "talent retention"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Metal Fabrication",
+    "avg_defect_rate": 0.055,
+    "avg_on_time_delivery": 0.87,
+    "avg_lead_time_days": 40,
+    "avg_labor_cost_hourly_usd": 3.4,
+    "avg_shipping_cost_usd_per_kg": 3.9,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "currency fluctuation impact",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "competitive pricing",
+      "quality focus",
+      "skilled workforce",
+      "strong technical capabilities"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Chemicals",
+    "avg_defect_rate": 0.033,
+    "avg_on_time_delivery": 0.85,
+    "avg_lead_time_days": 34,
+    "avg_labor_cost_hourly_usd": 8.5,
+    "avg_shipping_cost_usd_per_kg": 4.6,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "IATF16949",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "natural disasters",
+      "intellectual property concerns",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Pharmaceuticals",
+    "avg_defect_rate": 0.029,
+    "avg_on_time_delivery": 0.93,
+    "avg_lead_time_days": 39,
+    "avg_labor_cost_hourly_usd": 6.6,
+    "avg_shipping_cost_usd_per_kg": 1.5,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO14001",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "infrastructure limitations",
+      "currency fluctuation impact",
+      "language barriers"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "government support"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation",
+      "supply chain disruptions",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Food Processing",
+    "avg_defect_rate": 0.026,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 32,
+    "avg_labor_cost_hourly_usd": 9.7,
+    "avg_shipping_cost_usd_per_kg": 2.4,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "language barriers",
+      "currency fluctuation impact",
+      "quality consistency",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "competitive pricing",
+      "quality focus",
+      "strong technical capabilities",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "natural disasters",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Thailand",
+    "industry": "Packaging",
+    "avg_defect_rate": 0.036,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 58,
+    "avg_labor_cost_hourly_usd": 4,
+    "avg_shipping_cost_usd_per_kg": 2.7,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "capacity constraints",
+      "quality consistency",
+      "customs clearance delays",
+      "language barriers"
+    ],
+    "success_factors": [
+      "competitive pricing",
+      "strong technical capabilities",
+      "innovation capability",
+      "established supply chains"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Electronics Manufacturing",
+    "avg_defect_rate": 0.021,
+    "avg_on_time_delivery": 0.95,
+    "avg_lead_time_days": 61,
+    "avg_labor_cost_hourly_usd": 10.6,
+    "avg_shipping_cost_usd_per_kg": 3.3,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "customs clearance delays",
+      "language barriers"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "talent retention",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Automotive Components",
+    "avg_defect_rate": 0.036,
+    "avg_on_time_delivery": 0.93,
+    "avg_lead_time_days": 61,
+    "avg_labor_cost_hourly_usd": 10.6,
+    "avg_shipping_cost_usd_per_kg": 4.8,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "IATF16949",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "capacity constraints",
+      "shipping delays during monsoon",
+      "quality consistency",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "talent retention",
+      "political stability concerns",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Textiles",
+    "avg_defect_rate": 0.048,
+    "avg_on_time_delivery": 0.94,
+    "avg_lead_time_days": 61,
+    "avg_labor_cost_hourly_usd": 4.6,
+    "avg_shipping_cost_usd_per_kg": 3.3,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "capacity constraints",
+      "customs clearance delays",
+      "language barriers"
+    ],
+    "success_factors": [
+      "improving infrastructure",
+      "quality focus"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "infrastructure gaps",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Machinery",
+    "avg_defect_rate": 0.021,
+    "avg_on_time_delivery": 0.85,
+    "avg_lead_time_days": 46,
+    "avg_labor_cost_hourly_usd": 14.3,
+    "avg_shipping_cost_usd_per_kg": 3.8,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "capacity constraints",
+      "currency fluctuation impact",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "quality focus"
+    ],
+    "risk_factors": [
+      "talent retention",
+      "intellectual property concerns",
+      "infrastructure gaps",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Plastics",
+    "avg_defect_rate": 0.036,
+    "avg_on_time_delivery": 0.89,
+    "avg_lead_time_days": 64,
+    "avg_labor_cost_hourly_usd": 9.9,
+    "avg_shipping_cost_usd_per_kg": 2.3,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "IATF16949",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "documentation accuracy",
+      "customs clearance delays",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "government support"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "intellectual property concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Metal Fabrication",
+    "avg_defect_rate": 0.035,
+    "avg_on_time_delivery": 0.93,
+    "avg_lead_time_days": 34,
+    "avg_labor_cost_hourly_usd": 14.4,
+    "avg_shipping_cost_usd_per_kg": 4.9,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "documentation accuracy",
+      "capacity constraints",
+      "language barriers"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "infrastructure gaps",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Chemicals",
+    "avg_defect_rate": 0.042,
+    "avg_on_time_delivery": 0.9,
+    "avg_lead_time_days": 62,
+    "avg_labor_cost_hourly_usd": 14,
+    "avg_shipping_cost_usd_per_kg": 2.6,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "currency fluctuation impact",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "intellectual property concerns",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Pharmaceuticals",
+    "avg_defect_rate": 0.024,
+    "avg_on_time_delivery": 0.91,
+    "avg_lead_time_days": 28,
+    "avg_labor_cost_hourly_usd": 8.5,
+    "avg_shipping_cost_usd_per_kg": 2.8,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "infrastructure limitations",
+      "documentation accuracy",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "government support",
+      "established supply chains",
+      "strong technical capabilities"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "supply chain disruptions",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Food Processing",
+    "avg_defect_rate": 0.032,
+    "avg_on_time_delivery": 0.87,
+    "avg_lead_time_days": 31,
+    "avg_labor_cost_hourly_usd": 13.2,
+    "avg_shipping_cost_usd_per_kg": 4.3,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "language barriers",
+      "capacity constraints",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "skilled workforce",
+      "competitive pricing",
+      "quality focus",
+      "government support"
+    ],
+    "risk_factors": [
+      "supply chain disruptions",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Malaysia",
+    "industry": "Packaging",
+    "avg_defect_rate": 0.024,
+    "avg_on_time_delivery": 0.87,
+    "avg_lead_time_days": 57,
+    "avg_labor_cost_hourly_usd": 9.1,
+    "avg_shipping_cost_usd_per_kg": 1.8,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "currency fluctuation impact",
+      "documentation accuracy",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "strong technical capabilities",
+      "quality focus",
+      "innovation capability"
+    ],
+    "risk_factors": [
+      "natural disasters",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Electronics Manufacturing",
+    "avg_defect_rate": 0.041,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 56,
+    "avg_labor_cost_hourly_usd": 10.9,
+    "avg_shipping_cost_usd_per_kg": 2,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "skilled workforce",
+      "government support"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "political stability concerns",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Automotive Components",
+    "avg_defect_rate": 0.034,
+    "avg_on_time_delivery": 0.86,
+    "avg_lead_time_days": 62,
+    "avg_labor_cost_hourly_usd": 7.4,
+    "avg_shipping_cost_usd_per_kg": 4.6,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "language barriers",
+      "documentation accuracy",
+      "customs clearance delays",
+      "capacity constraints"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "government support"
+    ],
+    "risk_factors": [
+      "supply chain disruptions",
+      "currency fluctuation",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Textiles",
+    "avg_defect_rate": 0.036,
+    "avg_on_time_delivery": 0.9,
+    "avg_lead_time_days": 44,
+    "avg_labor_cost_hourly_usd": 7,
+    "avg_shipping_cost_usd_per_kg": 2.2,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "infrastructure limitations",
+      "shipping delays during monsoon",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "improving infrastructure",
+      "quality focus",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Machinery",
+    "avg_defect_rate": 0.026,
+    "avg_on_time_delivery": 0.94,
+    "avg_lead_time_days": 63,
+    "avg_labor_cost_hourly_usd": 8,
+    "avg_shipping_cost_usd_per_kg": 2.4,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "shipping delays during monsoon",
+      "currency fluctuation impact",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "quality focus",
+      "innovation capability",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "natural disasters",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Plastics",
+    "avg_defect_rate": 0.02,
+    "avg_on_time_delivery": 0.87,
+    "avg_lead_time_days": 54,
+    "avg_labor_cost_hourly_usd": 8.5,
+    "avg_shipping_cost_usd_per_kg": 3.1,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "capacity constraints",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "strong technical capabilities"
+    ],
+    "risk_factors": [
+      "supply chain disruptions",
+      "currency fluctuation",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Metal Fabrication",
+    "avg_defect_rate": 0.044,
+    "avg_on_time_delivery": 0.91,
+    "avg_lead_time_days": 30,
+    "avg_labor_cost_hourly_usd": 2.6,
+    "avg_shipping_cost_usd_per_kg": 2.2,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "infrastructure limitations",
+      "capacity constraints"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "competitive pricing",
+      "strong technical capabilities",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "intellectual property concerns",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Chemicals",
+    "avg_defect_rate": 0.04,
+    "avg_on_time_delivery": 0.91,
+    "avg_lead_time_days": 44,
+    "avg_labor_cost_hourly_usd": 5.5,
+    "avg_shipping_cost_usd_per_kg": 2.3,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO14001",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "infrastructure limitations",
+      "capacity constraints"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "infrastructure gaps",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Pharmaceuticals",
+    "avg_defect_rate": 0.03,
+    "avg_on_time_delivery": 0.87,
+    "avg_lead_time_days": 49,
+    "avg_labor_cost_hourly_usd": 12.5,
+    "avg_shipping_cost_usd_per_kg": 5,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "currency fluctuation impact",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "quality focus"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "political stability concerns",
+      "infrastructure gaps",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Food Processing",
+    "avg_defect_rate": 0.02,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 32,
+    "avg_labor_cost_hourly_usd": 11.1,
+    "avg_shipping_cost_usd_per_kg": 4.2,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "language barriers",
+      "currency fluctuation impact",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "improving infrastructure",
+      "competitive pricing",
+      "strong technical capabilities",
+      "innovation capability"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "infrastructure gaps",
+      "natural disasters"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Indonesia",
+    "industry": "Packaging",
+    "avg_defect_rate": 0.039,
+    "avg_on_time_delivery": 0.91,
+    "avg_lead_time_days": 44,
+    "avg_labor_cost_hourly_usd": 7.2,
+    "avg_shipping_cost_usd_per_kg": 1.9,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "customs clearance delays",
+      "currency fluctuation impact",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "improving infrastructure",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "supply chain disruptions",
+      "political stability concerns",
+      "talent retention"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Electronics Manufacturing",
+    "avg_defect_rate": 0.041,
+    "avg_on_time_delivery": 0.85,
+    "avg_lead_time_days": 55,
+    "avg_labor_cost_hourly_usd": 14.5,
+    "avg_shipping_cost_usd_per_kg": 3.6,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO13485",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "capacity constraints",
+      "currency fluctuation impact",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing",
+      "innovation capability"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "currency fluctuation",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Automotive Components",
+    "avg_defect_rate": 0.034,
+    "avg_on_time_delivery": 0.95,
+    "avg_lead_time_days": 53,
+    "avg_labor_cost_hourly_usd": 7.2,
+    "avg_shipping_cost_usd_per_kg": 3.6,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "government support",
+      "quality focus",
+      "improving infrastructure",
+      "established supply chains"
+    ],
+    "risk_factors": [
+      "currency fluctuation",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Textiles",
+    "avg_defect_rate": 0.051,
+    "avg_on_time_delivery": 0.95,
+    "avg_lead_time_days": 54,
+    "avg_labor_cost_hourly_usd": 7.3,
+    "avg_shipping_cost_usd_per_kg": 2.3,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "government support",
+      "quality focus",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "regulatory changes",
+      "political stability concerns",
+      "intellectual property concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Machinery",
+    "avg_defect_rate": 0.046,
+    "avg_on_time_delivery": 0.84,
+    "avg_lead_time_days": 39,
+    "avg_labor_cost_hourly_usd": 6.8,
+    "avg_shipping_cost_usd_per_kg": 3.8,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "customs clearance delays",
+      "language barriers"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing",
+      "innovation capability"
+    ],
+    "risk_factors": [
+      "talent retention",
+      "political stability concerns",
+      "currency fluctuation",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Plastics",
+    "avg_defect_rate": 0.024,
+    "avg_on_time_delivery": 0.82,
+    "avg_lead_time_days": 47,
+    "avg_labor_cost_hourly_usd": 13.5,
+    "avg_shipping_cost_usd_per_kg": 5,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "capacity constraints",
+      "documentation accuracy",
+      "customs clearance delays",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "government support",
+      "strong technical capabilities",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "talent retention",
+      "political stability concerns",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Metal Fabrication",
+    "avg_defect_rate": 0.055,
+    "avg_on_time_delivery": 0.89,
+    "avg_lead_time_days": 31,
+    "avg_labor_cost_hourly_usd": 8.4,
+    "avg_shipping_cost_usd_per_kg": 2.1,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "infrastructure limitations",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "quality focus",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation",
+      "intellectual property concerns",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Chemicals",
+    "avg_defect_rate": 0.046,
+    "avg_on_time_delivery": 0.89,
+    "avg_lead_time_days": 52,
+    "avg_labor_cost_hourly_usd": 14.1,
+    "avg_shipping_cost_usd_per_kg": 3.5,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "improving infrastructure",
+      "competitive pricing",
+      "innovation capability",
+      "established supply chains"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "natural disasters"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Pharmaceuticals",
+    "avg_defect_rate": 0.035,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 37,
+    "avg_labor_cost_hourly_usd": 3.1,
+    "avg_shipping_cost_usd_per_kg": 3.9,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "innovation capability",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "supply chain disruptions",
+      "currency fluctuation",
+      "natural disasters",
+      "intellectual property concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Food Processing",
+    "avg_defect_rate": 0.037,
+    "avg_on_time_delivery": 0.91,
+    "avg_lead_time_days": 34,
+    "avg_labor_cost_hourly_usd": 4.9,
+    "avg_shipping_cost_usd_per_kg": 3.5,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "documentation accuracy",
+      "language barriers"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "established supply chains",
+      "strong technical capabilities"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "supply chain disruptions",
+      "currency fluctuation",
+      "intellectual property concerns"
+    ]
+  },
+  {
+    "region": "Southeast Asia",
+    "country": "Philippines",
+    "industry": "Packaging",
+    "avg_defect_rate": 0.029,
+    "avg_on_time_delivery": 0.87,
+    "avg_lead_time_days": 44,
+    "avg_labor_cost_hourly_usd": 13.1,
+    "avg_shipping_cost_usd_per_kg": 1.7,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "innovation capability"
+    ],
+    "risk_factors": [
+      "natural disasters",
+      "political stability concerns",
+      "intellectual property concerns"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Electronics Manufacturing",
+    "avg_defect_rate": 0.028,
+    "avg_on_time_delivery": 0.84,
+    "avg_lead_time_days": 47,
+    "avg_labor_cost_hourly_usd": 7.5,
+    "avg_shipping_cost_usd_per_kg": 4.9,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "infrastructure limitations",
+      "customs clearance delays",
+      "capacity constraints"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing",
+      "improving infrastructure",
+      "government support"
+    ],
+    "risk_factors": [
+      "currency fluctuation",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Automotive Components",
+    "avg_defect_rate": 0.027,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 52,
+    "avg_labor_cost_hourly_usd": 10.9,
+    "avg_shipping_cost_usd_per_kg": 5,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "documentation accuracy",
+      "customs clearance delays",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "government support",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "natural disasters",
+      "supply chain disruptions",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Textiles",
+    "avg_defect_rate": 0.035,
+    "avg_on_time_delivery": 0.85,
+    "avg_lead_time_days": 38,
+    "avg_labor_cost_hourly_usd": 8.5,
+    "avg_shipping_cost_usd_per_kg": 4,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "currency fluctuation impact",
+      "infrastructure limitations",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "skilled workforce",
+      "established supply chains",
+      "innovation capability"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Machinery",
+    "avg_defect_rate": 0.051,
+    "avg_on_time_delivery": 0.88,
+    "avg_lead_time_days": 34,
+    "avg_labor_cost_hourly_usd": 3.9,
+    "avg_shipping_cost_usd_per_kg": 2.2,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "language barriers",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "quality focus",
+      "established supply chains"
+    ],
+    "risk_factors": [
+      "natural disasters",
+      "intellectual property concerns",
+      "talent retention",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Plastics",
+    "avg_defect_rate": 0.023,
+    "avg_on_time_delivery": 0.95,
+    "avg_lead_time_days": 62,
+    "avg_labor_cost_hourly_usd": 13.9,
+    "avg_shipping_cost_usd_per_kg": 2.5,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO13485",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "skilled workforce",
+      "strong technical capabilities",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation",
+      "talent retention",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Metal Fabrication",
+    "avg_defect_rate": 0.039,
+    "avg_on_time_delivery": 0.93,
+    "avg_lead_time_days": 51,
+    "avg_labor_cost_hourly_usd": 3.2,
+    "avg_shipping_cost_usd_per_kg": 4.9,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "documentation accuracy",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "skilled workforce",
+      "improving infrastructure",
+      "competitive pricing",
+      "innovation capability"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "political stability concerns",
+      "natural disasters"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Chemicals",
+    "avg_defect_rate": 0.03,
+    "avg_on_time_delivery": 0.88,
+    "avg_lead_time_days": 54,
+    "avg_labor_cost_hourly_usd": 10.3,
+    "avg_shipping_cost_usd_per_kg": 4.6,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "IATF16949",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "quality consistency",
+      "infrastructure limitations",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "competitive pricing",
+      "established supply chains",
+      "innovation capability",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "natural disasters",
+      "talent retention"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Pharmaceuticals",
+    "avg_defect_rate": 0.027,
+    "avg_on_time_delivery": 0.85,
+    "avg_lead_time_days": 56,
+    "avg_labor_cost_hourly_usd": 6.9,
+    "avg_shipping_cost_usd_per_kg": 1.8,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "language barriers",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "competitive pricing",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "supply chain disruptions",
+      "natural disasters",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Food Processing",
+    "avg_defect_rate": 0.053,
+    "avg_on_time_delivery": 0.82,
+    "avg_lead_time_days": 50,
+    "avg_labor_cost_hourly_usd": 3.9,
+    "avg_shipping_cost_usd_per_kg": 1.7,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "IATF16949",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "customs clearance delays",
+      "capacity constraints"
+    ],
+    "success_factors": [
+      "government support",
+      "competitive pricing",
+      "strong technical capabilities"
+    ],
+    "risk_factors": [
+      "natural disasters",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "China",
+    "industry": "Packaging",
+    "avg_defect_rate": 0.024,
+    "avg_on_time_delivery": 0.86,
+    "avg_lead_time_days": 49,
+    "avg_labor_cost_hourly_usd": 9.3,
+    "avg_shipping_cost_usd_per_kg": 2.3,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "currency fluctuation impact",
+      "customs clearance delays",
+      "language barriers"
+    ],
+    "success_factors": [
+      "skilled workforce",
+      "established supply chains",
+      "strong technical capabilities",
+      "government support"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "supply chain disruptions",
+      "intellectual property concerns",
+      "talent retention"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Electronics Manufacturing",
+    "avg_defect_rate": 0.039,
+    "avg_on_time_delivery": 0.95,
+    "avg_lead_time_days": 46,
+    "avg_labor_cost_hourly_usd": 8.2,
+    "avg_shipping_cost_usd_per_kg": 2.8,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "currency fluctuation impact",
+      "documentation accuracy",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "skilled workforce",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "supply chain disruptions",
+      "currency fluctuation",
+      "natural disasters"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Automotive Components",
+    "avg_defect_rate": 0.048,
+    "avg_on_time_delivery": 0.86,
+    "avg_lead_time_days": 52,
+    "avg_labor_cost_hourly_usd": 2.2,
+    "avg_shipping_cost_usd_per_kg": 2.4,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO14001",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "supply chain disruptions",
+      "currency fluctuation",
+      "talent retention",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Textiles",
+    "avg_defect_rate": 0.032,
+    "avg_on_time_delivery": 0.83,
+    "avg_lead_time_days": 46,
+    "avg_labor_cost_hourly_usd": 9,
+    "avg_shipping_cost_usd_per_kg": 4.7,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "documentation accuracy",
+      "customs clearance delays",
+      "infrastructure limitations"
+    ],
+    "success_factors": [
+      "improving infrastructure",
+      "quality focus",
+      "government support"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Machinery",
+    "avg_defect_rate": 0.052,
+    "avg_on_time_delivery": 0.91,
+    "avg_lead_time_days": 62,
+    "avg_labor_cost_hourly_usd": 5.5,
+    "avg_shipping_cost_usd_per_kg": 1.6,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO14001",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "quality focus",
+      "strong technical capabilities",
+      "competitive pricing",
+      "government support"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "intellectual property concerns",
+      "natural disasters"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Plastics",
+    "avg_defect_rate": 0.043,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 32,
+    "avg_labor_cost_hourly_usd": 11.8,
+    "avg_shipping_cost_usd_per_kg": 3.9,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "IATF16949",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "natural disasters",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Metal Fabrication",
+    "avg_defect_rate": 0.045,
+    "avg_on_time_delivery": 0.93,
+    "avg_lead_time_days": 49,
+    "avg_labor_cost_hourly_usd": 5.8,
+    "avg_shipping_cost_usd_per_kg": 4,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "documentation accuracy",
+      "language barriers"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing",
+      "established supply chains"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "talent retention"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Chemicals",
+    "avg_defect_rate": 0.022,
+    "avg_on_time_delivery": 0.88,
+    "avg_lead_time_days": 62,
+    "avg_labor_cost_hourly_usd": 9.1,
+    "avg_shipping_cost_usd_per_kg": 1.7,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "documentation accuracy",
+      "language barriers",
+      "customs clearance delays"
+    ],
+    "success_factors": [
+      "skilled workforce",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Pharmaceuticals",
+    "avg_defect_rate": 0.051,
+    "avg_on_time_delivery": 0.86,
+    "avg_lead_time_days": 40,
+    "avg_labor_cost_hourly_usd": 2.6,
+    "avg_shipping_cost_usd_per_kg": 2.7,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "documentation accuracy",
+      "language barriers"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "political stability concerns",
+      "talent retention"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Food Processing",
+    "avg_defect_rate": 0.046,
+    "avg_on_time_delivery": 0.84,
+    "avg_lead_time_days": 44,
+    "avg_labor_cost_hourly_usd": 13,
+    "avg_shipping_cost_usd_per_kg": 2.6,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "customs clearance delays",
+      "quality consistency",
+      "language barriers"
+    ],
+    "success_factors": [
+      "quality focus",
+      "established supply chains"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "regulatory changes",
+      "currency fluctuation"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "Taiwan",
+    "industry": "Packaging",
+    "avg_defect_rate": 0.048,
+    "avg_on_time_delivery": 0.92,
+    "avg_lead_time_days": 65,
+    "avg_labor_cost_hourly_usd": 4.7,
+    "avg_shipping_cost_usd_per_kg": 2.5,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "shipping delays during monsoon",
+      "capacity constraints",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "quality focus",
+      "established supply chains"
+    ],
+    "risk_factors": [
+      "supply chain disruptions",
+      "natural disasters",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Electronics Manufacturing",
+    "avg_defect_rate": 0.032,
+    "avg_on_time_delivery": 0.83,
+    "avg_lead_time_days": 48,
+    "avg_labor_cost_hourly_usd": 14.2,
+    "avg_shipping_cost_usd_per_kg": 4.1,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "language barriers",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "quality focus",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "regulatory changes",
+      "talent retention"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Automotive Components",
+    "avg_defect_rate": 0.024,
+    "avg_on_time_delivery": 0.9,
+    "avg_lead_time_days": 42,
+    "avg_labor_cost_hourly_usd": 11.6,
+    "avg_shipping_cost_usd_per_kg": 4.4,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO13485",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "infrastructure limitations",
+      "customs clearance delays",
+      "capacity constraints",
+      "currency fluctuation impact"
+    ],
+    "success_factors": [
+      "skilled workforce",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "political stability concerns"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Textiles",
+    "avg_defect_rate": 0.053,
+    "avg_on_time_delivery": 0.88,
+    "avg_lead_time_days": 34,
+    "avg_labor_cost_hourly_usd": 2.2,
+    "avg_shipping_cost_usd_per_kg": 4.6,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO14001",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "capacity constraints",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "skilled workforce",
+      "government support",
+      "quality focus"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "currency fluctuation",
+      "intellectual property concerns",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Machinery",
+    "avg_defect_rate": 0.053,
+    "avg_on_time_delivery": 0.93,
+    "avg_lead_time_days": 30,
+    "avg_labor_cost_hourly_usd": 3.8,
+    "avg_shipping_cost_usd_per_kg": 4.9,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO9001",
+      "ISO13485"
+    ],
+    "common_issues": [
+      "language barriers",
+      "infrastructure limitations",
+      "shipping delays during monsoon",
+      "capacity constraints"
+    ],
+    "success_factors": [
+      "competitive pricing",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "regulatory changes",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Plastics",
+    "avg_defect_rate": 0.023,
+    "avg_on_time_delivery": 0.82,
+    "avg_lead_time_days": 49,
+    "avg_labor_cost_hourly_usd": 14.2,
+    "avg_shipping_cost_usd_per_kg": 2.5,
+    "typical_payment_terms": "Net 60",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "quality consistency",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "intellectual property concerns",
+      "currency fluctuation",
+      "supply chain disruptions"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Metal Fabrication",
+    "avg_defect_rate": 0.023,
+    "avg_on_time_delivery": 0.85,
+    "avg_lead_time_days": 31,
+    "avg_labor_cost_hourly_usd": 5.6,
+    "avg_shipping_cost_usd_per_kg": 4.7,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "infrastructure limitations",
+      "capacity constraints",
+      "quality consistency"
+    ],
+    "success_factors": [
+      "improving infrastructure",
+      "competitive pricing",
+      "skilled workforce",
+      "strong technical capabilities"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "talent retention"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Chemicals",
+    "avg_defect_rate": 0.055,
+    "avg_on_time_delivery": 0.93,
+    "avg_lead_time_days": 55,
+    "avg_labor_cost_hourly_usd": 13.6,
+    "avg_shipping_cost_usd_per_kg": 4.7,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "documentation accuracy",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "strong technical capabilities",
+      "competitive pricing",
+      "improving infrastructure",
+      "skilled workforce"
+    ],
+    "risk_factors": [
+      "intellectual property concerns",
+      "supply chain disruptions",
+      "regulatory changes",
+      "infrastructure gaps"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Pharmaceuticals",
+    "avg_defect_rate": 0.022,
+    "avg_on_time_delivery": 0.83,
+    "avg_lead_time_days": 51,
+    "avg_labor_cost_hourly_usd": 6.3,
+    "avg_shipping_cost_usd_per_kg": 2.9,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "common_issues": [
+      "customs clearance delays",
+      "shipping delays during monsoon"
+    ],
+    "success_factors": [
+      "innovation capability",
+      "government support"
+    ],
+    "risk_factors": [
+      "infrastructure gaps",
+      "regulatory changes"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Food Processing",
+    "avg_defect_rate": 0.055,
+    "avg_on_time_delivery": 0.95,
+    "avg_lead_time_days": 28,
+    "avg_labor_cost_hourly_usd": 6.6,
+    "avg_shipping_cost_usd_per_kg": 4.2,
+    "typical_payment_terms": "Net 30",
+    "common_certifications": [
+      "ISO14001",
+      "ISO9001"
+    ],
+    "common_issues": [
+      "quality consistency",
+      "currency fluctuation impact",
+      "language barriers",
+      "documentation accuracy"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "government support",
+      "quality focus",
+      "improving infrastructure"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "talent retention",
+      "natural disasters"
+    ]
+  },
+  {
+    "region": "East Asia",
+    "country": "South Korea",
+    "industry": "Packaging",
+    "avg_defect_rate": 0.024,
+    "avg_on_time_delivery": 0.86,
+    "avg_lead_time_days": 51,
+    "avg_labor_cost_hourly_usd": 3.6,
+    "avg_shipping_cost_usd_per_kg": 3.2,
+    "typical_payment_terms": "Net 45",
+    "common_certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "common_issues": [
+      "currency fluctuation impact",
+      "quality consistency",
+      "capacity constraints"
+    ],
+    "success_factors": [
+      "established supply chains",
+      "improving infrastructure",
+      "quality focus"
+    ],
+    "risk_factors": [
+      "political stability concerns",
+      "talent retention",
+      "currency fluctuation",
+      "infrastructure gaps"
+    ]
+  }
+]

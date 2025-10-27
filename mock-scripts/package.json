@@ -1,0 +1,26 @@
+{
+    "name": "triparc-test-data-generator",
+    "version": "1.0.0",
+    "description": "Data generators for TripArc Senior AI Developer take-home assignments",
+    "type": "module",
+    "scripts": {
+        "generate:restaurant": "node generate-restaurant-data.js",
+        "generate:supplier": "node generate-supplier-data.js",
+        "generate:venue": "node generate-venue-data.js",
+        "generate:all": "npm run generate:restaurant && npm run generate:supplier && npm run generate:venue"
+    },
+    "keywords": [
+        "data-generator",
+        "test-data",
+        "faker"
+    ],
+    "author": "TripArc",
+    "license": "MIT",
+    "dependencies": {
+        "@faker-js/faker": "^9.0.0"
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}

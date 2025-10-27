@@ -1,0 +1,3026 @@
+[
+  {
+    "supplier_id": "SUP-3523",
+    "company_name": "Mayert, Roob and Stracke Ltd",
+    "country": "China",
+    "city": "Shanghai",
+    "years_in_business": 22,
+    "employee_count": 934,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO13485",
+      "ISO9001"
+    ],
+    "annual_capacity": 4300155,
+    "current_utilization": 0.65,
+    "primary_products": [
+      "pcb assembly",
+      "switches",
+      "fasteners",
+      "cables"
+    ],
+    "secondary_products": [
+      "power supplies",
+      "housings",
+      "fasteners"
+    ],
+    "lead_time_days": 26,
+    "min_order_quantity": 2117,
+    "annual_revenue_usd": 15202753,
+    "credit_rating": "BB+",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "CNY",
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-4231",
+    "company_name": "Predovic - Klein Systems",
+    "country": "China",
+    "city": "Shenzhen",
+    "years_in_business": 13,
+    "employee_count": 289,
+    "ownership": "family_owned",
+    "certifications": [
+      "OHSAS18001",
+      "ISO13485",
+      "ISO9001",
+      "IATF16949"
+    ],
+    "annual_capacity": 4569784,
+    "current_utilization": 0.81,
+    "primary_products": [
+      "sensors",
+      "cables",
+      "motors",
+      "displays"
+    ],
+    "secondary_products": [
+      "power supplies"
+    ],
+    "lead_time_days": 72,
+    "min_order_quantity": 1426,
+    "annual_revenue_usd": 36476088,
+    "credit_rating": "AA",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-9413",
+    "company_name": "Kemmer LLC Industries",
+    "country": "Mexico",
+    "city": "Monterrey",
+    "years_in_business": 27,
+    "employee_count": 1447,
+    "ownership": "public",
+    "certifications": [
+      "ISO9001",
+      "ISO13485",
+      "OHSAS18001"
+    ],
+    "annual_capacity": 4384907,
+    "current_utilization": 0.68,
+    "primary_products": [
+      "sensors",
+      "cables",
+      "fasteners",
+      "displays"
+    ],
+    "secondary_products": [
+      "electronic components"
+    ],
+    "lead_time_days": 44,
+    "min_order_quantity": 1777,
+    "annual_revenue_usd": 13328715,
+    "credit_rating": "BBB",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-7151",
+    "company_name": "Jast Inc Ltd",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "years_in_business": 9,
+    "employee_count": 1384,
+    "ownership": "private",
+    "certifications": [
+      "IATF16949"
+    ],
+    "annual_capacity": 4654860,
+    "current_utilization": 0.58,
+    "primary_products": [
+      "electronic components",
+      "pcb assembly",
+      "sensors",
+      "connectors"
+    ],
+    "secondary_products": [
+      "power supplies"
+    ],
+    "lead_time_days": 73,
+    "min_order_quantity": 5134,
+    "annual_revenue_usd": 41870281,
+    "credit_rating": "A-",
+    "payment_terms": "2/10 Net 30",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-9664",
+    "company_name": "Franey and Sons Co.",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "years_in_business": 28,
+    "employee_count": 1463,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "annual_capacity": 3478374,
+    "current_utilization": 0.78,
+    "primary_products": [
+      "power supplies",
+      "connectors",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "housings",
+      "connectors",
+      "motors"
+    ],
+    "lead_time_days": 39,
+    "min_order_quantity": 8134,
+    "annual_revenue_usd": 45283483,
+    "credit_rating": "A-",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "USD",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-7480",
+    "company_name": "Thiel, Rutherford and Mosciski Ltd",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "years_in_business": 30,
+    "employee_count": 554,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "OHSAS18001",
+      "ISO9001",
+      "ISO14001"
+    ],
+    "annual_capacity": 860483,
+    "current_utilization": 0.6,
+    "primary_products": [
+      "cables",
+      "electronic components",
+      "pcb assembly",
+      "housings"
+    ],
+    "secondary_products": [
+      "connectors",
+      "electronic components"
+    ],
+    "lead_time_days": 43,
+    "min_order_quantity": 9890,
+    "annual_revenue_usd": 5415594,
+    "credit_rating": "A",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-3583",
+    "company_name": "Skiles - Morissette Manufacturing",
+    "country": "Taiwan",
+    "city": "Taipei",
+    "years_in_business": 23,
+    "employee_count": 991,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO27001",
+      "ISO9001",
+      "OHSAS18001"
+    ],
+    "annual_capacity": 3025036,
+    "current_utilization": 0.69,
+    "primary_products": [
+      "pcb assembly",
+      "cables",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "fasteners",
+      "electronic components"
+    ],
+    "lead_time_days": 24,
+    "min_order_quantity": 8302,
+    "annual_revenue_usd": 15045596,
+    "credit_rating": "BBB-",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-8231",
+    "company_name": "Dach - Bauch Corp",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "years_in_business": 22,
+    "employee_count": 1484,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO27001"
+    ],
+    "annual_capacity": 3179513,
+    "current_utilization": 0.79,
+    "primary_products": [
+      "power supplies",
+      "housings",
+      "electronic components",
+      "switches"
+    ],
+    "secondary_products": [
+      "pcb assembly"
+    ],
+    "lead_time_days": 55,
+    "min_order_quantity": 6988,
+    "annual_revenue_usd": 43785782,
+    "credit_rating": "BB",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-3972",
+    "company_name": "Brown Inc Manufacturing",
+    "country": "China",
+    "city": "Shenzhen",
+    "years_in_business": 10,
+    "employee_count": 591,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "IATF16949",
+      "OHSAS18001"
+    ],
+    "annual_capacity": 4318460,
+    "current_utilization": 0.64,
+    "primary_products": [
+      "switches",
+      "fasteners",
+      "sensors"
+    ],
+    "secondary_products": [
+      "pcb assembly",
+      "electronic components",
+      "power supplies"
+    ],
+    "lead_time_days": 30,
+    "min_order_quantity": 6891,
+    "annual_revenue_usd": 22797896,
+    "credit_rating": "AAA",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-5972",
+    "company_name": "Franecki - Rogahn Ltd",
+    "country": "China",
+    "city": "Shenzhen",
+    "years_in_business": 6,
+    "employee_count": 1361,
+    "ownership": "private",
+    "certifications": [
+      "OHSAS18001",
+      "ISO13485",
+      "IATF16949"
+    ],
+    "annual_capacity": 2971898,
+    "current_utilization": 0.65,
+    "primary_products": [
+      "switches",
+      "sensors"
+    ],
+    "secondary_products": [
+      "housings"
+    ],
+    "lead_time_days": 24,
+    "min_order_quantity": 6869,
+    "annual_revenue_usd": 49678550,
+    "credit_rating": "BBB-",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-6491",
+    "company_name": "Gleason - Corkery Manufacturing",
+    "country": "China",
+    "city": "Shanghai",
+    "years_in_business": 22,
+    "employee_count": 1086,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO13485",
+      "ISO9001"
+    ],
+    "annual_capacity": 3145974,
+    "current_utilization": 0.57,
+    "primary_products": [
+      "power supplies",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "pcb assembly"
+    ],
+    "lead_time_days": 26,
+    "min_order_quantity": 4024,
+    "annual_revenue_usd": 20267679,
+    "credit_rating": "B",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "CNY",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-1944",
+    "company_name": "Rice - Leffler Co.",
+    "country": "India",
+    "city": "Mumbai",
+    "years_in_business": 24,
+    "employee_count": 635,
+    "ownership": "public",
+    "certifications": [
+      "ISO9001"
+    ],
+    "annual_capacity": 1355964,
+    "current_utilization": 0.62,
+    "primary_products": [
+      "connectors",
+      "power supplies",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "displays",
+      "connectors"
+    ],
+    "lead_time_days": 27,
+    "min_order_quantity": 7733,
+    "annual_revenue_usd": 5498611,
+    "credit_rating": "A",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Hindi"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-7656",
+    "company_name": "Schiller and Sons Corp",
+    "country": "Taiwan",
+    "city": "Taichung",
+    "years_in_business": 15,
+    "employee_count": 719,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO13485"
+    ],
+    "annual_capacity": 2038000,
+    "current_utilization": 0.74,
+    "primary_products": [
+      "sensors",
+      "switches"
+    ],
+    "secondary_products": [
+      "motors",
+      "electronic components",
+      "fasteners"
+    ],
+    "lead_time_days": 70,
+    "min_order_quantity": 3564,
+    "annual_revenue_usd": 10998218,
+    "credit_rating": "AA",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-9224",
+    "company_name": "Schmidt, Corkery and Goyette Co.",
+    "country": "Poland",
+    "city": "Krakow",
+    "years_in_business": 30,
+    "employee_count": 310,
+    "ownership": "private",
+    "certifications": [
+      "OHSAS18001",
+      "ISO9001"
+    ],
+    "annual_capacity": 2326245,
+    "current_utilization": 0.79,
+    "primary_products": [
+      "connectors",
+      "sensors",
+      "motors"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "sensors"
+    ],
+    "lead_time_days": 64,
+    "min_order_quantity": 9472,
+    "annual_revenue_usd": 22398027,
+    "credit_rating": "BB+",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "EUR",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Polish"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-7122",
+    "company_name": "Marvin - Padberg Ltd",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "years_in_business": 26,
+    "employee_count": 548,
+    "ownership": "public",
+    "certifications": [
+      "ISO27001",
+      "OHSAS18001"
+    ],
+    "annual_capacity": 2371248,
+    "current_utilization": 0.69,
+    "primary_products": [
+      "motors",
+      "fasteners",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "connectors",
+      "power supplies"
+    ],
+    "lead_time_days": 31,
+    "min_order_quantity": 7494,
+    "annual_revenue_usd": 44196019,
+    "credit_rating": "A-",
+    "payment_terms": "2/10 Net 30",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-5344",
+    "company_name": "Ward, Cartwright and Senger Corp",
+    "country": "Thailand",
+    "city": "Phuket",
+    "years_in_business": 18,
+    "employee_count": 778,
+    "ownership": "public",
+    "certifications": [
+      "ISO9001",
+      "ISO13485",
+      "OHSAS18001"
+    ],
+    "annual_capacity": 1336452,
+    "current_utilization": 0.77,
+    "primary_products": [
+      "connectors",
+      "power supplies",
+      "fasteners",
+      "sensors"
+    ],
+    "secondary_products": [
+      "power supplies",
+      "electronic components",
+      "fasteners"
+    ],
+    "lead_time_days": 70,
+    "min_order_quantity": 5538,
+    "annual_revenue_usd": 36695128,
+    "credit_rating": "BB+",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-6498",
+    "company_name": "Gusikowski Inc Industries",
+    "country": "Mexico",
+    "city": "Monterrey",
+    "years_in_business": 12,
+    "employee_count": 155,
+    "ownership": "public",
+    "certifications": [
+      "ISO13485"
+    ],
+    "annual_capacity": 1689676,
+    "current_utilization": 0.66,
+    "primary_products": [
+      "power supplies",
+      "cables",
+      "switches"
+    ],
+    "secondary_products": [
+      "electronic components"
+    ],
+    "lead_time_days": 35,
+    "min_order_quantity": 7519,
+    "annual_revenue_usd": 11920488,
+    "credit_rating": "BB",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-6870",
+    "company_name": "Swift - Hodkiewicz Manufacturing",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "years_in_business": 23,
+    "employee_count": 752,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO14001",
+      "ISO13485"
+    ],
+    "annual_capacity": 1424037,
+    "current_utilization": 0.7,
+    "primary_products": [
+      "power supplies",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "switches"
+    ],
+    "lead_time_days": 87,
+    "min_order_quantity": 2127,
+    "annual_revenue_usd": 35949064,
+    "credit_rating": "BBB+",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-4752",
+    "company_name": "Gibson Group Manufacturing",
+    "country": "China",
+    "city": "Beijing",
+    "years_in_business": 17,
+    "employee_count": 55,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO9001",
+      "ISO13485"
+    ],
+    "annual_capacity": 3171797,
+    "current_utilization": 0.58,
+    "primary_products": [
+      "sensors",
+      "power supplies"
+    ],
+    "secondary_products": [
+      "electronic components"
+    ],
+    "lead_time_days": 62,
+    "min_order_quantity": 2187,
+    "annual_revenue_usd": 37161487,
+    "credit_rating": "BBB+",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "GBP",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-4086",
+    "company_name": "Turner, Ullrich and Fritsch Corp",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "years_in_business": 9,
+    "employee_count": 209,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO9001",
+      "ISO13485",
+      "ISO14001"
+    ],
+    "annual_capacity": 579146,
+    "current_utilization": 0.6,
+    "primary_products": [
+      "switches",
+      "motors",
+      "connectors",
+      "sensors"
+    ],
+    "secondary_products": [
+      "motors",
+      "connectors"
+    ],
+    "lead_time_days": 90,
+    "min_order_quantity": 4872,
+    "annual_revenue_usd": 17720635,
+    "credit_rating": "B",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-6108",
+    "company_name": "Ratke - Crist Corp",
+    "country": "Taiwan",
+    "city": "Kaohsiung",
+    "years_in_business": 13,
+    "employee_count": 385,
+    "ownership": "family_owned",
+    "certifications": [
+      "IATF16949",
+      "ISO13485"
+    ],
+    "annual_capacity": 3899249,
+    "current_utilization": 0.83,
+    "primary_products": [
+      "connectors",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "housings",
+      "motors",
+      "displays"
+    ],
+    "lead_time_days": 51,
+    "min_order_quantity": 7842,
+    "annual_revenue_usd": 24964703,
+    "credit_rating": "BBB+",
+    "payment_terms": "2/10 Net 30",
+    "preferred_currencies": [
+      "EUR",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-2686",
+    "company_name": "Conn - DuBuque Ltd",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "years_in_business": 29,
+    "employee_count": 1397,
+    "ownership": "public",
+    "certifications": [
+      "ISO9001"
+    ],
+    "annual_capacity": 3295788,
+    "current_utilization": 0.78,
+    "primary_products": [
+      "power supplies",
+      "pcb assembly",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "pcb assembly"
+    ],
+    "lead_time_days": 83,
+    "min_order_quantity": 1825,
+    "annual_revenue_usd": 44837490,
+    "credit_rating": "BBB",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-1161",
+    "company_name": "Hirthe - Treutel Manufacturing",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "years_in_business": 7,
+    "employee_count": 993,
+    "ownership": "public",
+    "certifications": [
+      "ISO14001"
+    ],
+    "annual_capacity": 3501733,
+    "current_utilization": 0.58,
+    "primary_products": [
+      "cables",
+      "connectors",
+      "power supplies",
+      "sensors"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "cables"
+    ],
+    "lead_time_days": 33,
+    "min_order_quantity": 5966,
+    "annual_revenue_usd": 42337307,
+    "credit_rating": "A",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "JPY",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-6014",
+    "company_name": "Aufderhar, Hilll and Kovacek Co.",
+    "country": "Malaysia",
+    "city": "Penang",
+    "years_in_business": 15,
+    "employee_count": 1468,
+    "ownership": "private",
+    "certifications": [
+      "ISO27001",
+      "ISO13485",
+      "IATF16949"
+    ],
+    "annual_capacity": 1868551,
+    "current_utilization": 0.71,
+    "primary_products": [
+      "motors",
+      "electronic components",
+      "housings"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "fasteners"
+    ],
+    "lead_time_days": 78,
+    "min_order_quantity": 5860,
+    "annual_revenue_usd": 17912216,
+    "credit_rating": "BB+",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-8095",
+    "company_name": "Gibson LLC Ltd",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "years_in_business": 16,
+    "employee_count": 1482,
+    "ownership": "public",
+    "certifications": [
+      "OHSAS18001",
+      "ISO27001",
+      "ISO13485"
+    ],
+    "annual_capacity": 3990888,
+    "current_utilization": 0.62,
+    "primary_products": [
+      "electronic components",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "cables",
+      "switches",
+      "sensors"
+    ],
+    "lead_time_days": 90,
+    "min_order_quantity": 8899,
+    "annual_revenue_usd": 44423262,
+    "credit_rating": "A",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "USD",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-6670",
+    "company_name": "Crona - Feeney Co.",
+    "country": "Taiwan",
+    "city": "Taichung",
+    "years_in_business": 27,
+    "employee_count": 1177,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO13485"
+    ],
+    "annual_capacity": 4967979,
+    "current_utilization": 0.79,
+    "primary_products": [
+      "switches",
+      "motors",
+      "connectors",
+      "sensors"
+    ],
+    "secondary_products": [
+      "motors",
+      "pcb assembly",
+      "displays"
+    ],
+    "lead_time_days": 35,
+    "min_order_quantity": 1963,
+    "annual_revenue_usd": 46870820,
+    "credit_rating": "B",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "GBP",
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-4275",
+    "company_name": "Feil, Kozey and Dickinson Manufacturing",
+    "country": "Thailand",
+    "city": "Phuket",
+    "years_in_business": 23,
+    "employee_count": 333,
+    "ownership": "public",
+    "certifications": [
+      "ISO9001"
+    ],
+    "annual_capacity": 4077151,
+    "current_utilization": 0.68,
+    "primary_products": [
+      "electronic components",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "displays",
+      "motors",
+      "housings"
+    ],
+    "lead_time_days": 49,
+    "min_order_quantity": 6317,
+    "annual_revenue_usd": 48506399,
+    "credit_rating": "BBB+",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-4482",
+    "company_name": "Aufderhar, Casper and Wuckert Manufacturing",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "years_in_business": 5,
+    "employee_count": 540,
+    "ownership": "family_owned",
+    "certifications": [
+      "OHSAS18001",
+      "ISO27001",
+      "ISO13485"
+    ],
+    "annual_capacity": 4778968,
+    "current_utilization": 0.68,
+    "primary_products": [
+      "pcb assembly",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "sensors",
+      "switches"
+    ],
+    "lead_time_days": 76,
+    "min_order_quantity": 4304,
+    "annual_revenue_usd": 20444676,
+    "credit_rating": "BBB",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-6822",
+    "company_name": "Thiel, McKenzie and Willms Ltd",
+    "country": "China",
+    "city": "Shenzhen",
+    "years_in_business": 15,
+    "employee_count": 293,
+    "ownership": "public",
+    "certifications": [
+      "ISO27001",
+      "ISO13485",
+      "IATF16949"
+    ],
+    "annual_capacity": 1967526,
+    "current_utilization": 0.93,
+    "primary_products": [
+      "motors",
+      "electronic components",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "sensors"
+    ],
+    "lead_time_days": 41,
+    "min_order_quantity": 3941,
+    "annual_revenue_usd": 30597698,
+    "credit_rating": "A+",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-7645",
+    "company_name": "Goldner LLC Corp",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "years_in_business": 23,
+    "employee_count": 1201,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO9001",
+      "OHSAS18001"
+    ],
+    "annual_capacity": 4479079,
+    "current_utilization": 0.71,
+    "primary_products": [
+      "cables",
+      "connectors",
+      "fasteners",
+      "power supplies"
+    ],
+    "secondary_products": [
+      "motors"
+    ],
+    "lead_time_days": 85,
+    "min_order_quantity": 8283,
+    "annual_revenue_usd": 40247453,
+    "credit_rating": "BBB+",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-9718",
+    "company_name": "Funk - Abshire Corp",
+    "country": "India",
+    "city": "Mumbai",
+    "years_in_business": 27,
+    "employee_count": 882,
+    "ownership": "public",
+    "certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "annual_capacity": 657854,
+    "current_utilization": 0.86,
+    "primary_products": [
+      "housings",
+      "displays"
+    ],
+    "secondary_products": [
+      "housings"
+    ],
+    "lead_time_days": 31,
+    "min_order_quantity": 3768,
+    "annual_revenue_usd": 22319242,
+    "credit_rating": "B+",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Hindi"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-8603",
+    "company_name": "Schuster - Dooley Systems",
+    "country": "India",
+    "city": "Mumbai",
+    "years_in_business": 6,
+    "employee_count": 138,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "OHSAS18001",
+      "IATF16949",
+      "ISO27001"
+    ],
+    "annual_capacity": 1311857,
+    "current_utilization": 0.89,
+    "primary_products": [
+      "motors",
+      "switches",
+      "fasteners",
+      "connectors"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "fasteners",
+      "pcb assembly"
+    ],
+    "lead_time_days": 54,
+    "min_order_quantity": 9662,
+    "annual_revenue_usd": 27265530,
+    "credit_rating": "AAA",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Hindi"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-7571",
+    "company_name": "Schinner, McLaughlin and Sipes Co.",
+    "country": "India",
+    "city": "Bangalore",
+    "years_in_business": 20,
+    "employee_count": 1103,
+    "ownership": "public",
+    "certifications": [
+      "OHSAS18001",
+      "ISO9001"
+    ],
+    "annual_capacity": 4309577,
+    "current_utilization": 0.92,
+    "primary_products": [
+      "fasteners",
+      "displays",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "pcb assembly",
+      "motors",
+      "electronic components"
+    ],
+    "lead_time_days": 47,
+    "min_order_quantity": 2721,
+    "annual_revenue_usd": 47073741,
+    "credit_rating": "B+",
+    "payment_terms": "2/10 Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Hindi"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-4321",
+    "company_name": "Corkery - Daniel Systems",
+    "country": "India",
+    "city": "Pune",
+    "years_in_business": 14,
+    "employee_count": 1130,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO13485",
+      "ISO9001",
+      "ISO27001"
+    ],
+    "annual_capacity": 3860374,
+    "current_utilization": 0.78,
+    "primary_products": [
+      "switches",
+      "housings",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "pcb assembly",
+      "motors"
+    ],
+    "lead_time_days": 52,
+    "min_order_quantity": 4126,
+    "annual_revenue_usd": 44033309,
+    "credit_rating": "A-",
+    "payment_terms": "2/10 Net 30",
+    "preferred_currencies": [
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Hindi"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-5513",
+    "company_name": "Dickinson - Gleichner Ltd",
+    "country": "Taiwan",
+    "city": "Taipei",
+    "years_in_business": 5,
+    "employee_count": 723,
+    "ownership": "public",
+    "certifications": [
+      "ISO13485",
+      "IATF16949"
+    ],
+    "annual_capacity": 2321370,
+    "current_utilization": 0.84,
+    "primary_products": [
+      "electronic components",
+      "power supplies"
+    ],
+    "secondary_products": [
+      "sensors",
+      "power supplies",
+      "switches"
+    ],
+    "lead_time_days": 41,
+    "min_order_quantity": 1499,
+    "annual_revenue_usd": 16453367,
+    "credit_rating": "BB+",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "GBP",
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-9273",
+    "company_name": "Hills - Parker Industries",
+    "country": "Mexico",
+    "city": "Tijuana",
+    "years_in_business": 21,
+    "employee_count": 626,
+    "ownership": "private",
+    "certifications": [
+      "OHSAS18001"
+    ],
+    "annual_capacity": 3497555,
+    "current_utilization": 0.59,
+    "primary_products": [
+      "power supplies",
+      "motors",
+      "sensors",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "connectors"
+    ],
+    "lead_time_days": 67,
+    "min_order_quantity": 8317,
+    "annual_revenue_usd": 40092352,
+    "credit_rating": "BBB+",
+    "payment_terms": "2/10 Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-9630",
+    "company_name": "Feeney - Kutch Ltd",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "years_in_business": 28,
+    "employee_count": 804,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO13485",
+      "IATF16949",
+      "ISO27001"
+    ],
+    "annual_capacity": 4643532,
+    "current_utilization": 0.59,
+    "primary_products": [
+      "motors",
+      "sensors"
+    ],
+    "secondary_products": [
+      "motors"
+    ],
+    "lead_time_days": 67,
+    "min_order_quantity": 8765,
+    "annual_revenue_usd": 27726127,
+    "credit_rating": "AA",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-4378",
+    "company_name": "Koepp, Howe and Douglas Manufacturing",
+    "country": "Malaysia",
+    "city": "Johor Bahru",
+    "years_in_business": 5,
+    "employee_count": 551,
+    "ownership": "private",
+    "certifications": [
+      "IATF16949"
+    ],
+    "annual_capacity": 2953076,
+    "current_utilization": 0.72,
+    "primary_products": [
+      "electronic components",
+      "sensors",
+      "cables"
+    ],
+    "secondary_products": [
+      "fasteners"
+    ],
+    "lead_time_days": 50,
+    "min_order_quantity": 4019,
+    "annual_revenue_usd": 48466523,
+    "credit_rating": "BBB+",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "CNY",
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-1212",
+    "company_name": "DuBuque, Heaney and Runolfsson Industries",
+    "country": "Poland",
+    "city": "Krakow",
+    "years_in_business": 23,
+    "employee_count": 355,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO9001"
+    ],
+    "annual_capacity": 2983398,
+    "current_utilization": 0.74,
+    "primary_products": [
+      "sensors",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "displays",
+      "electronic components",
+      "pcb assembly"
+    ],
+    "lead_time_days": 23,
+    "min_order_quantity": 1235,
+    "annual_revenue_usd": 22913091,
+    "credit_rating": "B",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "CNY",
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Polish"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-6656",
+    "company_name": "Hammes - Lynch Corp",
+    "country": "China",
+    "city": "Shanghai",
+    "years_in_business": 6,
+    "employee_count": 527,
+    "ownership": "public",
+    "certifications": [
+      "IATF16949",
+      "ISO13485",
+      "ISO9001"
+    ],
+    "annual_capacity": 1980989,
+    "current_utilization": 0.85,
+    "primary_products": [
+      "switches",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "displays"
+    ],
+    "lead_time_days": 78,
+    "min_order_quantity": 621,
+    "annual_revenue_usd": 16223846,
+    "credit_rating": "BBB",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-1326",
+    "company_name": "Cronin - Lind Ltd",
+    "country": "Mexico",
+    "city": "Tijuana",
+    "years_in_business": 28,
+    "employee_count": 299,
+    "ownership": "private",
+    "certifications": [
+      "ISO9001",
+      "ISO14001",
+      "IATF16949"
+    ],
+    "annual_capacity": 4358920,
+    "current_utilization": 0.82,
+    "primary_products": [
+      "motors",
+      "sensors"
+    ],
+    "secondary_products": [
+      "connectors",
+      "switches"
+    ],
+    "lead_time_days": 43,
+    "min_order_quantity": 8429,
+    "annual_revenue_usd": 6538655,
+    "credit_rating": "AAA",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-4197",
+    "company_name": "Lueilwitz Inc Manufacturing",
+    "country": "China",
+    "city": "Shanghai",
+    "years_in_business": 5,
+    "employee_count": 1235,
+    "ownership": "public",
+    "certifications": [
+      "OHSAS18001",
+      "ISO27001",
+      "ISO13485"
+    ],
+    "annual_capacity": 3706246,
+    "current_utilization": 0.64,
+    "primary_products": [
+      "pcb assembly",
+      "electronic components",
+      "cables"
+    ],
+    "secondary_products": [
+      "connectors",
+      "power supplies"
+    ],
+    "lead_time_days": 27,
+    "min_order_quantity": 1114,
+    "annual_revenue_usd": 35303917,
+    "credit_rating": "B",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "USD",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-8101",
+    "company_name": "Feeney, Huels and Runolfsdottir Ltd",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "years_in_business": 17,
+    "employee_count": 235,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO9001"
+    ],
+    "annual_capacity": 3755856,
+    "current_utilization": 0.88,
+    "primary_products": [
+      "motors",
+      "electronic components",
+      "cables"
+    ],
+    "secondary_products": [
+      "fasteners",
+      "sensors"
+    ],
+    "lead_time_days": 43,
+    "min_order_quantity": 1359,
+    "annual_revenue_usd": 45648830,
+    "credit_rating": "BB",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-8002",
+    "company_name": "Schoen - Moen Ltd",
+    "country": "Mexico",
+    "city": "Tijuana",
+    "years_in_business": 26,
+    "employee_count": 69,
+    "ownership": "public",
+    "certifications": [
+      "OHSAS18001",
+      "ISO13485",
+      "ISO9001",
+      "IATF16949"
+    ],
+    "annual_capacity": 4003475,
+    "current_utilization": 0.82,
+    "primary_products": [
+      "electronic components",
+      "pcb assembly",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "pcb assembly",
+      "fasteners"
+    ],
+    "lead_time_days": 58,
+    "min_order_quantity": 4335,
+    "annual_revenue_usd": 34828661,
+    "credit_rating": "BB+",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "CNY",
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-5799",
+    "company_name": "Watsica LLC Ltd",
+    "country": "India",
+    "city": "Chennai",
+    "years_in_business": 30,
+    "employee_count": 1096,
+    "ownership": "public",
+    "certifications": [
+      "OHSAS18001",
+      "ISO27001",
+      "ISO13485",
+      "IATF16949"
+    ],
+    "annual_capacity": 3627729,
+    "current_utilization": 0.62,
+    "primary_products": [
+      "fasteners",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "power supplies",
+      "connectors",
+      "sensors"
+    ],
+    "lead_time_days": 82,
+    "min_order_quantity": 7177,
+    "annual_revenue_usd": 41436238,
+    "credit_rating": "BBB-",
+    "payment_terms": "2/10 Net 30",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Hindi"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-4488",
+    "company_name": "Senger - Hirthe Co.",
+    "country": "Thailand",
+    "city": "Phuket",
+    "years_in_business": 12,
+    "employee_count": 351,
+    "ownership": "family_owned",
+    "certifications": [
+      "OHSAS18001",
+      "ISO27001",
+      "ISO13485",
+      "IATF16949"
+    ],
+    "annual_capacity": 3155330,
+    "current_utilization": 0.84,
+    "primary_products": [
+      "displays",
+      "switches",
+      "housings",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "power supplies"
+    ],
+    "lead_time_days": 20,
+    "min_order_quantity": 8195,
+    "annual_revenue_usd": 21578896,
+    "credit_rating": "A+",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "GBP",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-9128",
+    "company_name": "Hilpert - Ortiz Corp",
+    "country": "Poland",
+    "city": "Wroclaw",
+    "years_in_business": 16,
+    "employee_count": 400,
+    "ownership": "private",
+    "certifications": [
+      "ISO13485"
+    ],
+    "annual_capacity": 4572105,
+    "current_utilization": 0.7,
+    "primary_products": [
+      "electronic components",
+      "pcb assembly",
+      "motors",
+      "power supplies"
+    ],
+    "secondary_products": [
+      "connectors",
+      "motors",
+      "cables"
+    ],
+    "lead_time_days": 29,
+    "min_order_quantity": 7560,
+    "annual_revenue_usd": 34616376,
+    "credit_rating": "A",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Polish"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-2048",
+    "company_name": "Dooley LLC Corp",
+    "country": "Poland",
+    "city": "Krakow",
+    "years_in_business": 11,
+    "employee_count": 696,
+    "ownership": "public",
+    "certifications": [
+      "ISO13485"
+    ],
+    "annual_capacity": 642668,
+    "current_utilization": 0.95,
+    "primary_products": [
+      "connectors",
+      "sensors",
+      "cables"
+    ],
+    "secondary_products": [
+      "power supplies"
+    ],
+    "lead_time_days": 62,
+    "min_order_quantity": 1084,
+    "annual_revenue_usd": 26125545,
+    "credit_rating": "AAA",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Polish"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-5619",
+    "company_name": "Roob - Daugherty Systems",
+    "country": "Thailand",
+    "city": "Phuket",
+    "years_in_business": 10,
+    "employee_count": 350,
+    "ownership": "public",
+    "certifications": [
+      "OHSAS18001",
+      "ISO9001",
+      "ISO14001",
+      "IATF16949"
+    ],
+    "annual_capacity": 4680427,
+    "current_utilization": 0.61,
+    "primary_products": [
+      "electronic components",
+      "switches",
+      "displays",
+      "cables"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "fasteners",
+      "power supplies"
+    ],
+    "lead_time_days": 23,
+    "min_order_quantity": 4172,
+    "annual_revenue_usd": 39148787,
+    "credit_rating": "B",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-6860",
+    "company_name": "Baumbach Group Corp",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "years_in_business": 30,
+    "employee_count": 188,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO9001",
+      "ISO14001",
+      "ISO27001"
+    ],
+    "annual_capacity": 4295778,
+    "current_utilization": 0.69,
+    "primary_products": [
+      "motors",
+      "switches",
+      "fasteners",
+      "sensors"
+    ],
+    "secondary_products": [
+      "power supplies"
+    ],
+    "lead_time_days": 87,
+    "min_order_quantity": 2820,
+    "annual_revenue_usd": 37131156,
+    "credit_rating": "AAA",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "USD",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-2534",
+    "company_name": "Volkman, Kohler and Renner Manufacturing",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "years_in_business": 19,
+    "employee_count": 90,
+    "ownership": "private",
+    "certifications": [
+      "IATF16949"
+    ],
+    "annual_capacity": 2258717,
+    "current_utilization": 0.66,
+    "primary_products": [
+      "pcb assembly",
+      "motors",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "switches",
+      "sensors",
+      "displays"
+    ],
+    "lead_time_days": 72,
+    "min_order_quantity": 4051,
+    "annual_revenue_usd": 27348204,
+    "credit_rating": "AA",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-2800",
+    "company_name": "King - Hirthe Systems",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "years_in_business": 7,
+    "employee_count": 206,
+    "ownership": "private",
+    "certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "annual_capacity": 4338157,
+    "current_utilization": 0.72,
+    "primary_products": [
+      "fasteners",
+      "housings"
+    ],
+    "secondary_products": [
+      "cables",
+      "switches"
+    ],
+    "lead_time_days": 63,
+    "min_order_quantity": 8221,
+    "annual_revenue_usd": 46073153,
+    "credit_rating": "BBB-",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-2127",
+    "company_name": "Willms - McClure Systems",
+    "country": "Malaysia",
+    "city": "Johor Bahru",
+    "years_in_business": 28,
+    "employee_count": 1161,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO14001",
+      "ISO9001",
+      "ISO13485"
+    ],
+    "annual_capacity": 2653876,
+    "current_utilization": 0.68,
+    "primary_products": [
+      "connectors",
+      "housings",
+      "cables",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "housings"
+    ],
+    "lead_time_days": 70,
+    "min_order_quantity": 2009,
+    "annual_revenue_usd": 25703487,
+    "credit_rating": "A",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-7958",
+    "company_name": "Morissette - Koelpin Systems",
+    "country": "India",
+    "city": "Chennai",
+    "years_in_business": 17,
+    "employee_count": 644,
+    "ownership": "family_owned",
+    "certifications": [
+      "IATF16949"
+    ],
+    "annual_capacity": 1436628,
+    "current_utilization": 0.56,
+    "primary_products": [
+      "electronic components",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "pcb assembly",
+      "electronic components",
+      "switches"
+    ],
+    "lead_time_days": 43,
+    "min_order_quantity": 5215,
+    "annual_revenue_usd": 31829014,
+    "credit_rating": "A",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Hindi"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-6798",
+    "company_name": "Kassulke - Stroman Corp",
+    "country": "Malaysia",
+    "city": "Johor Bahru",
+    "years_in_business": 26,
+    "employee_count": 1022,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO9001",
+      "OHSAS18001",
+      "ISO14001",
+      "IATF16949"
+    ],
+    "annual_capacity": 564675,
+    "current_utilization": 0.8,
+    "primary_products": [
+      "electronic components",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "power supplies",
+      "electronic components"
+    ],
+    "lead_time_days": 65,
+    "min_order_quantity": 1187,
+    "annual_revenue_usd": 17610280,
+    "credit_rating": "BB",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-4808",
+    "company_name": "Jenkins, Hills and Ziemann Systems",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "years_in_business": 8,
+    "employee_count": 286,
+    "ownership": "private",
+    "certifications": [
+      "ISO27001",
+      "ISO13485",
+      "OHSAS18001",
+      "ISO14001"
+    ],
+    "annual_capacity": 4267102,
+    "current_utilization": 0.7,
+    "primary_products": [
+      "switches",
+      "housings",
+      "connectors"
+    ],
+    "secondary_products": [
+      "switches",
+      "fasteners",
+      "connectors"
+    ],
+    "lead_time_days": 59,
+    "min_order_quantity": 7198,
+    "annual_revenue_usd": 11888548,
+    "credit_rating": "BBB+",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "JPY",
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-9552",
+    "company_name": "Daugherty Group Corp",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "years_in_business": 26,
+    "employee_count": 1079,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO14001",
+      "ISO13485",
+      "OHSAS18001",
+      "ISO9001"
+    ],
+    "annual_capacity": 1978798,
+    "current_utilization": 0.6,
+    "primary_products": [
+      "switches",
+      "power supplies",
+      "housings"
+    ],
+    "secondary_products": [
+      "power supplies"
+    ],
+    "lead_time_days": 84,
+    "min_order_quantity": 2486,
+    "annual_revenue_usd": 42428316,
+    "credit_rating": "B",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-2023",
+    "company_name": "Runte, Yundt and Carroll Co.",
+    "country": "Poland",
+    "city": "Warsaw",
+    "years_in_business": 5,
+    "employee_count": 173,
+    "ownership": "public",
+    "certifications": [
+      "ISO14001",
+      "ISO13485",
+      "IATF16949",
+      "ISO27001"
+    ],
+    "annual_capacity": 3989824,
+    "current_utilization": 0.92,
+    "primary_products": [
+      "motors",
+      "connectors",
+      "power supplies"
+    ],
+    "secondary_products": [
+      "motors",
+      "connectors"
+    ],
+    "lead_time_days": 47,
+    "min_order_quantity": 1012,
+    "annual_revenue_usd": 37876954,
+    "credit_rating": "BB+",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Polish"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-8502",
+    "company_name": "Gorczany, Waters and Bechtelar Industries",
+    "country": "Mexico",
+    "city": "Monterrey",
+    "years_in_business": 22,
+    "employee_count": 1007,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "OHSAS18001",
+      "ISO13485"
+    ],
+    "annual_capacity": 4370825,
+    "current_utilization": 0.8,
+    "primary_products": [
+      "cables",
+      "housings",
+      "electronic components",
+      "motors"
+    ],
+    "secondary_products": [
+      "connectors"
+    ],
+    "lead_time_days": 68,
+    "min_order_quantity": 4120,
+    "annual_revenue_usd": 35032730,
+    "credit_rating": "A-",
+    "payment_terms": "2/10 Net 30",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Spanish"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-9254",
+    "company_name": "Bechtelar - Barrows Corp",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "years_in_business": 10,
+    "employee_count": 399,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO27001",
+      "ISO14001",
+      "ISO9001"
+    ],
+    "annual_capacity": 2340834,
+    "current_utilization": 0.9,
+    "primary_products": [
+      "electronic components",
+      "cables"
+    ],
+    "secondary_products": [
+      "power supplies",
+      "housings"
+    ],
+    "lead_time_days": 78,
+    "min_order_quantity": 5129,
+    "annual_revenue_usd": 26394348,
+    "credit_rating": "A",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-2893",
+    "company_name": "Strosin Inc Co.",
+    "country": "Thailand",
+    "city": "Phuket",
+    "years_in_business": 3,
+    "employee_count": 1262,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "OHSAS18001",
+      "ISO9001"
+    ],
+    "annual_capacity": 4798747,
+    "current_utilization": 0.73,
+    "primary_products": [
+      "electronic components",
+      "connectors",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "motors"
+    ],
+    "lead_time_days": 61,
+    "min_order_quantity": 5920,
+    "annual_revenue_usd": 48143504,
+    "credit_rating": "BBB+",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "EUR",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-8099",
+    "company_name": "Conn - Heathcote Co.",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "years_in_business": 19,
+    "employee_count": 1173,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO9001",
+      "ISO14001",
+      "OHSAS18001",
+      "ISO13485"
+    ],
+    "annual_capacity": 3752782,
+    "current_utilization": 0.6,
+    "primary_products": [
+      "pcb assembly",
+      "power supplies",
+      "fasteners",
+      "housings"
+    ],
+    "secondary_products": [
+      "motors",
+      "sensors",
+      "connectors"
+    ],
+    "lead_time_days": 21,
+    "min_order_quantity": 2534,
+    "annual_revenue_usd": 5734526,
+    "credit_rating": "A-",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-5997",
+    "company_name": "Harber - Heidenreich Industries",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "years_in_business": 20,
+    "employee_count": 1417,
+    "ownership": "private",
+    "certifications": [
+      "ISO13485"
+    ],
+    "annual_capacity": 3390874,
+    "current_utilization": 0.69,
+    "primary_products": [
+      "power supplies",
+      "electronic components",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "sensors"
+    ],
+    "lead_time_days": 78,
+    "min_order_quantity": 3112,
+    "annual_revenue_usd": 16009781,
+    "credit_rating": "B",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-5852",
+    "company_name": "Deckow - Robel Corp",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "years_in_business": 24,
+    "employee_count": 569,
+    "ownership": "family_owned",
+    "certifications": [
+      "IATF16949",
+      "ISO13485",
+      "ISO14001",
+      "ISO9001"
+    ],
+    "annual_capacity": 2069309,
+    "current_utilization": 0.75,
+    "primary_products": [
+      "switches",
+      "housings",
+      "cables"
+    ],
+    "secondary_products": [
+      "housings",
+      "displays",
+      "connectors"
+    ],
+    "lead_time_days": 21,
+    "min_order_quantity": 788,
+    "annual_revenue_usd": 13600650,
+    "credit_rating": "B",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "USD",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-1685",
+    "company_name": "O'Conner Group Corp",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "years_in_business": 12,
+    "employee_count": 1054,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "OHSAS18001",
+      "ISO27001",
+      "ISO13485"
+    ],
+    "annual_capacity": 3161833,
+    "current_utilization": 0.66,
+    "primary_products": [
+      "cables",
+      "pcb assembly",
+      "power supplies"
+    ],
+    "secondary_products": [
+      "switches",
+      "pcb assembly",
+      "connectors"
+    ],
+    "lead_time_days": 74,
+    "min_order_quantity": 3829,
+    "annual_revenue_usd": 21744364,
+    "credit_rating": "AAA",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-5138",
+    "company_name": "Blanda Inc Co.",
+    "country": "Poland",
+    "city": "Warsaw",
+    "years_in_business": 27,
+    "employee_count": 329,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO27001",
+      "OHSAS18001",
+      "ISO9001"
+    ],
+    "annual_capacity": 3699102,
+    "current_utilization": 0.7,
+    "primary_products": [
+      "switches",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "housings",
+      "pcb assembly"
+    ],
+    "lead_time_days": 76,
+    "min_order_quantity": 6286,
+    "annual_revenue_usd": 18103161,
+    "credit_rating": "A+",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Polish"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-1653",
+    "company_name": "Stanton - Bednar Co.",
+    "country": "Poland",
+    "city": "Wroclaw",
+    "years_in_business": 7,
+    "employee_count": 630,
+    "ownership": "private",
+    "certifications": [
+      "ISO14001",
+      "OHSAS18001",
+      "ISO13485",
+      "IATF16949"
+    ],
+    "annual_capacity": 3285088,
+    "current_utilization": 0.67,
+    "primary_products": [
+      "fasteners",
+      "power supplies",
+      "displays"
+    ],
+    "secondary_products": [
+      "housings",
+      "motors"
+    ],
+    "lead_time_days": 24,
+    "min_order_quantity": 2279,
+    "annual_revenue_usd": 47659595,
+    "credit_rating": "BBB",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Polish"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-4320",
+    "company_name": "Jacobi - Grimes Systems",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "years_in_business": 22,
+    "employee_count": 303,
+    "ownership": "family_owned",
+    "certifications": [
+      "IATF16949",
+      "OHSAS18001"
+    ],
+    "annual_capacity": 2945729,
+    "current_utilization": 0.92,
+    "primary_products": [
+      "pcb assembly",
+      "electronic components"
+    ],
+    "secondary_products": [
+      "displays"
+    ],
+    "lead_time_days": 29,
+    "min_order_quantity": 6132,
+    "annual_revenue_usd": 40257072,
+    "credit_rating": "A+",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "USD",
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-3916",
+    "company_name": "Ryan LLC Co.",
+    "country": "Malaysia",
+    "city": "Penang",
+    "years_in_business": 22,
+    "employee_count": 1401,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO9001"
+    ],
+    "annual_capacity": 4875341,
+    "current_utilization": 0.56,
+    "primary_products": [
+      "sensors",
+      "electronic components",
+      "cables",
+      "fasteners"
+    ],
+    "secondary_products": [
+      "cables",
+      "fasteners",
+      "switches"
+    ],
+    "lead_time_days": 32,
+    "min_order_quantity": 9833,
+    "annual_revenue_usd": 49821509,
+    "credit_rating": "BB",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-3963",
+    "company_name": "Cormier LLC Corp",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "years_in_business": 19,
+    "employee_count": 824,
+    "ownership": "private",
+    "certifications": [
+      "ISO9001",
+      "ISO14001"
+    ],
+    "annual_capacity": 962231,
+    "current_utilization": 0.62,
+    "primary_products": [
+      "motors",
+      "electronic components",
+      "housings",
+      "cables"
+    ],
+    "secondary_products": [
+      "electronic components"
+    ],
+    "lead_time_days": 46,
+    "min_order_quantity": 7053,
+    "annual_revenue_usd": 34838926,
+    "credit_rating": "A-",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-4632",
+    "company_name": "Pfeffer Inc Corp",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "years_in_business": 19,
+    "employee_count": 659,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO27001"
+    ],
+    "annual_capacity": 3030279,
+    "current_utilization": 0.7,
+    "primary_products": [
+      "connectors",
+      "sensors",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "motors",
+      "pcb assembly",
+      "housings"
+    ],
+    "lead_time_days": 70,
+    "min_order_quantity": 8228,
+    "annual_revenue_usd": 34401239,
+    "credit_rating": "BBB",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-9576",
+    "company_name": "O'Hara Group Industries",
+    "country": "India",
+    "city": "Pune",
+    "years_in_business": 10,
+    "employee_count": 963,
+    "ownership": "public",
+    "certifications": [
+      "OHSAS18001",
+      "ISO27001"
+    ],
+    "annual_capacity": 1044182,
+    "current_utilization": 0.94,
+    "primary_products": [
+      "switches",
+      "housings"
+    ],
+    "secondary_products": [
+      "electronic components"
+    ],
+    "lead_time_days": 28,
+    "min_order_quantity": 527,
+    "annual_revenue_usd": 41969943,
+    "credit_rating": "A+",
+    "payment_terms": "Net 30",
+    "preferred_currencies": [
+      "CNY",
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Hindi"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-4098",
+    "company_name": "Stehr - Schmeler Systems",
+    "country": "China",
+    "city": "Shenzhen",
+    "years_in_business": 28,
+    "employee_count": 839,
+    "ownership": "private",
+    "certifications": [
+      "OHSAS18001"
+    ],
+    "annual_capacity": 4460224,
+    "current_utilization": 0.92,
+    "primary_products": [
+      "connectors",
+      "motors",
+      "housings",
+      "sensors"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "pcb assembly"
+    ],
+    "lead_time_days": 81,
+    "min_order_quantity": 8315,
+    "annual_revenue_usd": 30461138,
+    "credit_rating": "B",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "CNY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-7716",
+    "company_name": "Mueller, Kuphal and Schulist Manufacturing",
+    "country": "Taiwan",
+    "city": "Kaohsiung",
+    "years_in_business": 25,
+    "employee_count": 1016,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO9001",
+      "ISO14001",
+      "IATF16949",
+      "ISO13485"
+    ],
+    "annual_capacity": 4801636,
+    "current_utilization": 0.87,
+    "primary_products": [
+      "pcb assembly",
+      "connectors"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "housings"
+    ],
+    "lead_time_days": 68,
+    "min_order_quantity": 3587,
+    "annual_revenue_usd": 39405280,
+    "credit_rating": "A",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "GBP",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Mandarin"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-4009",
+    "company_name": "Paucek and Sons Ltd",
+    "country": "Malaysia",
+    "city": "Johor Bahru",
+    "years_in_business": 12,
+    "employee_count": 524,
+    "ownership": "private",
+    "certifications": [
+      "ISO14001",
+      "ISO9001"
+    ],
+    "annual_capacity": 691690,
+    "current_utilization": 0.73,
+    "primary_products": [
+      "electronic components",
+      "pcb assembly",
+      "cables",
+      "sensors"
+    ],
+    "secondary_products": [
+      "pcb assembly"
+    ],
+    "lead_time_days": 84,
+    "min_order_quantity": 6485,
+    "annual_revenue_usd": 30653115,
+    "credit_rating": "BBB",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "IATF16949:2016"
+  },
+  {
+    "supplier_id": "SUP-4162",
+    "company_name": "Wiza - Mann Industries",
+    "country": "Poland",
+    "city": "Krakow",
+    "years_in_business": 21,
+    "employee_count": 315,
+    "ownership": "public",
+    "certifications": [
+      "ISO27001",
+      "ISO9001",
+      "IATF16949"
+    ],
+    "annual_capacity": 902506,
+    "current_utilization": 0.71,
+    "primary_products": [
+      "switches",
+      "pcb assembly",
+      "cables",
+      "motors"
+    ],
+    "secondary_products": [
+      "electronic components",
+      "connectors",
+      "housings"
+    ],
+    "lead_time_days": 78,
+    "min_order_quantity": 2369,
+    "annual_revenue_usd": 20586888,
+    "credit_rating": "BB",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "JPY"
+    ],
+    "languages_spoken": [
+      "English",
+      "Polish"
+    ],
+    "quality_mgmt_system": "ISO13485:2016"
+  },
+  {
+    "supplier_id": "SUP-6231",
+    "company_name": "Smitham, Schmeler and Kuhic Manufacturing",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "years_in_business": 27,
+    "employee_count": 1115,
+    "ownership": "private",
+    "certifications": [
+      "ISO13485"
+    ],
+    "annual_capacity": 4391334,
+    "current_utilization": 0.86,
+    "primary_products": [
+      "motors",
+      "power supplies",
+      "connectors"
+    ],
+    "secondary_products": [
+      "power supplies",
+      "housings"
+    ],
+    "lead_time_days": 64,
+    "min_order_quantity": 4082,
+    "annual_revenue_usd": 20579425,
+    "credit_rating": "BBB",
+    "payment_terms": "Net 45",
+    "preferred_currencies": [
+      "USD",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "AS9100"
+  },
+  {
+    "supplier_id": "SUP-3146",
+    "company_name": "Parisian - Rogahn Corp",
+    "country": "Thailand",
+    "city": "Phuket",
+    "years_in_business": 25,
+    "employee_count": 1038,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "IATF16949"
+    ],
+    "annual_capacity": 4789573,
+    "current_utilization": 0.6,
+    "primary_products": [
+      "electronic components",
+      "power supplies"
+    ],
+    "secondary_products": [
+      "cables"
+    ],
+    "lead_time_days": 83,
+    "min_order_quantity": 6278,
+    "annual_revenue_usd": 14505732,
+    "credit_rating": "BB+",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "GBP",
+      "EUR"
+    ],
+    "languages_spoken": [
+      "English",
+      "Thai"
+    ],
+    "quality_mgmt_system": "ISO9001:2015"
+  },
+  {
+    "supplier_id": "SUP-8530",
+    "company_name": "Carroll Group Co.",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "years_in_business": 14,
+    "employee_count": 285,
+    "ownership": "foreign_owned",
+    "certifications": [
+      "ISO13485",
+      "IATF16949",
+      "ISO14001",
+      "OHSAS18001"
+    ],
+    "annual_capacity": 4681406,
+    "current_utilization": 0.75,
+    "primary_products": [
+      "displays",
+      "motors",
+      "pcb assembly"
+    ],
+    "secondary_products": [
+      "power supplies",
+      "pcb assembly",
+      "fasteners"
+    ],
+    "lead_time_days": 29,
+    "min_order_quantity": 6621,
+    "annual_revenue_usd": 49384300,
+    "credit_rating": "A-",
+    "payment_terms": "Net 90",
+    "preferred_currencies": [
+      "GBP"
+    ],
+    "languages_spoken": [
+      "English",
+      "Malay"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  },
+  {
+    "supplier_id": "SUP-7196",
+    "company_name": "Klein Group Systems",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "years_in_business": 16,
+    "employee_count": 411,
+    "ownership": "family_owned",
+    "certifications": [
+      "ISO9001",
+      "ISO14001",
+      "IATF16949"
+    ],
+    "annual_capacity": 2819647,
+    "current_utilization": 0.87,
+    "primary_products": [
+      "motors",
+      "power supplies",
+      "connectors",
+      "sensors"
+    ],
+    "secondary_products": [
+      "fasteners",
+      "electronic components",
+      "pcb assembly"
+    ],
+    "lead_time_days": 60,
+    "min_order_quantity": 9900,
+    "annual_revenue_usd": 49486891,
+    "credit_rating": "A",
+    "payment_terms": "Net 60",
+    "preferred_currencies": [
+      "USD"
+    ],
+    "languages_spoken": [
+      "English",
+      "Vietnamese"
+    ],
+    "quality_mgmt_system": "ISO9001:2008"
+  }
+]

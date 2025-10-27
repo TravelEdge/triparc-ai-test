@@ -1,0 +1,5501 @@
+[
+  {
+    "expansion_id": "EXP-2016-SUY",
+    "city_id": "GTK",
+    "city_name": "North Johnnyfort, KS",
+    "opening_date": "2016-07-15",
+    "opening_cost": 683705,
+    "location_size_sqft": 2881,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 2358783,
+    "year_2_revenue": 2911425,
+    "year_3_revenue": 2875558,
+    "peak_revenue": 3778036,
+    "staff_count": 19,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "strong nightlife",
+      "established food culture"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.01,
+    "notes": "Proactive value-added application"
+  },
+  {
+    "expansion_id": "EXP-2021-FID",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2021-12-15",
+    "opening_cost": 699654,
+    "location_size_sqft": 4000,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 3001514,
+    "year_2_revenue": 3726221,
+    "year_3_revenue": 4399161,
+    "peak_revenue": 4194042,
+    "staff_count": 31,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "growing population",
+      "excellent visibility",
+      "established food culture",
+      "high median income",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "seasonal fluctuations"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.32,
+    "notes": "Robust intermediate implementation"
+  },
+  {
+    "expansion_id": "EXP-2018-NTN",
+    "city_id": "IKR",
+    "city_name": "Lake Guyfort, WY",
+    "opening_date": "2018-08-15",
+    "opening_cost": 398266,
+    "location_size_sqft": 2597,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 1648823,
+    "year_2_revenue": 1953318,
+    "year_3_revenue": 2341447,
+    "peak_revenue": 2156068,
+    "staff_count": 21,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "supportive local government",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "parking challenges"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.34,
+    "notes": "Upgradable fresh-thinking standardization"
+  },
+  {
+    "expansion_id": "EXP-2022-PIZ",
+    "city_id": "BPY",
+    "city_name": "New Cameronshire, MN",
+    "opening_date": "2022-02-15",
+    "opening_cost": 723771,
+    "location_size_sqft": 2514,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 3365536,
+    "year_2_revenue": 3924682,
+    "year_3_revenue": 4264314,
+    "peak_revenue": 5777797,
+    "staff_count": 29,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "limited direct competition",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.27,
+    "notes": "Sharable discrete archive"
+  },
+  {
+    "expansion_id": "EXP-2023-GUU",
+    "city_id": "IDW",
+    "city_name": "South Lucyfort, OH",
+    "opening_date": "2023-10-15",
+    "opening_cost": 843094,
+    "location_size_sqft": 4681,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 3338653,
+    "year_2_revenue": 3808244,
+    "year_3_revenue": 4610296,
+    "peak_revenue": 4860667,
+    "staff_count": 18,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "growing tech sector",
+      "favorable demographics",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.13,
+    "notes": "Ergonomic intermediate policy"
+  },
+  {
+    "expansion_id": "EXP-2024-BFE",
+    "city_id": "GST",
+    "city_name": "Port Lavinaboro, DE",
+    "opening_date": "2024-09-15",
+    "opening_cost": 794781,
+    "location_size_sqft": 3320,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 3671888,
+    "year_2_revenue": 4448472,
+    "year_3_revenue": 5226803,
+    "peak_revenue": 6441128,
+    "staff_count": 21,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "strong nightlife",
+      "established food culture",
+      "favorable demographics",
+      "strong local supplier network",
+      "strong tourism"
+    ],
+    "challenges": [
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.02,
+    "notes": "Grass-roots incremental website"
+  },
+  {
+    "expansion_id": "EXP-2023-RNY",
+    "city_id": "BPY",
+    "city_name": "New Cameronshire, MN",
+    "opening_date": "2023-10-15",
+    "opening_cost": 682873,
+    "location_size_sqft": 4355,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2540288,
+    "year_2_revenue": 2969466,
+    "year_3_revenue": 3475912,
+    "peak_revenue": 4402965,
+    "staff_count": 21,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "growing population",
+      "business district location",
+      "strong nightlife",
+      "established food culture",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "construction delays"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.32,
+    "notes": "Stand-alone zero tolerance protocol"
+  },
+  {
+    "expansion_id": "EXP-2021-YWZ",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2021-03-15",
+    "opening_cost": 524721,
+    "location_size_sqft": 4562,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 2214323,
+    "year_2_revenue": 2708871,
+    "year_3_revenue": 2964699,
+    "peak_revenue": 3493357,
+    "staff_count": 32,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "limited direct competition",
+      "established food culture",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "initial staffing difficulties"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.14,
+    "notes": "Organic value-added projection"
+  },
+  {
+    "expansion_id": "EXP-2016-UXA",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2016-11-15",
+    "opening_cost": 736979,
+    "location_size_sqft": 4378,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 2756302,
+    "year_2_revenue": 3258963,
+    "year_3_revenue": 3999250,
+    "peak_revenue": 3869575,
+    "staff_count": 29,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "growing tech sector",
+      "strong nightlife",
+      "favorable demographics",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "initial staffing difficulties"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.03,
+    "notes": "Versatile immersive workforce"
+  },
+  {
+    "expansion_id": "EXP-2020-ZXS",
+    "city_id": "UTR",
+    "city_name": "Gradyboro, UT",
+    "opening_date": "2020-12-15",
+    "opening_cost": 826615,
+    "location_size_sqft": 3311,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 3843762,
+    "year_2_revenue": 4951956,
+    "year_3_revenue": 4962142,
+    "peak_revenue": 5630081,
+    "staff_count": 28,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "strong tourism",
+      "high median income"
+    ],
+    "challenges": [
+      "local regulations",
+      "supply chain issues",
+      "permitting delays"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.07,
+    "notes": "Sustainable explicit generative AI"
+  },
+  {
+    "expansion_id": "EXP-2019-SJB",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2019-08-15",
+    "opening_cost": 534645,
+    "location_size_sqft": 4355,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 1946106,
+    "year_2_revenue": 2343526,
+    "year_3_revenue": 2854999,
+    "peak_revenue": 3076746,
+    "staff_count": 31,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "growing tech sector",
+      "high foot traffic area",
+      "strong nightlife",
+      "low unemployment",
+      "strong tourism"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "local regulations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.06,
+    "notes": "Public-key static focus group"
+  },
+  {
+    "expansion_id": "EXP-2024-TNN",
+    "city_id": "GHX",
+    "city_name": "Bayonne, KS",
+    "opening_date": "2024-03-15",
+    "opening_cost": 354344,
+    "location_size_sqft": 2619,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 1729199,
+    "year_2_revenue": 1945706,
+    "year_3_revenue": 2564673,
+    "peak_revenue": 2757890,
+    "staff_count": 29,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "diverse cuisine scene",
+      "established food culture",
+      "strong local supplier network",
+      "high median income",
+      "low unemployment"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "local regulations"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.13,
+    "notes": "Centralized actuating paradigm"
+  },
+  {
+    "expansion_id": "EXP-2023-JOA",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2023-08-15",
+    "opening_cost": 558958,
+    "location_size_sqft": 2547,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2179938,
+    "year_2_revenue": 2406589,
+    "year_3_revenue": 3230800,
+    "peak_revenue": 3479140,
+    "staff_count": 18,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "established food culture",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "supply chain issues"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.31,
+    "notes": "Digitized holistic local area network"
+  },
+  {
+    "expansion_id": "EXP-2015-UKA",
+    "city_id": "YAY",
+    "city_name": "West Scarlett, FL",
+    "opening_date": "2015-12-15",
+    "opening_cost": 665194,
+    "location_size_sqft": 3413,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2866988,
+    "year_2_revenue": 3369019,
+    "year_3_revenue": 3975917,
+    "peak_revenue": 4982376,
+    "staff_count": 28,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "strong local supplier network",
+      "growing tech sector",
+      "business district location",
+      "favorable demographics",
+      "low unemployment"
+    ],
+    "challenges": [
+      "parking challenges"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.09,
+    "notes": "Robust hybrid encryption"
+  },
+  {
+    "expansion_id": "EXP-2023-CWT",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2023-04-15",
+    "opening_cost": 668749,
+    "location_size_sqft": 3405,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 3189931,
+    "year_2_revenue": 3986784,
+    "year_3_revenue": 4257240,
+    "peak_revenue": 4811753,
+    "staff_count": 33,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "growing population",
+      "high median income",
+      "supportive local government",
+      "excellent visibility",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "supply chain issues",
+      "initial staffing difficulties"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.03,
+    "notes": "Fully-configurable fault-tolerant process improvement"
+  },
+  {
+    "expansion_id": "EXP-2015-UQS",
+    "city_id": "GHX",
+    "city_name": "Bayonne, KS",
+    "opening_date": "2015-12-15",
+    "opening_cost": 727091,
+    "location_size_sqft": 3628,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 2384859,
+    "year_2_revenue": 2941918,
+    "year_3_revenue": 3401246,
+    "peak_revenue": 3363064,
+    "staff_count": 25,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "excellent visibility",
+      "business district location",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "initial staffing difficulties",
+      "higher than expected rent increases"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.33,
+    "notes": "Upgradable regional success"
+  },
+  {
+    "expansion_id": "EXP-2016-LUY",
+    "city_id": "IDW",
+    "city_name": "South Lucyfort, OH",
+    "opening_date": "2016-05-15",
+    "opening_cost": 400527,
+    "location_size_sqft": 2911,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1598104,
+    "year_2_revenue": 1859938,
+    "year_3_revenue": 2177947,
+    "peak_revenue": 2685813,
+    "staff_count": 29,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "business district location",
+      "established food culture",
+      "strong tourism",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "permitting delays",
+      "initial staffing difficulties",
+      "higher competition than expected"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.06,
+    "notes": "Customizable discrete benchmark"
+  },
+  {
+    "expansion_id": "EXP-2021-IVC",
+    "city_id": "YFI",
+    "city_name": "Virginiamouth, MA",
+    "opening_date": "2021-04-15",
+    "opening_cost": 518606,
+    "location_size_sqft": 4536,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2188516,
+    "year_2_revenue": 2747965,
+    "year_3_revenue": 3199941,
+    "peak_revenue": 3874087,
+    "staff_count": 26,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "established food culture",
+      "low unemployment"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "construction delays"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.03,
+    "notes": "Proactive fault-tolerant paradigm"
+  },
+  {
+    "expansion_id": "EXP-2021-GJO",
+    "city_id": "HKI",
+    "city_name": "Klockotown, SC",
+    "opening_date": "2021-04-15",
+    "opening_cost": 561135,
+    "location_size_sqft": 3265,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 2373599,
+    "year_2_revenue": 2953326,
+    "year_3_revenue": 3530858,
+    "peak_revenue": 4154706,
+    "staff_count": 23,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "strong nightlife",
+      "high median income"
+    ],
+    "challenges": [
+      "parking challenges"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.28,
+    "notes": "Persistent explicit internet solution"
+  },
+  {
+    "expansion_id": "EXP-2023-VMI",
+    "city_id": "PLS",
+    "city_name": "Karleyboro, NH",
+    "opening_date": "2023-11-15",
+    "opening_cost": 530516,
+    "location_size_sqft": 4308,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 1363426,
+    "year_2_revenue": 1681850,
+    "year_3_revenue": 1905490,
+    "peak_revenue": 2022519,
+    "staff_count": 29,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "high foot traffic area",
+      "limited direct competition",
+      "low unemployment",
+      "established food culture",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "seasonal fluctuations",
+      "local regulations"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0,
+    "notes": "Organized next generation archive"
+  },
+  {
+    "expansion_id": "EXP-2016-KJI",
+    "city_id": "SDZ",
+    "city_name": "Tateville, HI",
+    "opening_date": "2016-01-15",
+    "opening_cost": 584412,
+    "location_size_sqft": 4919,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2711674,
+    "year_2_revenue": 3176292,
+    "year_3_revenue": 3836246,
+    "peak_revenue": 4310427,
+    "staff_count": 26,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "high foot traffic area",
+      "growing tech sector",
+      "business district location"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "local regulations",
+      "permitting delays"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.31,
+    "notes": "Synchronised maximized conglomeration"
+  },
+  {
+    "expansion_id": "EXP-2024-ARB",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2024-06-15",
+    "opening_cost": 467743,
+    "location_size_sqft": 4049,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 2249842,
+    "year_2_revenue": 2516059,
+    "year_3_revenue": 3183272,
+    "peak_revenue": 3435929,
+    "staff_count": 22,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "strong tourism",
+      "growing population"
+    ],
+    "challenges": [
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.29,
+    "notes": "Operative real-time function"
+  },
+  {
+    "expansion_id": "EXP-2024-HLE",
+    "city_id": "PGK",
+    "city_name": "Newport Beach, RI",
+    "opening_date": "2024-10-15",
+    "opening_cost": 513047,
+    "location_size_sqft": 2831,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 2406191,
+    "year_2_revenue": 2720122,
+    "year_3_revenue": 3258681,
+    "peak_revenue": 3354091,
+    "staff_count": 35,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "favorable demographics",
+      "limited direct competition",
+      "low unemployment"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "local regulations"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.03,
+    "notes": "Monitored zero administration neural-net"
+  },
+  {
+    "expansion_id": "EXP-2021-XGB",
+    "city_id": "RSS",
+    "city_name": "Watsicafield, FL",
+    "opening_date": "2021-09-15",
+    "opening_cost": 813597,
+    "location_size_sqft": 4591,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 3807635,
+    "year_2_revenue": 4707574,
+    "year_3_revenue": 5108199,
+    "peak_revenue": 5142553,
+    "staff_count": 22,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "business district location",
+      "low unemployment",
+      "favorable demographics",
+      "high foot traffic area",
+      "supportive local government"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.24,
+    "notes": "Progressive tangible system engine"
+  },
+  {
+    "expansion_id": "EXP-2015-BIN",
+    "city_id": "GHX",
+    "city_name": "Bayonne, KS",
+    "opening_date": "2015-07-15",
+    "opening_cost": 412188,
+    "location_size_sqft": 4752,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 1949649,
+    "year_2_revenue": 2407471,
+    "year_3_revenue": 2354456,
+    "peak_revenue": 3047864,
+    "staff_count": 35,
+    "avg_customer_rating": 4.1,
+    "success_factors": [
+      "excellent visibility",
+      "supportive local government"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "permitting delays",
+      "seasonal fluctuations"
+    ],
+    "outcome": "successful",
+    "roi_3year": -0.01,
+    "notes": "Cross-platform real-time orchestration"
+  },
+  {
+    "expansion_id": "EXP-2022-DKD",
+    "city_id": "YAY",
+    "city_name": "West Scarlett, FL",
+    "opening_date": "2022-12-15",
+    "opening_cost": 479917,
+    "location_size_sqft": 2500,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2361192,
+    "year_2_revenue": 2675549,
+    "year_3_revenue": 3533815,
+    "peak_revenue": 4018896,
+    "staff_count": 28,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "growing tech sector",
+      "strong nightlife",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "permitting delays",
+      "local regulations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.08,
+    "notes": "Phased discrete archive"
+  },
+  {
+    "expansion_id": "EXP-2022-JMU",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2022-02-15",
+    "opening_cost": 821718,
+    "location_size_sqft": 3095,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 2654150,
+    "year_2_revenue": 3420522,
+    "year_3_revenue": 3829862,
+    "peak_revenue": 3903257,
+    "staff_count": 31,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "high foot traffic area",
+      "strong tourism",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "local regulations",
+      "initial staffing difficulties"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.07,
+    "notes": "Advanced national moratorium"
+  },
+  {
+    "expansion_id": "EXP-2015-AWP",
+    "city_id": "UTR",
+    "city_name": "Gradyboro, UT",
+    "opening_date": "2015-05-15",
+    "opening_cost": 532405,
+    "location_size_sqft": 2714,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 2534246,
+    "year_2_revenue": 3263160,
+    "year_3_revenue": 3329738,
+    "peak_revenue": 4173071,
+    "staff_count": 24,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "low unemployment",
+      "supportive local government"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "permitting delays",
+      "construction delays"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.16,
+    "notes": "Decentralized client-driven throughput"
+  },
+  {
+    "expansion_id": "EXP-2015-ABX",
+    "city_id": "CML",
+    "city_name": "Lake Milton, AZ",
+    "opening_date": "2015-01-15",
+    "opening_cost": 747999,
+    "location_size_sqft": 4588,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 2924677,
+    "year_2_revenue": 3437163,
+    "year_3_revenue": 3782146,
+    "peak_revenue": 4067290,
+    "staff_count": 26,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "favorable demographics",
+      "low unemployment",
+      "strong tourism",
+      "supportive local government",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "higher competition than expected"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.15,
+    "notes": "Open-source value-added paradigm"
+  },
+  {
+    "expansion_id": "EXP-2015-QOP",
+    "city_id": "RCZ",
+    "city_name": "North Geoffreyfort, IL",
+    "opening_date": "2015-08-15",
+    "opening_cost": 453956,
+    "location_size_sqft": 2518,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 1570688,
+    "year_2_revenue": 1895556,
+    "year_3_revenue": 2153230,
+    "peak_revenue": 2824965,
+    "staff_count": 33,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "business district location",
+      "excellent visibility",
+      "high median income",
+      "strong tourism"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "initial staffing difficulties"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.13,
+    "notes": "Versatile zero tolerance framework"
+  },
+  {
+    "expansion_id": "EXP-2018-BWU",
+    "city_id": "GTK",
+    "city_name": "North Johnnyfort, KS",
+    "opening_date": "2018-07-15",
+    "opening_cost": 806844,
+    "location_size_sqft": 3704,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 3283854,
+    "year_2_revenue": 4240646,
+    "year_3_revenue": 4493700,
+    "peak_revenue": 5588015,
+    "staff_count": 32,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "strong nightlife",
+      "established food culture",
+      "strong local supplier network",
+      "favorable demographics",
+      "low unemployment"
+    ],
+    "challenges": [
+      "seasonal fluctuations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.05,
+    "notes": "Face to face static product"
+  },
+  {
+    "expansion_id": "EXP-2016-OQJ",
+    "city_id": "GHX",
+    "city_name": "Bayonne, KS",
+    "opening_date": "2016-08-15",
+    "opening_cost": 485532,
+    "location_size_sqft": 3732,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 1587689,
+    "year_2_revenue": 2028549,
+    "year_3_revenue": 2334380,
+    "peak_revenue": 2209469,
+    "staff_count": 31,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "strong local supplier network",
+      "strong nightlife",
+      "growing tech sector",
+      "high median income",
+      "low unemployment"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "higher competition than expected"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.09,
+    "notes": "Face to face methodical synergy"
+  },
+  {
+    "expansion_id": "EXP-2023-LJS",
+    "city_id": "PEE",
+    "city_name": "Kertzmanncester, TN",
+    "opening_date": "2023-07-15",
+    "opening_cost": 531952,
+    "location_size_sqft": 4586,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 2494856,
+    "year_2_revenue": 2756097,
+    "year_3_revenue": 3296052,
+    "peak_revenue": 4324937,
+    "staff_count": 28,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "established food culture",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "local regulations",
+      "seasonal fluctuations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.26,
+    "notes": "Sharable real-time migration"
+  },
+  {
+    "expansion_id": "EXP-2023-XOM",
+    "city_id": "IKR",
+    "city_name": "Lake Guyfort, WY",
+    "opening_date": "2023-05-15",
+    "opening_cost": 557551,
+    "location_size_sqft": 2754,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 1616896,
+    "year_2_revenue": 2002809,
+    "year_3_revenue": 2326387,
+    "peak_revenue": 2397510,
+    "staff_count": 25,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "business district location",
+      "established food culture"
+    ],
+    "challenges": [
+      "supply chain issues"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.07,
+    "notes": "Universal encompassing matrix"
+  },
+  {
+    "expansion_id": "EXP-2021-DAA",
+    "city_id": "IKR",
+    "city_name": "Lake Guyfort, WY",
+    "opening_date": "2021-12-15",
+    "opening_cost": 815439,
+    "location_size_sqft": 3954,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 3180213,
+    "year_2_revenue": 3621754,
+    "year_3_revenue": 3963123,
+    "peak_revenue": 5121542,
+    "staff_count": 33,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "supportive local government",
+      "business district location",
+      "strong local supplier network",
+      "established food culture",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "permitting delays"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.09,
+    "notes": "Fundamental context-sensitive matrix"
+  },
+  {
+    "expansion_id": "EXP-2022-AYK",
+    "city_id": "IKR",
+    "city_name": "Lake Guyfort, WY",
+    "opening_date": "2022-12-15",
+    "opening_cost": 558424,
+    "location_size_sqft": 4185,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 2278370,
+    "year_2_revenue": 2950407,
+    "year_3_revenue": 2859186,
+    "peak_revenue": 3861434,
+    "staff_count": 30,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "growing tech sector",
+      "business district location",
+      "strong local supplier network",
+      "growing population"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.03,
+    "notes": "Digitized intermediate synergy"
+  },
+  {
+    "expansion_id": "EXP-2022-FNC",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2022-01-15",
+    "opening_cost": 480182,
+    "location_size_sqft": 2640,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 1887116,
+    "year_2_revenue": 2294856,
+    "year_3_revenue": 2304054,
+    "peak_revenue": 2853410,
+    "staff_count": 34,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "established food culture",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "local regulations",
+      "higher competition than expected"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": -0.07,
+    "notes": "Profit-focused next generation matrices"
+  },
+  {
+    "expansion_id": "EXP-2018-HIC",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2018-04-15",
+    "opening_cost": 590944,
+    "location_size_sqft": 3981,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 2375593,
+    "year_2_revenue": 2978491,
+    "year_3_revenue": 3005370,
+    "peak_revenue": 4151519,
+    "staff_count": 21,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "high median income",
+      "excellent visibility",
+      "low unemployment",
+      "favorable demographics",
+      "strong tourism"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "local regulations"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.01,
+    "notes": "Focused needs-based leverage"
+  },
+  {
+    "expansion_id": "EXP-2019-MRW",
+    "city_id": "GST",
+    "city_name": "Port Lavinaboro, DE",
+    "opening_date": "2019-05-15",
+    "opening_cost": 566566,
+    "location_size_sqft": 2859,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 2668526,
+    "year_2_revenue": 3336800,
+    "year_3_revenue": 3835894,
+    "peak_revenue": 4570239,
+    "staff_count": 31,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "established food culture",
+      "growing tech sector",
+      "strong nightlife",
+      "strong local supplier network",
+      "growing population"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "slower customer adoption"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.06,
+    "notes": "Compatible zero trust adapter"
+  },
+  {
+    "expansion_id": "EXP-2017-DJD",
+    "city_id": "UTR",
+    "city_name": "Gradyboro, UT",
+    "opening_date": "2017-09-15",
+    "opening_cost": 326330,
+    "location_size_sqft": 4215,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 1148683,
+    "year_2_revenue": 1263732,
+    "year_3_revenue": 1670688,
+    "peak_revenue": 1737552,
+    "staff_count": 35,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "established food culture",
+      "growing tech sector",
+      "strong local supplier network",
+      "high median income"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "construction delays"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.27,
+    "notes": "Visionary intermediate orchestration"
+  },
+  {
+    "expansion_id": "EXP-2018-UWE",
+    "city_id": "SDZ",
+    "city_name": "Tateville, HI",
+    "opening_date": "2018-06-15",
+    "opening_cost": 472524,
+    "location_size_sqft": 3941,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 2329543,
+    "year_2_revenue": 2786949,
+    "year_3_revenue": 3116020,
+    "peak_revenue": 4098730,
+    "staff_count": 25,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "strong tourism",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "construction delays"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0,
+    "notes": "Intuitive mobile success"
+  },
+  {
+    "expansion_id": "EXP-2022-ELV",
+    "city_id": "KCL",
+    "city_name": "South Franzside, AZ",
+    "opening_date": "2022-08-15",
+    "opening_cost": 520060,
+    "location_size_sqft": 2847,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 1664191,
+    "year_2_revenue": 1957109,
+    "year_3_revenue": 2259749,
+    "peak_revenue": 2750600,
+    "staff_count": 35,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "growing tech sector",
+      "high foot traffic area",
+      "business district location",
+      "strong tourism",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "permitting delays",
+      "parking challenges"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.15,
+    "notes": "Open-source fault-tolerant product"
+  },
+  {
+    "expansion_id": "EXP-2018-TFS",
+    "city_id": "HKI",
+    "city_name": "Klockotown, SC",
+    "opening_date": "2018-02-15",
+    "opening_cost": 638804,
+    "location_size_sqft": 3954,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1801428,
+    "year_2_revenue": 2258602,
+    "year_3_revenue": 2169492,
+    "peak_revenue": 2866333,
+    "staff_count": 33,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "growing tech sector",
+      "strong local supplier network",
+      "excellent visibility",
+      "strong nightlife",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "supply chain issues",
+      "higher competition than expected"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.24,
+    "notes": "Networked holistic help-desk"
+  },
+  {
+    "expansion_id": "EXP-2017-ROO",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2017-04-15",
+    "opening_cost": 660460,
+    "location_size_sqft": 3920,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 3044720,
+    "year_2_revenue": 3629093,
+    "year_3_revenue": 4211891,
+    "peak_revenue": 4326942,
+    "staff_count": 25,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "limited direct competition",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.08,
+    "notes": "Adaptive eco-centric attitude"
+  },
+  {
+    "expansion_id": "EXP-2017-QGY",
+    "city_id": "RSS",
+    "city_name": "Watsicafield, FL",
+    "opening_date": "2017-12-15",
+    "opening_cost": 776303,
+    "location_size_sqft": 3054,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 3834936,
+    "year_2_revenue": 4527482,
+    "year_3_revenue": 5633437,
+    "peak_revenue": 5950445,
+    "staff_count": 35,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "growing population",
+      "business district location",
+      "high median income"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "higher than expected rent increases",
+      "construction delays"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.15,
+    "notes": "Triple-buffered heuristic function"
+  },
+  {
+    "expansion_id": "EXP-2019-OES",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2019-10-15",
+    "opening_cost": 791456,
+    "location_size_sqft": 4639,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 2580145,
+    "year_2_revenue": 3352247,
+    "year_3_revenue": 3733801,
+    "peak_revenue": 4482231,
+    "staff_count": 34,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "growing tech sector",
+      "established food culture",
+      "supportive local government",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "higher than expected rent increases"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.22,
+    "notes": "Persistent mission-critical archive"
+  },
+  {
+    "expansion_id": "EXP-2019-RGX",
+    "city_id": "RSS",
+    "city_name": "Watsicafield, FL",
+    "opening_date": "2019-09-15",
+    "opening_cost": 812598,
+    "location_size_sqft": 4760,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2413415,
+    "year_2_revenue": 2696325,
+    "year_3_revenue": 3151954,
+    "peak_revenue": 4213404,
+    "staff_count": 30,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "strong nightlife",
+      "established food culture",
+      "growing population"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "parking challenges",
+      "initial staffing difficulties"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.27,
+    "notes": "Enhanced tangible forecast"
+  },
+  {
+    "expansion_id": "EXP-2018-OGZ",
+    "city_id": "BPY",
+    "city_name": "New Cameronshire, MN",
+    "opening_date": "2018-11-15",
+    "opening_cost": 462826,
+    "location_size_sqft": 4168,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2036434,
+    "year_2_revenue": 2349734,
+    "year_3_revenue": 2929173,
+    "peak_revenue": 2689950,
+    "staff_count": 30,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "growing population",
+      "supportive local government",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "slower customer adoption"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.24,
+    "notes": "Realigned systemic instruction set"
+  },
+  {
+    "expansion_id": "EXP-2023-WJN",
+    "city_id": "HKI",
+    "city_name": "Klockotown, SC",
+    "opening_date": "2023-10-15",
+    "opening_cost": 567199,
+    "location_size_sqft": 3174,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 2767931,
+    "year_2_revenue": 3468845,
+    "year_3_revenue": 3835615,
+    "peak_revenue": 4916088,
+    "staff_count": 25,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "limited direct competition",
+      "low unemployment",
+      "strong nightlife",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "parking challenges",
+      "higher than expected rent increases"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.08,
+    "notes": "Seamless value-added knowledge user"
+  },
+  {
+    "expansion_id": "EXP-2016-CPK",
+    "city_id": "PEE",
+    "city_name": "Kertzmanncester, TN",
+    "opening_date": "2016-04-15",
+    "opening_cost": 586009,
+    "location_size_sqft": 4931,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2291295,
+    "year_2_revenue": 2843336,
+    "year_3_revenue": 3006465,
+    "peak_revenue": 3720657,
+    "staff_count": 34,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "low unemployment",
+      "excellent visibility",
+      "strong nightlife",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "higher than expected rent increases"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.11,
+    "notes": "Integrated zero administration projection"
+  },
+  {
+    "expansion_id": "EXP-2022-HBJ",
+    "city_id": "IDW",
+    "city_name": "South Lucyfort, OH",
+    "opening_date": "2022-11-15",
+    "opening_cost": 403040,
+    "location_size_sqft": 3641,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 1205090,
+    "year_2_revenue": 1511231,
+    "year_3_revenue": 1525646,
+    "peak_revenue": 1682678,
+    "staff_count": 22,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "favorable demographics",
+      "strong local supplier network",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "initial staffing difficulties"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.16,
+    "notes": "Persevering disintermediate emulation"
+  },
+  {
+    "expansion_id": "EXP-2017-WII",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2017-09-15",
+    "opening_cost": 472138,
+    "location_size_sqft": 3320,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 1388085,
+    "year_2_revenue": 1557308,
+    "year_3_revenue": 2056732,
+    "peak_revenue": 2020885,
+    "staff_count": 18,
+    "avg_customer_rating": 4.1,
+    "success_factors": [
+      "growing tech sector",
+      "established food culture",
+      "favorable demographics",
+      "business district location",
+      "growing population"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.16,
+    "notes": "Centralized dedicated protocol"
+  },
+  {
+    "expansion_id": "EXP-2015-JIX",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2015-07-15",
+    "opening_cost": 675396,
+    "location_size_sqft": 3926,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 2552995,
+    "year_2_revenue": 2821504,
+    "year_3_revenue": 3253889,
+    "peak_revenue": 3796997,
+    "staff_count": 27,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "established food culture",
+      "limited direct competition",
+      "favorable demographics",
+      "high median income"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "slower customer adoption",
+      "initial staffing difficulties"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.3,
+    "notes": "Quality-focused cloud-native structure"
+  },
+  {
+    "expansion_id": "EXP-2023-FUO",
+    "city_id": "IDW",
+    "city_name": "South Lucyfort, OH",
+    "opening_date": "2023-12-15",
+    "opening_cost": 536699,
+    "location_size_sqft": 4840,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1948216,
+    "year_2_revenue": 2428689,
+    "year_3_revenue": 2665866,
+    "peak_revenue": 3080187,
+    "staff_count": 23,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "high foot traffic area",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "seasonal fluctuations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.17,
+    "notes": "Optional regional instruction set"
+  },
+  {
+    "expansion_id": "EXP-2022-MXM",
+    "city_id": "GST",
+    "city_name": "Port Lavinaboro, DE",
+    "opening_date": "2022-04-15",
+    "opening_cost": 595806,
+    "location_size_sqft": 3398,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 1930411,
+    "year_2_revenue": 2504266,
+    "year_3_revenue": 2859160,
+    "peak_revenue": 3187127,
+    "staff_count": 22,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "limited direct competition",
+      "supportive local government",
+      "business district location"
+    ],
+    "challenges": [
+      "permitting delays",
+      "supply chain issues",
+      "construction delays"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.3,
+    "notes": "Adaptive bifurcated intranet"
+  },
+  {
+    "expansion_id": "EXP-2016-IRW",
+    "city_id": "RCZ",
+    "city_name": "North Geoffreyfort, IL",
+    "opening_date": "2016-08-15",
+    "opening_cost": 594198,
+    "location_size_sqft": 3379,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 2234183,
+    "year_2_revenue": 2630929,
+    "year_3_revenue": 3077362,
+    "peak_revenue": 3117847,
+    "staff_count": 26,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "business district location",
+      "high median income"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "parking challenges",
+      "supply chain issues"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.19,
+    "notes": "Centralized next generation solution"
+  },
+  {
+    "expansion_id": "EXP-2016-HJW",
+    "city_id": "KCL",
+    "city_name": "South Franzside, AZ",
+    "opening_date": "2016-12-15",
+    "opening_cost": 792289,
+    "location_size_sqft": 4677,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 2004491,
+    "year_2_revenue": 2473626,
+    "year_3_revenue": 2811776,
+    "peak_revenue": 2610682,
+    "staff_count": 19,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "strong tourism",
+      "high foot traffic area",
+      "diverse cuisine scene",
+      "business district location",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "slower customer adoption",
+      "seasonal fluctuations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.05,
+    "notes": "Front-line scalable time-frame"
+  },
+  {
+    "expansion_id": "EXP-2022-UML",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2022-04-15",
+    "opening_cost": 750398,
+    "location_size_sqft": 2944,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 2521336,
+    "year_2_revenue": 3188794,
+    "year_3_revenue": 3062872,
+    "peak_revenue": 4159586,
+    "staff_count": 21,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "strong local supplier network",
+      "limited direct competition",
+      "business district location",
+      "strong tourism",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.14,
+    "notes": "Exclusive transitional framework"
+  },
+  {
+    "expansion_id": "EXP-2015-QDT",
+    "city_id": "YFI",
+    "city_name": "Virginiamouth, MA",
+    "opening_date": "2015-02-15",
+    "opening_cost": 811438,
+    "location_size_sqft": 3171,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 3610899,
+    "year_2_revenue": 4183110,
+    "year_3_revenue": 4577314,
+    "peak_revenue": 6067348,
+    "staff_count": 21,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "growing population",
+      "established food culture",
+      "strong tourism"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "seasonal fluctuations"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.01,
+    "notes": "Versatile full-range encoding"
+  },
+  {
+    "expansion_id": "EXP-2015-ORT",
+    "city_id": "ORX",
+    "city_name": "Fort Quintenstad, IL",
+    "opening_date": "2015-03-15",
+    "opening_cost": 753128,
+    "location_size_sqft": 4140,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 2161476,
+    "year_2_revenue": 2667741,
+    "year_3_revenue": 2936900,
+    "peak_revenue": 2914055,
+    "staff_count": 19,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "limited direct competition",
+      "business district location",
+      "growing tech sector",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.02,
+    "notes": "Fundamental responsive interface"
+  },
+  {
+    "expansion_id": "EXP-2022-MVJ",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2022-12-15",
+    "opening_cost": 662267,
+    "location_size_sqft": 4827,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 3258353,
+    "year_2_revenue": 3837253,
+    "year_3_revenue": 4097596,
+    "peak_revenue": 4904254,
+    "staff_count": 31,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "growing population",
+      "low unemployment",
+      "business district location",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "local regulations",
+      "slower customer adoption"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.04,
+    "notes": "Implemented bifurcated model"
+  },
+  {
+    "expansion_id": "EXP-2015-JZT",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2015-04-15",
+    "opening_cost": 535100,
+    "location_size_sqft": 4176,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 1856795,
+    "year_2_revenue": 2217282,
+    "year_3_revenue": 2274937,
+    "peak_revenue": 2472264,
+    "staff_count": 32,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "high median income",
+      "growing tech sector",
+      "strong nightlife",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "supply chain issues"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.2,
+    "notes": "Advanced local approach"
+  },
+  {
+    "expansion_id": "EXP-2015-ZZD",
+    "city_id": "ORX",
+    "city_name": "Fort Quintenstad, IL",
+    "opening_date": "2015-07-15",
+    "opening_cost": 829265,
+    "location_size_sqft": 4512,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 2280478,
+    "year_2_revenue": 2889718,
+    "year_3_revenue": 2986890,
+    "peak_revenue": 3438604,
+    "staff_count": 19,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "high median income",
+      "business district location",
+      "limited direct competition",
+      "low unemployment"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "supply chain issues"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.03,
+    "notes": "Cross-platform client-driven generative AI"
+  },
+  {
+    "expansion_id": "EXP-2022-WQV",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2022-06-15",
+    "opening_cost": 803474,
+    "location_size_sqft": 3315,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 2137241,
+    "year_2_revenue": 2570883,
+    "year_3_revenue": 2658984,
+    "peak_revenue": 3610524,
+    "staff_count": 29,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "growing tech sector",
+      "business district location"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "slower customer adoption",
+      "initial staffing difficulties"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.17,
+    "notes": "Monitored eco-centric methodology"
+  },
+  {
+    "expansion_id": "EXP-2019-LGS",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2019-11-15",
+    "opening_cost": 490770,
+    "location_size_sqft": 4796,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 2149574,
+    "year_2_revenue": 2565800,
+    "year_3_revenue": 3177974,
+    "peak_revenue": 3303847,
+    "staff_count": 28,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "strong nightlife",
+      "excellent visibility",
+      "supportive local government"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "permitting delays"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.23,
+    "notes": "Organized context-sensitive adapter"
+  },
+  {
+    "expansion_id": "EXP-2022-EGH",
+    "city_id": "ONF",
+    "city_name": "Irmaton, OH",
+    "opening_date": "2022-11-15",
+    "opening_cost": 790026,
+    "location_size_sqft": 4420,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 3736821,
+    "year_2_revenue": 4547065,
+    "year_3_revenue": 4818700,
+    "peak_revenue": 5861973,
+    "staff_count": 33,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "supportive local government",
+      "strong local supplier network",
+      "established food culture",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "local regulations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.34,
+    "notes": "Progressive exuding concept"
+  },
+  {
+    "expansion_id": "EXP-2021-JGN",
+    "city_id": "GTK",
+    "city_name": "North Johnnyfort, KS",
+    "opening_date": "2021-10-15",
+    "opening_cost": 483611,
+    "location_size_sqft": 3174,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 2374530,
+    "year_2_revenue": 2865663,
+    "year_3_revenue": 2863726,
+    "peak_revenue": 3214349,
+    "staff_count": 22,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "high median income",
+      "growing population",
+      "established food culture"
+    ],
+    "challenges": [
+      "permitting delays",
+      "local regulations"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.14,
+    "notes": "Advanced zero administration access"
+  },
+  {
+    "expansion_id": "EXP-2024-JLX",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2024-04-15",
+    "opening_cost": 475074,
+    "location_size_sqft": 4976,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 1943054,
+    "year_2_revenue": 2421709,
+    "year_3_revenue": 2654532,
+    "peak_revenue": 3131828,
+    "staff_count": 27,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "favorable demographics",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.13,
+    "notes": "Customizable AI-powered framework"
+  },
+  {
+    "expansion_id": "EXP-2019-QKE",
+    "city_id": "IDW",
+    "city_name": "South Lucyfort, OH",
+    "opening_date": "2019-11-15",
+    "opening_cost": 477587,
+    "location_size_sqft": 4353,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1193968,
+    "year_2_revenue": 1551148,
+    "year_3_revenue": 1653166,
+    "peak_revenue": 1693932,
+    "staff_count": 21,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "limited direct competition",
+      "growing population",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "local regulations",
+      "permitting delays"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.07,
+    "notes": "Organic exuding intranet"
+  },
+  {
+    "expansion_id": "EXP-2022-YZS",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2022-02-15",
+    "opening_cost": 435784,
+    "location_size_sqft": 4928,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 2000249,
+    "year_2_revenue": 2340064,
+    "year_3_revenue": 2846345,
+    "peak_revenue": 3046253,
+    "staff_count": 23,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "growing population",
+      "business district location",
+      "established food culture",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "supply chain issues",
+      "higher competition than expected"
+    ],
+    "outcome": "successful",
+    "roi_3year": -0.03,
+    "notes": "Devolved executive moratorium"
+  },
+  {
+    "expansion_id": "EXP-2024-MVI",
+    "city_id": "YFI",
+    "city_name": "Virginiamouth, MA",
+    "opening_date": "2024-04-15",
+    "opening_cost": 827795,
+    "location_size_sqft": 3393,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 2110876,
+    "year_2_revenue": 2469131,
+    "year_3_revenue": 2540661,
+    "peak_revenue": 2886105,
+    "staff_count": 32,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "strong nightlife",
+      "business district location"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "higher than expected rent increases"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.34,
+    "notes": "Stand-alone value-added microservice"
+  },
+  {
+    "expansion_id": "EXP-2015-APY",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2015-07-15",
+    "opening_cost": 428211,
+    "location_size_sqft": 2845,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 1554406,
+    "year_2_revenue": 1812671,
+    "year_3_revenue": 1998972,
+    "peak_revenue": 2365008,
+    "staff_count": 29,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "low unemployment",
+      "growing population",
+      "business district location",
+      "supportive local government",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "parking challenges",
+      "permitting delays"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.15,
+    "notes": "Seamless maximized project"
+  },
+  {
+    "expansion_id": "EXP-2015-BRG",
+    "city_id": "KPU",
+    "city_name": "Murfreesboro, TN",
+    "opening_date": "2015-01-15",
+    "opening_cost": 608344,
+    "location_size_sqft": 4668,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 1660779,
+    "year_2_revenue": 1978989,
+    "year_3_revenue": 2398188,
+    "peak_revenue": 2331039,
+    "staff_count": 30,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "business district location",
+      "strong tourism",
+      "strong local supplier network",
+      "established food culture",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "supply chain issues"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.19,
+    "notes": "Grass-roots national knowledge user"
+  },
+  {
+    "expansion_id": "EXP-2015-KXM",
+    "city_id": "KPU",
+    "city_name": "Murfreesboro, TN",
+    "opening_date": "2015-02-15",
+    "opening_cost": 503222,
+    "location_size_sqft": 4752,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 2360109,
+    "year_2_revenue": 2660270,
+    "year_3_revenue": 3461065,
+    "peak_revenue": 3998862,
+    "staff_count": 30,
+    "avg_customer_rating": 4.1,
+    "success_factors": [
+      "diverse cuisine scene",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "slower customer adoption",
+      "construction delays"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.05,
+    "notes": "Decentralized discrete access"
+  },
+  {
+    "expansion_id": "EXP-2024-QNW",
+    "city_id": "CWL",
+    "city_name": "Viviannechester, NJ",
+    "opening_date": "2024-05-15",
+    "opening_cost": 339821,
+    "location_size_sqft": 2742,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1114612,
+    "year_2_revenue": 1303366,
+    "year_3_revenue": 1628935,
+    "peak_revenue": 1545498,
+    "staff_count": 20,
+    "avg_customer_rating": 4.1,
+    "success_factors": [
+      "strong local supplier network",
+      "business district location",
+      "supportive local government",
+      "low unemployment",
+      "high median income"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.25,
+    "notes": "Visionary AI-powered capability"
+  },
+  {
+    "expansion_id": "EXP-2017-KMU",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2017-12-15",
+    "opening_cost": 484410,
+    "location_size_sqft": 3080,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 1831070,
+    "year_2_revenue": 2366234,
+    "year_3_revenue": 2386869,
+    "peak_revenue": 3017293,
+    "staff_count": 30,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "strong local supplier network",
+      "high median income",
+      "growing population",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "higher than expected rent increases",
+      "seasonal fluctuations"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.33,
+    "notes": "Universal analyzing architecture"
+  },
+  {
+    "expansion_id": "EXP-2024-YLX",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2024-06-15",
+    "opening_cost": 599765,
+    "location_size_sqft": 4904,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2932851,
+    "year_2_revenue": 3648550,
+    "year_3_revenue": 3841950,
+    "peak_revenue": 4311617,
+    "staff_count": 20,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "growing tech sector",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "parking challenges"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.08,
+    "notes": "Open-source zero tolerance customer loyalty"
+  },
+  {
+    "expansion_id": "EXP-2023-LTG",
+    "city_id": "YAY",
+    "city_name": "West Scarlett, FL",
+    "opening_date": "2023-11-15",
+    "opening_cost": 449298,
+    "location_size_sqft": 4869,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1428766,
+    "year_2_revenue": 1765956,
+    "year_3_revenue": 2142461,
+    "peak_revenue": 2054407,
+    "staff_count": 23,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "excellent visibility",
+      "low unemployment"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.02,
+    "notes": "Profound incremental flexibility"
+  },
+  {
+    "expansion_id": "EXP-2018-FYB",
+    "city_id": "RCZ",
+    "city_name": "North Geoffreyfort, IL",
+    "opening_date": "2018-04-15",
+    "opening_cost": 556933,
+    "location_size_sqft": 3284,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 2667709,
+    "year_2_revenue": 3239511,
+    "year_3_revenue": 3363393,
+    "peak_revenue": 4373805,
+    "staff_count": 21,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "favorable demographics",
+      "strong local supplier network",
+      "high median income"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.19,
+    "notes": "Devolved bottom-line knowledge user"
+  },
+  {
+    "expansion_id": "EXP-2016-VYF",
+    "city_id": "MSU",
+    "city_name": "Kirkland, FL",
+    "opening_date": "2016-05-15",
+    "opening_cost": 503478,
+    "location_size_sqft": 3294,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 2114609,
+    "year_2_revenue": 2553344,
+    "year_3_revenue": 2876934,
+    "peak_revenue": 3327433,
+    "staff_count": 31,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "limited direct competition",
+      "growing population"
+    ],
+    "challenges": [
+      "parking challenges",
+      "permitting delays"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.09,
+    "notes": "Monitored regional budgetary management"
+  },
+  {
+    "expansion_id": "EXP-2020-HNM",
+    "city_id": "RCZ",
+    "city_name": "North Geoffreyfort, IL",
+    "opening_date": "2020-10-15",
+    "opening_cost": 671844,
+    "location_size_sqft": 3736,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 1813979,
+    "year_2_revenue": 2195681,
+    "year_3_revenue": 2423762,
+    "peak_revenue": 3051542,
+    "staff_count": 21,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "growing tech sector",
+      "strong tourism"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.07,
+    "notes": "Front-line context-sensitive standardization"
+  },
+  {
+    "expansion_id": "EXP-2016-LKW",
+    "city_id": "ONF",
+    "city_name": "Irmaton, OH",
+    "opening_date": "2016-04-15",
+    "opening_cost": 760314,
+    "location_size_sqft": 4333,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2919606,
+    "year_2_revenue": 3719196,
+    "year_3_revenue": 4174664,
+    "peak_revenue": 4299763,
+    "staff_count": 28,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "strong local supplier network",
+      "growing population",
+      "low unemployment"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "higher competition than expected",
+      "higher than expected rent increases"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.33,
+    "notes": "Versatile disintermediate standardization"
+  },
+  {
+    "expansion_id": "EXP-2023-EFK",
+    "city_id": "ONF",
+    "city_name": "Irmaton, OH",
+    "opening_date": "2023-04-15",
+    "opening_cost": 694686,
+    "location_size_sqft": 3173,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 2292464,
+    "year_2_revenue": 2603091,
+    "year_3_revenue": 2951035,
+    "peak_revenue": 3271284,
+    "staff_count": 18,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "growing tech sector",
+      "favorable demographics",
+      "diverse cuisine scene",
+      "strong tourism"
+    ],
+    "challenges": [
+      "parking challenges"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": -0.1,
+    "notes": "Upgradable homogeneous open architecture"
+  },
+  {
+    "expansion_id": "EXP-2023-IFY",
+    "city_id": "MSU",
+    "city_name": "Kirkland, FL",
+    "opening_date": "2023-06-15",
+    "opening_cost": 548070,
+    "location_size_sqft": 3524,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 1792189,
+    "year_2_revenue": 2239816,
+    "year_3_revenue": 2676714,
+    "peak_revenue": 2650884,
+    "staff_count": 21,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "limited direct competition",
+      "established food culture"
+    ],
+    "challenges": [
+      "local regulations",
+      "supply chain issues",
+      "parking challenges"
+    ],
+    "outcome": "successful",
+    "roi_3year": -0.08,
+    "notes": "Visionary attitude-oriented application"
+  },
+  {
+    "expansion_id": "EXP-2017-FDY",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2017-02-15",
+    "opening_cost": 834947,
+    "location_size_sqft": 3581,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 2897266,
+    "year_2_revenue": 3303630,
+    "year_3_revenue": 3966829,
+    "peak_revenue": 4744629,
+    "staff_count": 22,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "high median income",
+      "business district location",
+      "growing tech sector",
+      "established food culture",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "seasonal fluctuations",
+      "higher than expected rent increases"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.26,
+    "notes": "Cross-platform holistic migration"
+  },
+  {
+    "expansion_id": "EXP-2017-NAF",
+    "city_id": "GTK",
+    "city_name": "North Johnnyfort, KS",
+    "opening_date": "2017-03-15",
+    "opening_cost": 502128,
+    "location_size_sqft": 2786,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 2460427,
+    "year_2_revenue": 3053955,
+    "year_3_revenue": 3183722,
+    "peak_revenue": 4013047,
+    "staff_count": 28,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "growing tech sector",
+      "strong nightlife",
+      "favorable demographics",
+      "established food culture",
+      "business district location"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "initial staffing difficulties",
+      "slower customer adoption"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.16,
+    "notes": "Profit-focused encompassing workforce"
+  },
+  {
+    "expansion_id": "EXP-2017-VKZ",
+    "city_id": "HKI",
+    "city_name": "Klockotown, SC",
+    "opening_date": "2017-11-15",
+    "opening_cost": 488414,
+    "location_size_sqft": 4552,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 2310198,
+    "year_2_revenue": 2546425,
+    "year_3_revenue": 3190932,
+    "peak_revenue": 3431743,
+    "staff_count": 19,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "excellent visibility",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "permitting delays",
+      "seasonal fluctuations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.11,
+    "notes": "Focused AI-powered functionalities"
+  },
+  {
+    "expansion_id": "EXP-2022-YYQ",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2022-06-15",
+    "opening_cost": 735521,
+    "location_size_sqft": 3709,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 2728781,
+    "year_2_revenue": 3522117,
+    "year_3_revenue": 3324357,
+    "peak_revenue": 4872898,
+    "staff_count": 31,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "strong local supplier network",
+      "strong tourism",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.05,
+    "notes": "Centralized incremental productivity"
+  },
+  {
+    "expansion_id": "EXP-2015-GGG",
+    "city_id": "ONF",
+    "city_name": "Irmaton, OH",
+    "opening_date": "2015-01-15",
+    "opening_cost": 447152,
+    "location_size_sqft": 2849,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 1565032,
+    "year_2_revenue": 1866183,
+    "year_3_revenue": 1898121,
+    "peak_revenue": 2416381,
+    "staff_count": 24,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "high median income",
+      "growing tech sector",
+      "strong nightlife",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "construction delays",
+      "seasonal fluctuations",
+      "higher than expected rent increases"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.02,
+    "notes": "Upgradable AI-powered local area network"
+  },
+  {
+    "expansion_id": "EXP-2017-MCB",
+    "city_id": "GTK",
+    "city_name": "North Johnnyfort, KS",
+    "opening_date": "2017-10-15",
+    "opening_cost": 399060,
+    "location_size_sqft": 4113,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 1376757,
+    "year_2_revenue": 1738296,
+    "year_3_revenue": 1763071,
+    "peak_revenue": 2428582,
+    "staff_count": 29,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "high median income",
+      "high foot traffic area",
+      "low unemployment",
+      "growing tech sector",
+      "growing population"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.02,
+    "notes": "Organic content-based website"
+  },
+  {
+    "expansion_id": "EXP-2019-GLX",
+    "city_id": "MSU",
+    "city_name": "Kirkland, FL",
+    "opening_date": "2019-09-15",
+    "opening_cost": 676017,
+    "location_size_sqft": 4457,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 3170519,
+    "year_2_revenue": 4087247,
+    "year_3_revenue": 4294620,
+    "peak_revenue": 5132658,
+    "staff_count": 23,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "growing tech sector",
+      "high foot traffic area",
+      "favorable demographics",
+      "established food culture"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "local regulations",
+      "initial staffing difficulties"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.07,
+    "notes": "Integrated zero defect core"
+  },
+  {
+    "expansion_id": "EXP-2017-TSW",
+    "city_id": "PLS",
+    "city_name": "Karleyboro, NH",
+    "opening_date": "2017-06-15",
+    "opening_cost": 500806,
+    "location_size_sqft": 3936,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1257022,
+    "year_2_revenue": 1507312,
+    "year_3_revenue": 1679681,
+    "peak_revenue": 1689083,
+    "staff_count": 27,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "strong local supplier network",
+      "business district location",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "seasonal fluctuations"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.02,
+    "notes": "Proactive AI-powered toolset"
+  },
+  {
+    "expansion_id": "EXP-2017-EJK",
+    "city_id": "GST",
+    "city_name": "Port Lavinaboro, DE",
+    "opening_date": "2017-01-15",
+    "opening_cost": 805346,
+    "location_size_sqft": 4778,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 2705963,
+    "year_2_revenue": 3514365,
+    "year_3_revenue": 3410842,
+    "peak_revenue": 3999885,
+    "staff_count": 31,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "strong local supplier network",
+      "supportive local government",
+      "limited direct competition",
+      "favorable demographics",
+      "growing population"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "higher competition than expected",
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.03,
+    "notes": "AI-driven human-resource capability"
+  },
+  {
+    "expansion_id": "EXP-2018-KXR",
+    "city_id": "SDZ",
+    "city_name": "Tateville, HI",
+    "opening_date": "2018-12-15",
+    "opening_cost": 722353,
+    "location_size_sqft": 2931,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2159835,
+    "year_2_revenue": 2689337,
+    "year_3_revenue": 2606365,
+    "peak_revenue": 3047853,
+    "staff_count": 21,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "strong local supplier network",
+      "strong nightlife",
+      "limited direct competition",
+      "established food culture",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "permitting delays",
+      "initial staffing difficulties"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.05,
+    "notes": "Stand-alone 24/7 website"
+  },
+  {
+    "expansion_id": "EXP-2023-UVD",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2023-10-15",
+    "opening_cost": 307173,
+    "location_size_sqft": 3145,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 1038244,
+    "year_2_revenue": 1165024,
+    "year_3_revenue": 1353375,
+    "peak_revenue": 1832005,
+    "staff_count": 35,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "business district location",
+      "growing population",
+      "growing tech sector",
+      "strong tourism"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "higher than expected rent increases",
+      "supply chain issues"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.19,
+    "notes": "Phased data-driven adapter"
+  },
+  {
+    "expansion_id": "EXP-2017-OCW",
+    "city_id": "UTR",
+    "city_name": "Gradyboro, UT",
+    "opening_date": "2017-07-15",
+    "opening_cost": 572402,
+    "location_size_sqft": 3560,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 2192299,
+    "year_2_revenue": 2819161,
+    "year_3_revenue": 2907671,
+    "peak_revenue": 3061523,
+    "staff_count": 35,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "strong nightlife",
+      "limited direct competition",
+      "established food culture"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.13,
+    "notes": "Synchronised bottom-line utilisation"
+  },
+  {
+    "expansion_id": "EXP-2024-DJB",
+    "city_id": "GST",
+    "city_name": "Port Lavinaboro, DE",
+    "opening_date": "2024-07-15",
+    "opening_cost": 720109,
+    "location_size_sqft": 2501,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 1879484,
+    "year_2_revenue": 2384240,
+    "year_3_revenue": 2506781,
+    "peak_revenue": 2744091,
+    "staff_count": 25,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "business district location",
+      "high foot traffic area",
+      "excellent visibility",
+      "supportive local government",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "permitting delays",
+      "seasonal fluctuations",
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.09,
+    "notes": "Intuitive well-modulated workforce"
+  },
+  {
+    "expansion_id": "EXP-2020-RTG",
+    "city_id": "GTK",
+    "city_name": "North Johnnyfort, KS",
+    "opening_date": "2020-07-15",
+    "opening_cost": 593795,
+    "location_size_sqft": 4833,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 2333612,
+    "year_2_revenue": 3031297,
+    "year_3_revenue": 3095367,
+    "peak_revenue": 3433767,
+    "staff_count": 28,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "business district location",
+      "established food culture"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.01,
+    "notes": "Sustainable human-resource help-desk"
+  },
+  {
+    "expansion_id": "EXP-2021-UUN",
+    "city_id": "KPU",
+    "city_name": "Murfreesboro, TN",
+    "opening_date": "2021-01-15",
+    "opening_cost": 818830,
+    "location_size_sqft": 3124,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 2628443,
+    "year_2_revenue": 3356629,
+    "year_3_revenue": 3609186,
+    "peak_revenue": 3530077,
+    "staff_count": 19,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "high median income",
+      "supportive local government"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "construction delays",
+      "supply chain issues"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.09,
+    "notes": "Horizontal demand-driven matrix"
+  },
+  {
+    "expansion_id": "EXP-2024-SWL",
+    "city_id": "KCL",
+    "city_name": "South Franzside, AZ",
+    "opening_date": "2024-07-15",
+    "opening_cost": 580232,
+    "location_size_sqft": 2985,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 2866344,
+    "year_2_revenue": 3471427,
+    "year_3_revenue": 4132824,
+    "peak_revenue": 3740056,
+    "staff_count": 31,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "high foot traffic area",
+      "established food culture",
+      "strong nightlife",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "construction delays"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": -0.05,
+    "notes": "Profit-focused cohesive knowledge base"
+  },
+  {
+    "expansion_id": "EXP-2015-AQT",
+    "city_id": "MSU",
+    "city_name": "Kirkland, FL",
+    "opening_date": "2015-08-15",
+    "opening_cost": 389816,
+    "location_size_sqft": 4000,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 1247411,
+    "year_2_revenue": 1434782,
+    "year_3_revenue": 1845662,
+    "peak_revenue": 2218025,
+    "staff_count": 33,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "growing tech sector",
+      "diverse cuisine scene",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "construction delays",
+      "seasonal fluctuations"
+    ],
+    "outcome": "successful",
+    "roi_3year": -0.06,
+    "notes": "Programmable demand-driven function"
+  },
+  {
+    "expansion_id": "EXP-2016-JED",
+    "city_id": "RSS",
+    "city_name": "Watsicafield, FL",
+    "opening_date": "2016-09-15",
+    "opening_cost": 735960,
+    "location_size_sqft": 4965,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 1839900,
+    "year_2_revenue": 2074196,
+    "year_3_revenue": 2280778,
+    "peak_revenue": 2847264,
+    "staff_count": 33,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "strong nightlife",
+      "diverse cuisine scene",
+      "business district location",
+      "high median income",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "construction delays",
+      "permitting delays",
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.05,
+    "notes": "Immersive tangible migration"
+  },
+  {
+    "expansion_id": "EXP-2016-ONZ",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2016-10-15",
+    "opening_cost": 491098,
+    "location_size_sqft": 3421,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 1581336,
+    "year_2_revenue": 1773274,
+    "year_3_revenue": 2062488,
+    "peak_revenue": 2586912,
+    "staff_count": 23,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "excellent visibility",
+      "supportive local government"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "initial staffing difficulties"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.14,
+    "notes": "Realigned coherent flexibility"
+  },
+  {
+    "expansion_id": "EXP-2024-YLM",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2024-11-15",
+    "opening_cost": 369767,
+    "location_size_sqft": 3784,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 1323766,
+    "year_2_revenue": 1472405,
+    "year_3_revenue": 1649947,
+    "peak_revenue": 2339266,
+    "staff_count": 33,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "limited direct competition",
+      "growing population",
+      "diverse cuisine scene",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "supply chain issues"
+    ],
+    "outcome": "successful",
+    "roi_3year": -0.01,
+    "notes": "Devolved responsive policy"
+  },
+  {
+    "expansion_id": "EXP-2024-IOD",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2024-01-15",
+    "opening_cost": 764924,
+    "location_size_sqft": 4127,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 1958205,
+    "year_2_revenue": 2486943,
+    "year_3_revenue": 2393104,
+    "peak_revenue": 2815840,
+    "staff_count": 22,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "strong local supplier network",
+      "low unemployment",
+      "business district location",
+      "growing population"
+    ],
+    "challenges": [
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.09,
+    "notes": "Advanced bottom-line moderator"
+  },
+  {
+    "expansion_id": "EXP-2019-KJM",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2019-01-15",
+    "opening_cost": 565074,
+    "location_size_sqft": 4834,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 1452239,
+    "year_2_revenue": 1817374,
+    "year_3_revenue": 2069686,
+    "peak_revenue": 2419295,
+    "staff_count": 32,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "strong local supplier network",
+      "limited direct competition",
+      "business district location"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.27,
+    "notes": "Implemented resilient conglomeration"
+  },
+  {
+    "expansion_id": "EXP-2019-KAG",
+    "city_id": "YFI",
+    "city_name": "Virginiamouth, MA",
+    "opening_date": "2019-06-15",
+    "opening_cost": 834157,
+    "location_size_sqft": 4243,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 3870487,
+    "year_2_revenue": 5009186,
+    "year_3_revenue": 5571701,
+    "peak_revenue": 6298050,
+    "staff_count": 34,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "established food culture",
+      "high median income",
+      "strong local supplier network",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "parking challenges",
+      "higher than expected rent increases",
+      "supply chain issues"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.16,
+    "notes": "Decentralized optimal access"
+  },
+  {
+    "expansion_id": "EXP-2016-FOJ",
+    "city_id": "SAG",
+    "city_name": "Lake Kayleighworth, WA",
+    "opening_date": "2016-08-15",
+    "opening_cost": 628857,
+    "location_size_sqft": 3739,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 2138114,
+    "year_2_revenue": 2638146,
+    "year_3_revenue": 2708045,
+    "peak_revenue": 3843941,
+    "staff_count": 22,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "supportive local government",
+      "excellent visibility",
+      "favorable demographics",
+      "strong tourism",
+      "high median income"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "supply chain issues"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.01,
+    "notes": "Polarised immersive matrices"
+  },
+  {
+    "expansion_id": "EXP-2016-RIE",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2016-01-15",
+    "opening_cost": 768057,
+    "location_size_sqft": 4495,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 3133672,
+    "year_2_revenue": 3815745,
+    "year_3_revenue": 3965554,
+    "peak_revenue": 5421703,
+    "staff_count": 31,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "low unemployment",
+      "excellent visibility",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "slower customer adoption",
+      "initial staffing difficulties"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": -0.07,
+    "notes": "Managed hybrid contingency"
+  },
+  {
+    "expansion_id": "EXP-2024-YDU",
+    "city_id": "CWL",
+    "city_name": "Viviannechester, NJ",
+    "opening_date": "2024-02-15",
+    "opening_cost": 344121,
+    "location_size_sqft": 4256,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 1170011,
+    "year_2_revenue": 1386034,
+    "year_3_revenue": 1492045,
+    "peak_revenue": 1708576,
+    "staff_count": 24,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "strong nightlife",
+      "strong local supplier network",
+      "limited direct competition",
+      "high foot traffic area",
+      "strong tourism"
+    ],
+    "challenges": [
+      "construction delays",
+      "supply chain issues"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.1,
+    "notes": "Persistent composite protocol"
+  },
+  {
+    "expansion_id": "EXP-2023-OSP",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2023-02-15",
+    "opening_cost": 618045,
+    "location_size_sqft": 4080,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 3065503,
+    "year_2_revenue": 3900291,
+    "year_3_revenue": 3951026,
+    "peak_revenue": 5258220,
+    "staff_count": 28,
+    "avg_customer_rating": 4.1,
+    "success_factors": [
+      "growing tech sector",
+      "business district location"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "local regulations",
+      "slower customer adoption"
+    ],
+    "outcome": "successful",
+    "roi_3year": -0.05,
+    "notes": "Integrated bottom-line orchestration"
+  },
+  {
+    "expansion_id": "EXP-2016-RRZ",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2016-12-15",
+    "opening_cost": 612877,
+    "location_size_sqft": 4343,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 1912177,
+    "year_2_revenue": 2159034,
+    "year_3_revenue": 2668229,
+    "peak_revenue": 2818737,
+    "staff_count": 33,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "strong tourism",
+      "supportive local government",
+      "established food culture",
+      "strong local supplier network",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.31,
+    "notes": "Customer-focused global initiative"
+  },
+  {
+    "expansion_id": "EXP-2024-PBS",
+    "city_id": "RSS",
+    "city_name": "Watsicafield, FL",
+    "opening_date": "2024-07-15",
+    "opening_cost": 545653,
+    "location_size_sqft": 4908,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 2008003,
+    "year_2_revenue": 2548120,
+    "year_3_revenue": 2700773,
+    "peak_revenue": 3262828,
+    "staff_count": 29,
+    "avg_customer_rating": 4.1,
+    "success_factors": [
+      "strong local supplier network",
+      "limited direct competition",
+      "strong nightlife",
+      "low unemployment"
+    ],
+    "challenges": [
+      "permitting delays",
+      "seasonal fluctuations",
+      "supply chain issues"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.02,
+    "notes": "Advanced zero defect success"
+  },
+  {
+    "expansion_id": "EXP-2015-UJZ",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2015-12-15",
+    "opening_cost": 755997,
+    "location_size_sqft": 3357,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 3303706,
+    "year_2_revenue": 3954826,
+    "year_3_revenue": 3965784,
+    "peak_revenue": 5890843,
+    "staff_count": 31,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "high foot traffic area",
+      "strong local supplier network",
+      "growing population"
+    ],
+    "challenges": [
+      "seasonal fluctuations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.03,
+    "notes": "Universal heuristic workforce"
+  },
+  {
+    "expansion_id": "EXP-2023-EZZ",
+    "city_id": "UTR",
+    "city_name": "Gradyboro, UT",
+    "opening_date": "2023-07-15",
+    "opening_cost": 525174,
+    "location_size_sqft": 3198,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 2510332,
+    "year_2_revenue": 3226872,
+    "year_3_revenue": 3517114,
+    "peak_revenue": 3936257,
+    "staff_count": 21,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "high median income",
+      "diverse cuisine scene",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "parking challenges",
+      "initial staffing difficulties",
+      "higher than expected rent increases"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.09,
+    "notes": "Balanced tangible functionalities"
+  },
+  {
+    "expansion_id": "EXP-2024-YKP",
+    "city_id": "KPU",
+    "city_name": "Murfreesboro, TN",
+    "opening_date": "2024-08-15",
+    "opening_cost": 316273,
+    "location_size_sqft": 3965,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 1540249,
+    "year_2_revenue": 1765638,
+    "year_3_revenue": 1915173,
+    "peak_revenue": 2072784,
+    "staff_count": 28,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "growing population",
+      "favorable demographics",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.12,
+    "notes": "Secured demand-driven focus group"
+  },
+  {
+    "expansion_id": "EXP-2021-FDP",
+    "city_id": "BPY",
+    "city_name": "New Cameronshire, MN",
+    "opening_date": "2021-07-15",
+    "opening_cost": 496232,
+    "location_size_sqft": 4612,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 2312441,
+    "year_2_revenue": 2581615,
+    "year_3_revenue": 3374524,
+    "peak_revenue": 3977442,
+    "staff_count": 27,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "strong local supplier network",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "local regulations",
+      "initial staffing difficulties"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.31,
+    "notes": "Visionary motivating paradigm"
+  },
+  {
+    "expansion_id": "EXP-2024-IZK",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2024-01-15",
+    "opening_cost": 658649,
+    "location_size_sqft": 3652,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 2542385,
+    "year_2_revenue": 3003476,
+    "year_3_revenue": 3763203,
+    "peak_revenue": 3699417,
+    "staff_count": 18,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "strong local supplier network",
+      "growing population",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.25,
+    "notes": "Centralized bottom-line encoding"
+  },
+  {
+    "expansion_id": "EXP-2020-RVJ",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2020-07-15",
+    "opening_cost": 732003,
+    "location_size_sqft": 2672,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 3352572,
+    "year_2_revenue": 4321906,
+    "year_3_revenue": 4540234,
+    "peak_revenue": 4367456,
+    "staff_count": 18,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "strong local supplier network",
+      "established food culture",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "permitting delays",
+      "supply chain issues",
+      "slower customer adoption"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.01,
+    "notes": "Future-proofed zero administration circuit"
+  },
+  {
+    "expansion_id": "EXP-2022-JBW",
+    "city_id": "CWL",
+    "city_name": "Viviannechester, NJ",
+    "opening_date": "2022-12-15",
+    "opening_cost": 437108,
+    "location_size_sqft": 3187,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 1333179,
+    "year_2_revenue": 1689054,
+    "year_3_revenue": 1980512,
+    "peak_revenue": 2224121,
+    "staff_count": 21,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "business district location",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "parking challenges"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.35,
+    "notes": "Automated executive alliance"
+  },
+  {
+    "expansion_id": "EXP-2019-XNF",
+    "city_id": "PLS",
+    "city_name": "Karleyboro, NH",
+    "opening_date": "2019-03-15",
+    "opening_cost": 759476,
+    "location_size_sqft": 3611,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 3204987,
+    "year_2_revenue": 4133263,
+    "year_3_revenue": 4009513,
+    "peak_revenue": 4319495,
+    "staff_count": 35,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "high median income",
+      "supportive local government",
+      "diverse cuisine scene",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "permitting delays"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.35,
+    "notes": "Compatible contextually-based middleware"
+  },
+  {
+    "expansion_id": "EXP-2023-SMO",
+    "city_id": "BPY",
+    "city_name": "New Cameronshire, MN",
+    "opening_date": "2023-07-15",
+    "opening_cost": 540428,
+    "location_size_sqft": 2758,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 2415713,
+    "year_2_revenue": 2756003,
+    "year_3_revenue": 3240409,
+    "peak_revenue": 3192200,
+    "staff_count": 31,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "growing tech sector",
+      "supportive local government",
+      "business district location",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "initial staffing difficulties",
+      "parking challenges"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.14,
+    "notes": "Grass-roots real-time paradigm"
+  },
+  {
+    "expansion_id": "EXP-2018-HXW",
+    "city_id": "ONF",
+    "city_name": "Irmaton, OH",
+    "opening_date": "2018-08-15",
+    "opening_cost": 461861,
+    "location_size_sqft": 4480,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2198457,
+    "year_2_revenue": 2476142,
+    "year_3_revenue": 2786866,
+    "peak_revenue": 3914783,
+    "staff_count": 35,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "high foot traffic area",
+      "diverse cuisine scene",
+      "growing tech sector",
+      "business district location"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "permitting delays"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.02,
+    "notes": "Virtual data-driven implementation"
+  },
+  {
+    "expansion_id": "EXP-2015-QFJ",
+    "city_id": "ORX",
+    "city_name": "Fort Quintenstad, IL",
+    "opening_date": "2015-09-15",
+    "opening_cost": 683580,
+    "location_size_sqft": 3736,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 1736294,
+    "year_2_revenue": 2016273,
+    "year_3_revenue": 2270451,
+    "peak_revenue": 2994014,
+    "staff_count": 21,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "strong local supplier network",
+      "low unemployment",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "seasonal fluctuations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.34,
+    "notes": "Visionary zero trust hierarchy"
+  },
+  {
+    "expansion_id": "EXP-2023-NIX",
+    "city_id": "CML",
+    "city_name": "Lake Milton, AZ",
+    "opening_date": "2023-01-15",
+    "opening_cost": 514545,
+    "location_size_sqft": 2555,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 1980997,
+    "year_2_revenue": 2204370,
+    "year_3_revenue": 2662453,
+    "peak_revenue": 2893000,
+    "staff_count": 21,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "diverse cuisine scene",
+      "growing population",
+      "high foot traffic area",
+      "business district location"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "supply chain issues",
+      "local regulations"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.08,
+    "notes": "Focused reciprocal pricing structure"
+  },
+  {
+    "expansion_id": "EXP-2020-UFZ",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2020-01-15",
+    "opening_cost": 360861,
+    "location_size_sqft": 3482,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 1392923,
+    "year_2_revenue": 1631996,
+    "year_3_revenue": 1872739,
+    "peak_revenue": 2450013,
+    "staff_count": 33,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "strong tourism",
+      "growing population",
+      "high median income",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.21,
+    "notes": "Proactive global intranet"
+  },
+  {
+    "expansion_id": "EXP-2023-SZU",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2023-12-15",
+    "opening_cost": 525240,
+    "location_size_sqft": 3652,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 1397139,
+    "year_2_revenue": 1776929,
+    "year_3_revenue": 1679927,
+    "peak_revenue": 2278435,
+    "staff_count": 27,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "high median income",
+      "low unemployment",
+      "growing population",
+      "favorable demographics",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.33,
+    "notes": "Smart attitude-oriented array"
+  },
+  {
+    "expansion_id": "EXP-2019-ZPI",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2019-08-15",
+    "opening_cost": 389994,
+    "location_size_sqft": 3230,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 1513175,
+    "year_2_revenue": 1932939,
+    "year_3_revenue": 1978917,
+    "peak_revenue": 2705578,
+    "staff_count": 34,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "excellent visibility",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "local regulations",
+      "higher than expected rent increases"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.17,
+    "notes": "Horizontal tangible hierarchy"
+  },
+  {
+    "expansion_id": "EXP-2023-KJQ",
+    "city_id": "YFI",
+    "city_name": "Virginiamouth, MA",
+    "opening_date": "2023-06-15",
+    "opening_cost": 684550,
+    "location_size_sqft": 3492,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 2868265,
+    "year_2_revenue": 3174834,
+    "year_3_revenue": 3998504,
+    "peak_revenue": 3751142,
+    "staff_count": 27,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "business district location",
+      "growing tech sector",
+      "high median income",
+      "growing population",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.27,
+    "notes": "Visionary responsive local area network"
+  },
+  {
+    "expansion_id": "EXP-2020-KLO",
+    "city_id": "PGK",
+    "city_name": "Newport Beach, RI",
+    "opening_date": "2020-10-15",
+    "opening_cost": 832638,
+    "location_size_sqft": 4659,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 3980011,
+    "year_2_revenue": 4632197,
+    "year_3_revenue": 5197236,
+    "peak_revenue": 6529602,
+    "staff_count": 28,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "excellent visibility",
+      "established food culture",
+      "strong nightlife",
+      "growing population",
+      "high median income"
+    ],
+    "challenges": [
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.32,
+    "notes": "Persevering holistic portal"
+  },
+  {
+    "expansion_id": "EXP-2016-DNB",
+    "city_id": "SDZ",
+    "city_name": "Tateville, HI",
+    "opening_date": "2016-01-15",
+    "opening_cost": 585819,
+    "location_size_sqft": 3820,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1763315,
+    "year_2_revenue": 2012378,
+    "year_3_revenue": 2392570,
+    "peak_revenue": 2536476,
+    "staff_count": 24,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "diverse cuisine scene",
+      "strong tourism",
+      "business district location",
+      "growing tech sector",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "seasonal fluctuations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.24,
+    "notes": "Future-proofed methodical hub"
+  },
+  {
+    "expansion_id": "EXP-2022-LQF",
+    "city_id": "KCL",
+    "city_name": "South Franzside, AZ",
+    "opening_date": "2022-07-15",
+    "opening_cost": 288008,
+    "location_size_sqft": 4003,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 930266,
+    "year_2_revenue": 1070129,
+    "year_3_revenue": 1225887,
+    "peak_revenue": 1386954,
+    "staff_count": 25,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "strong local supplier network",
+      "supportive local government",
+      "high foot traffic area",
+      "growing population"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "construction delays",
+      "parking challenges"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.15,
+    "notes": "Seamless clear-thinking task-force"
+  },
+  {
+    "expansion_id": "EXP-2020-YCL",
+    "city_id": "YFI",
+    "city_name": "Virginiamouth, MA",
+    "opening_date": "2020-08-15",
+    "opening_cost": 773956,
+    "location_size_sqft": 4443,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 1934891,
+    "year_2_revenue": 2172301,
+    "year_3_revenue": 2669024,
+    "peak_revenue": 2666394,
+    "staff_count": 23,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "high foot traffic area",
+      "strong local supplier network",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "permitting delays",
+      "initial staffing difficulties",
+      "seasonal fluctuations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.19,
+    "notes": "Intuitive encompassing approach"
+  },
+  {
+    "expansion_id": "EXP-2022-CHX",
+    "city_id": "MSU",
+    "city_name": "Kirkland, FL",
+    "opening_date": "2022-04-15",
+    "opening_cost": 432831,
+    "location_size_sqft": 4805,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 1735653,
+    "year_2_revenue": 2060348,
+    "year_3_revenue": 2084738,
+    "peak_revenue": 2921062,
+    "staff_count": 23,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "limited direct competition",
+      "supportive local government",
+      "low unemployment"
+    ],
+    "challenges": [
+      "permitting delays",
+      "supply chain issues"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.16,
+    "notes": "Polarised discrete complexity"
+  },
+  {
+    "expansion_id": "EXP-2022-CDA",
+    "city_id": "RCZ",
+    "city_name": "North Geoffreyfort, IL",
+    "opening_date": "2022-05-15",
+    "opening_cost": 468129,
+    "location_size_sqft": 3593,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 2289149,
+    "year_2_revenue": 2884734,
+    "year_3_revenue": 3417321,
+    "peak_revenue": 3510554,
+    "staff_count": 28,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "diverse cuisine scene",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "parking challenges",
+      "slower customer adoption"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.27,
+    "notes": "Advanced mobile framework"
+  },
+  {
+    "expansion_id": "EXP-2020-WFD",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2020-03-15",
+    "opening_cost": 366792,
+    "location_size_sqft": 4447,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 1569870,
+    "year_2_revenue": 2017344,
+    "year_3_revenue": 1886253,
+    "peak_revenue": 2144193,
+    "staff_count": 31,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "strong local supplier network",
+      "growing tech sector",
+      "supportive local government",
+      "diverse cuisine scene",
+      "growing population"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "supply chain issues"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.22,
+    "notes": "Triple-buffered attitude-oriented internet solution"
+  },
+  {
+    "expansion_id": "EXP-2017-VUT",
+    "city_id": "GTK",
+    "city_name": "North Johnnyfort, KS",
+    "opening_date": "2017-06-15",
+    "opening_cost": 793811,
+    "location_size_sqft": 3315,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 3627717,
+    "year_2_revenue": 4201354,
+    "year_3_revenue": 4731236,
+    "peak_revenue": 5220095,
+    "staff_count": 21,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "diverse cuisine scene",
+      "strong local supplier network",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "seasonal fluctuations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.03,
+    "notes": "Customer-focused responsive productivity"
+  },
+  {
+    "expansion_id": "EXP-2020-DQW",
+    "city_id": "PGK",
+    "city_name": "Newport Beach, RI",
+    "opening_date": "2020-10-15",
+    "opening_cost": 652735,
+    "location_size_sqft": 4355,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 2206245,
+    "year_2_revenue": 2592538,
+    "year_3_revenue": 3191388,
+    "peak_revenue": 3287965,
+    "staff_count": 21,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "excellent visibility",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.29,
+    "notes": "Robust uniform middleware"
+  },
+  {
+    "expansion_id": "EXP-2018-LUV",
+    "city_id": "KCL",
+    "city_name": "South Franzside, AZ",
+    "opening_date": "2018-04-15",
+    "opening_cost": 690395,
+    "location_size_sqft": 2826,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 3099873,
+    "year_2_revenue": 3730078,
+    "year_3_revenue": 4418550,
+    "peak_revenue": 4350359,
+    "staff_count": 31,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "growing tech sector",
+      "strong local supplier network",
+      "high median income"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "slower customer adoption",
+      "local regulations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.27,
+    "notes": "AI-driven empowering process improvement"
+  },
+  {
+    "expansion_id": "EXP-2024-EGC",
+    "city_id": "CWL",
+    "city_name": "Viviannechester, NJ",
+    "opening_date": "2024-08-15",
+    "opening_cost": 395912,
+    "location_size_sqft": 4846,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1061044,
+    "year_2_revenue": 1214122,
+    "year_3_revenue": 1555581,
+    "peak_revenue": 1396799,
+    "staff_count": 30,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "strong tourism",
+      "growing population"
+    ],
+    "challenges": [
+      "parking challenges"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.09,
+    "notes": "Synchronised asymmetric success"
+  },
+  {
+    "expansion_id": "EXP-2024-UEO",
+    "city_id": "PLS",
+    "city_name": "Karleyboro, NH",
+    "opening_date": "2024-05-15",
+    "opening_cost": 555317,
+    "location_size_sqft": 4815,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1738142,
+    "year_2_revenue": 2185170,
+    "year_3_revenue": 2339568,
+    "peak_revenue": 2384321,
+    "staff_count": 27,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "supportive local government",
+      "low unemployment",
+      "high median income",
+      "strong local supplier network",
+      "growing population"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.1,
+    "notes": "Profound regional focus group"
+  },
+  {
+    "expansion_id": "EXP-2024-YEB",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2024-03-15",
+    "opening_cost": 504101,
+    "location_size_sqft": 2668,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 1950871,
+    "year_2_revenue": 2281230,
+    "year_3_revenue": 2727232,
+    "peak_revenue": 3278425,
+    "staff_count": 35,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "diverse cuisine scene",
+      "low unemployment",
+      "strong local supplier network",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "permitting delays"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.16,
+    "notes": "Immersive explicit array"
+  },
+  {
+    "expansion_id": "EXP-2023-KBR",
+    "city_id": "BPY",
+    "city_name": "New Cameronshire, MN",
+    "opening_date": "2023-10-15",
+    "opening_cost": 416769,
+    "location_size_sqft": 2589,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 1200295,
+    "year_2_revenue": 1330765,
+    "year_3_revenue": 1534714,
+    "peak_revenue": 1734307,
+    "staff_count": 33,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "growing population",
+      "supportive local government"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "higher competition than expected"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.29,
+    "notes": "Public-key contextually-based array"
+  },
+  {
+    "expansion_id": "EXP-2015-ZWV",
+    "city_id": "IDW",
+    "city_name": "South Lucyfort, OH",
+    "opening_date": "2015-10-15",
+    "opening_cost": 812162,
+    "location_size_sqft": 2761,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 2257810,
+    "year_2_revenue": 2775037,
+    "year_3_revenue": 3151509,
+    "peak_revenue": 3019689,
+    "staff_count": 24,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "low unemployment",
+      "strong local supplier network",
+      "established food culture",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.2,
+    "notes": "AI-driven 24 hour knowledge user"
+  },
+  {
+    "expansion_id": "EXP-2023-PAD",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2023-09-15",
+    "opening_cost": 734982,
+    "location_size_sqft": 3509,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 1955053,
+    "year_2_revenue": 2436459,
+    "year_3_revenue": 2668854,
+    "peak_revenue": 3517337,
+    "staff_count": 23,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "excellent visibility",
+      "business district location",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "higher competition than expected",
+      "supply chain issues"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.35,
+    "notes": "Grass-roots systemic structure"
+  },
+  {
+    "expansion_id": "EXP-2022-EFV",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2022-08-15",
+    "opening_cost": 499240,
+    "location_size_sqft": 2816,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 1812242,
+    "year_2_revenue": 2299552,
+    "year_3_revenue": 2681057,
+    "peak_revenue": 3203465,
+    "staff_count": 25,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "growing tech sector",
+      "strong nightlife",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "higher than expected rent increases",
+      "permitting delays"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.23,
+    "notes": "Advanced real-time access"
+  },
+  {
+    "expansion_id": "EXP-2023-TNF",
+    "city_id": "PLS",
+    "city_name": "Karleyboro, NH",
+    "opening_date": "2023-10-15",
+    "opening_cost": 781934,
+    "location_size_sqft": 3967,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2947893,
+    "year_2_revenue": 3702014,
+    "year_3_revenue": 4249870,
+    "peak_revenue": 4593257,
+    "staff_count": 24,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "strong local supplier network",
+      "strong tourism",
+      "low unemployment",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "local regulations",
+      "supply chain issues"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.21,
+    "notes": "Profit-focused holistic flexibility"
+  },
+  {
+    "expansion_id": "EXP-2023-CMS",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2023-10-15",
+    "opening_cost": 638573,
+    "location_size_sqft": 3727,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 2931050,
+    "year_2_revenue": 3780865,
+    "year_3_revenue": 4313515,
+    "peak_revenue": 3999833,
+    "staff_count": 35,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "diverse cuisine scene",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "initial staffing difficulties",
+      "slower customer adoption"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.07,
+    "notes": "Smart reciprocal leverage"
+  },
+  {
+    "expansion_id": "EXP-2018-ADB",
+    "city_id": "SAG",
+    "city_name": "Lake Kayleighworth, WA",
+    "opening_date": "2018-05-15",
+    "opening_cost": 546987,
+    "location_size_sqft": 4282,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 1553442,
+    "year_2_revenue": 1816970,
+    "year_3_revenue": 1963244,
+    "peak_revenue": 2285248,
+    "staff_count": 20,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "diverse cuisine scene",
+      "established food culture",
+      "strong local supplier network",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "local regulations",
+      "initial staffing difficulties"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.01,
+    "notes": "Organic directional complexity"
+  },
+  {
+    "expansion_id": "EXP-2020-YYI",
+    "city_id": "ONF",
+    "city_name": "Irmaton, OH",
+    "opening_date": "2020-04-15",
+    "opening_cost": 554425,
+    "location_size_sqft": 3054,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1968210,
+    "year_2_revenue": 2528876,
+    "year_3_revenue": 2412026,
+    "peak_revenue": 2903819,
+    "staff_count": 32,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "high median income",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "parking challenges",
+      "seasonal fluctuations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.01,
+    "notes": "Devolved cohesive leverage"
+  },
+  {
+    "expansion_id": "EXP-2022-TJW",
+    "city_id": "IKR",
+    "city_name": "Lake Guyfort, WY",
+    "opening_date": "2022-07-15",
+    "opening_cost": 420702,
+    "location_size_sqft": 2588,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 1817433,
+    "year_2_revenue": 2347570,
+    "year_3_revenue": 2228212,
+    "peak_revenue": 3049926,
+    "staff_count": 25,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "limited direct competition",
+      "diverse cuisine scene",
+      "low unemployment",
+      "business district location"
+    ],
+    "challenges": [
+      "supply chain issues"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.13,
+    "notes": "Quality-focused well-modulated archive"
+  },
+  {
+    "expansion_id": "EXP-2015-ZEJ",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2015-01-15",
+    "opening_cost": 397124,
+    "location_size_sqft": 4209,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 1318452,
+    "year_2_revenue": 1603095,
+    "year_3_revenue": 1623368,
+    "peak_revenue": 2259369,
+    "staff_count": 20,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "growing population",
+      "low unemployment",
+      "high foot traffic area",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "supply chain issues",
+      "higher than expected rent increases"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0,
+    "notes": "Triple-buffered neutral hardware"
+  },
+  {
+    "expansion_id": "EXP-2017-MAZ",
+    "city_id": "IKR",
+    "city_name": "Lake Guyfort, WY",
+    "opening_date": "2017-06-15",
+    "opening_cost": 713466,
+    "location_size_sqft": 2832,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 2561343,
+    "year_2_revenue": 3300631,
+    "year_3_revenue": 3144550,
+    "peak_revenue": 4412993,
+    "staff_count": 35,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "growing tech sector",
+      "strong local supplier network",
+      "low unemployment",
+      "strong tourism",
+      "high median income"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "supply chain issues",
+      "seasonal fluctuations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.27,
+    "notes": "Upgradable neutral success"
+  },
+  {
+    "expansion_id": "EXP-2020-OIH",
+    "city_id": "CML",
+    "city_name": "Lake Milton, AZ",
+    "opening_date": "2020-10-15",
+    "opening_cost": 763051,
+    "location_size_sqft": 4353,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 3242965,
+    "year_2_revenue": 3829526,
+    "year_3_revenue": 4668245,
+    "peak_revenue": 4469841,
+    "staff_count": 24,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "limited direct competition",
+      "strong local supplier network",
+      "growing population",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "permitting delays",
+      "slower customer adoption",
+      "parking challenges"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.08,
+    "notes": "Organic heuristic algorithm"
+  },
+  {
+    "expansion_id": "EXP-2018-IHF",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2018-07-15",
+    "opening_cost": 482079,
+    "location_size_sqft": 4965,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 2130789,
+    "year_2_revenue": 2433151,
+    "year_3_revenue": 2996589,
+    "peak_revenue": 3354167,
+    "staff_count": 29,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "growing population",
+      "supportive local government",
+      "low unemployment"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "seasonal fluctuations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.05,
+    "notes": "Quality-focused transitional complexity"
+  },
+  {
+    "expansion_id": "EXP-2022-ZID",
+    "city_id": "ONF",
+    "city_name": "Irmaton, OH",
+    "opening_date": "2022-10-15",
+    "opening_cost": 383810,
+    "location_size_sqft": 4159,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 1876833,
+    "year_2_revenue": 2137310,
+    "year_3_revenue": 2519576,
+    "peak_revenue": 2531639,
+    "staff_count": 34,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "high foot traffic area",
+      "strong local supplier network",
+      "high median income",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "supply chain issues"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.21,
+    "notes": "Digitized asymmetric service-desk"
+  },
+  {
+    "expansion_id": "EXP-2016-WRT",
+    "city_id": "GHX",
+    "city_name": "Bayonne, KS",
+    "opening_date": "2016-02-15",
+    "opening_cost": 827668,
+    "location_size_sqft": 2619,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 4055575,
+    "year_2_revenue": 5111163,
+    "year_3_revenue": 5426987,
+    "peak_revenue": 6114521,
+    "staff_count": 20,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "low unemployment",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "parking challenges",
+      "permitting delays"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.06,
+    "notes": "Public-key mission-critical structure"
+  },
+  {
+    "expansion_id": "EXP-2019-QPV",
+    "city_id": "RCZ",
+    "city_name": "North Geoffreyfort, IL",
+    "opening_date": "2019-01-15",
+    "opening_cost": 364820,
+    "location_size_sqft": 3191,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1743840,
+    "year_2_revenue": 2146846,
+    "year_3_revenue": 2264559,
+    "peak_revenue": 2909762,
+    "staff_count": 18,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "strong tourism",
+      "growing population"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.28,
+    "notes": "Triple-buffered attitude-oriented middleware"
+  },
+  {
+    "expansion_id": "EXP-2019-AXK",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2019-01-15",
+    "opening_cost": 597156,
+    "location_size_sqft": 3765,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 1672038,
+    "year_2_revenue": 1933491,
+    "year_3_revenue": 2320678,
+    "peak_revenue": 2563469,
+    "staff_count": 31,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "business district location",
+      "limited direct competition",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0,
+    "notes": "Quality-focused human-resource function"
+  },
+  {
+    "expansion_id": "EXP-2024-XHA",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2024-11-15",
+    "opening_cost": 377794,
+    "location_size_sqft": 3509,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 1707627,
+    "year_2_revenue": 2199203,
+    "year_3_revenue": 2297611,
+    "peak_revenue": 2292155,
+    "staff_count": 35,
+    "avg_customer_rating": 4,
+    "success_factors": [
+      "diverse cuisine scene",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "supply chain issues"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.03,
+    "notes": "Triple-buffered methodical software"
+  },
+  {
+    "expansion_id": "EXP-2024-LBJ",
+    "city_id": "MSU",
+    "city_name": "Kirkland, FL",
+    "opening_date": "2024-09-15",
+    "opening_cost": 459695,
+    "location_size_sqft": 3100,
+    "time_to_profitability_months": 10,
+    "year_1_revenue": 1208998,
+    "year_2_revenue": 1429170,
+    "year_3_revenue": 1761860,
+    "peak_revenue": 1808314,
+    "staff_count": 20,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "growing tech sector",
+      "strong tourism"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "slower customer adoption"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.27,
+    "notes": "Implemented client-driven pricing structure"
+  },
+  {
+    "expansion_id": "EXP-2018-DSA",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2018-02-15",
+    "opening_cost": 478294,
+    "location_size_sqft": 3473,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 2214499,
+    "year_2_revenue": 2539551,
+    "year_3_revenue": 2944648,
+    "peak_revenue": 3186461,
+    "staff_count": 26,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "supportive local government",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.01,
+    "notes": "Total asymmetric frame"
+  },
+  {
+    "expansion_id": "EXP-2016-FOL",
+    "city_id": "BOA",
+    "city_name": "Springfield, ID",
+    "opening_date": "2016-12-15",
+    "opening_cost": 772369,
+    "location_size_sqft": 3589,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 2409791,
+    "year_2_revenue": 2767239,
+    "year_3_revenue": 2984598,
+    "peak_revenue": 4113117,
+    "staff_count": 34,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "high foot traffic area",
+      "growing tech sector",
+      "excellent visibility",
+      "strong tourism",
+      "growing population"
+    ],
+    "challenges": [
+      "parking challenges",
+      "permitting delays",
+      "higher competition than expected"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.14,
+    "notes": "Profound holistic task-force"
+  },
+  {
+    "expansion_id": "EXP-2018-FYI",
+    "city_id": "KPU",
+    "city_name": "Murfreesboro, TN",
+    "opening_date": "2018-01-15",
+    "opening_cost": 471384,
+    "location_size_sqft": 3252,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2281498,
+    "year_2_revenue": 2767970,
+    "year_3_revenue": 3231003,
+    "peak_revenue": 3906092,
+    "staff_count": 33,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "growing tech sector",
+      "low unemployment",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "local regulations",
+      "parking challenges"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.09,
+    "notes": "User-centric coherent core"
+  },
+  {
+    "expansion_id": "EXP-2020-VWF",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2020-09-15",
+    "opening_cost": 311102,
+    "location_size_sqft": 2976,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1365736,
+    "year_2_revenue": 1524110,
+    "year_3_revenue": 1875410,
+    "peak_revenue": 1980782,
+    "staff_count": 30,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "strong local supplier network",
+      "limited direct competition",
+      "excellent visibility",
+      "strong tourism",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "higher competition than expected",
+      "initial staffing difficulties"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.07,
+    "notes": "Quality-focused empowering microservice"
+  },
+  {
+    "expansion_id": "EXP-2020-WND",
+    "city_id": "PGK",
+    "city_name": "Newport Beach, RI",
+    "opening_date": "2020-09-15",
+    "opening_cost": 444775,
+    "location_size_sqft": 3087,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1641220,
+    "year_2_revenue": 2082119,
+    "year_3_revenue": 2143246,
+    "peak_revenue": 2379200,
+    "staff_count": 28,
+    "avg_customer_rating": 4.4,
+    "success_factors": [
+      "strong nightlife",
+      "favorable demographics",
+      "growing tech sector",
+      "excellent visibility",
+      "growing population"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "higher than expected rent increases",
+      "initial staffing difficulties"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.27,
+    "notes": "Adaptive maximized utilisation"
+  },
+  {
+    "expansion_id": "EXP-2016-ARF",
+    "city_id": "KCL",
+    "city_name": "South Franzside, AZ",
+    "opening_date": "2016-07-15",
+    "opening_cost": 642626,
+    "location_size_sqft": 2699,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2551227,
+    "year_2_revenue": 3090149,
+    "year_3_revenue": 3455364,
+    "peak_revenue": 3407225,
+    "staff_count": 31,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "growing tech sector",
+      "favorable demographics"
+    ],
+    "challenges": [
+      "permitting delays",
+      "higher competition than expected"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.19,
+    "notes": "Customer-focused logistical service-desk"
+  },
+  {
+    "expansion_id": "EXP-2015-HQL",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2015-09-15",
+    "opening_cost": 829378,
+    "location_size_sqft": 4612,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 3840020,
+    "year_2_revenue": 4416417,
+    "year_3_revenue": 5236360,
+    "peak_revenue": 5185212,
+    "staff_count": 24,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "diverse cuisine scene",
+      "business district location",
+      "strong tourism",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "initial staffing difficulties"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.26,
+    "notes": "Stand-alone needs-based adapter"
+  },
+  {
+    "expansion_id": "EXP-2019-NIO",
+    "city_id": "YAY",
+    "city_name": "West Scarlett, FL",
+    "opening_date": "2019-04-15",
+    "opening_cost": 530381,
+    "location_size_sqft": 3815,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1760863,
+    "year_2_revenue": 2097299,
+    "year_3_revenue": 2427363,
+    "peak_revenue": 3050403,
+    "staff_count": 33,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "growing tech sector",
+      "favorable demographics",
+      "low unemployment",
+      "high median income",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "supply chain issues",
+      "higher than expected rent increases"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.23,
+    "notes": "Immersive impactful access"
+  },
+  {
+    "expansion_id": "EXP-2016-AHZ",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2016-12-15",
+    "opening_cost": 777357,
+    "location_size_sqft": 4192,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 3583616,
+    "year_2_revenue": 4193122,
+    "year_3_revenue": 5030842,
+    "peak_revenue": 6243485,
+    "staff_count": 19,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "growing tech sector",
+      "strong local supplier network",
+      "established food culture"
+    ],
+    "challenges": [
+      "parking challenges",
+      "local regulations"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.1,
+    "notes": "Future-proofed value-added microservice"
+  },
+  {
+    "expansion_id": "EXP-2018-BKI",
+    "city_id": "PGK",
+    "city_name": "Newport Beach, RI",
+    "opening_date": "2018-08-15",
+    "opening_cost": 830942,
+    "location_size_sqft": 3135,
+    "time_to_profitability_months": 4,
+    "year_1_revenue": 2916606,
+    "year_2_revenue": 3698519,
+    "year_3_revenue": 3550755,
+    "peak_revenue": 4059940,
+    "staff_count": 30,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "growing tech sector",
+      "business district location",
+      "growing population",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "local regulations"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.07,
+    "notes": "Multi-tiered mission-critical time-frame"
+  },
+  {
+    "expansion_id": "EXP-2021-NZJ",
+    "city_id": "GST",
+    "city_name": "Port Lavinaboro, DE",
+    "opening_date": "2021-06-15",
+    "opening_cost": 300123,
+    "location_size_sqft": 3771,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 1257516,
+    "year_2_revenue": 1517455,
+    "year_3_revenue": 1740241,
+    "peak_revenue": 2262184,
+    "staff_count": 33,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "strong nightlife",
+      "business district location"
+    ],
+    "challenges": [
+      "parking challenges",
+      "higher competition than expected"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.14,
+    "notes": "Extended static portal"
+  },
+  {
+    "expansion_id": "EXP-2022-CDI",
+    "city_id": "KCL",
+    "city_name": "South Franzside, AZ",
+    "opening_date": "2022-02-15",
+    "opening_cost": 545142,
+    "location_size_sqft": 2634,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 2709356,
+    "year_2_revenue": 3079903,
+    "year_3_revenue": 3370404,
+    "peak_revenue": 3629827,
+    "staff_count": 21,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "excellent visibility",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "higher competition than expected",
+      "slower customer adoption"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.02,
+    "notes": "Total dynamic application"
+  },
+  {
+    "expansion_id": "EXP-2018-PNW",
+    "city_id": "GST",
+    "city_name": "Port Lavinaboro, DE",
+    "opening_date": "2018-05-15",
+    "opening_cost": 308420,
+    "location_size_sqft": 4800,
+    "time_to_profitability_months": 16,
+    "year_1_revenue": 1057881,
+    "year_2_revenue": 1305618,
+    "year_3_revenue": 1353919,
+    "peak_revenue": 1734617,
+    "staff_count": 26,
+    "avg_customer_rating": 4.1,
+    "success_factors": [
+      "supportive local government",
+      "limited direct competition",
+      "strong nightlife",
+      "low unemployment",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "higher competition than expected"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.27,
+    "notes": "Persevering scalable application"
+  },
+  {
+    "expansion_id": "EXP-2022-DWO",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2022-10-15",
+    "opening_cost": 824472,
+    "location_size_sqft": 3636,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 3067035,
+    "year_2_revenue": 3445117,
+    "year_3_revenue": 4264670,
+    "peak_revenue": 4100150,
+    "staff_count": 24,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "growing tech sector",
+      "favorable demographics",
+      "growing population",
+      "strong tourism"
+    ],
+    "challenges": [
+      "parking challenges",
+      "seasonal fluctuations",
+      "supply chain issues"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.23,
+    "notes": "Grass-roots bifurcated pricing structure"
+  },
+  {
+    "expansion_id": "EXP-2024-UPP",
+    "city_id": "SDZ",
+    "city_name": "Tateville, HI",
+    "opening_date": "2024-09-15",
+    "opening_cost": 505510,
+    "location_size_sqft": 4733,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 1410373,
+    "year_2_revenue": 1630842,
+    "year_3_revenue": 1869861,
+    "peak_revenue": 2125625,
+    "staff_count": 22,
+    "avg_customer_rating": 3.9,
+    "success_factors": [
+      "high median income",
+      "strong nightlife",
+      "established food culture",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "higher competition than expected",
+      "local regulations"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.28,
+    "notes": "Persevering AI-powered encryption"
+  },
+  {
+    "expansion_id": "EXP-2020-CEQ",
+    "city_id": "KCL",
+    "city_name": "South Franzside, AZ",
+    "opening_date": "2020-12-15",
+    "opening_cost": 489359,
+    "location_size_sqft": 3825,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 1898713,
+    "year_2_revenue": 2331712,
+    "year_3_revenue": 2712407,
+    "peak_revenue": 2608459,
+    "staff_count": 33,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "limited direct competition",
+      "excellent visibility",
+      "growing tech sector",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "parking challenges",
+      "supply chain issues"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.1,
+    "notes": "Self-enabling sustainable complexity"
+  },
+  {
+    "expansion_id": "EXP-2017-HCM",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2017-12-15",
+    "opening_cost": 572805,
+    "location_size_sqft": 3229,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 2291219,
+    "year_2_revenue": 2721518,
+    "year_3_revenue": 3285309,
+    "peak_revenue": 3355730,
+    "staff_count": 19,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "diverse cuisine scene",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "parking challenges",
+      "higher than expected rent increases"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.25,
+    "notes": "Enhanced cohesive application"
+  },
+  {
+    "expansion_id": "EXP-2016-OJL",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2016-06-15",
+    "opening_cost": 353814,
+    "location_size_sqft": 2586,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1047288,
+    "year_2_revenue": 1248688,
+    "year_3_revenue": 1537418,
+    "peak_revenue": 1879069,
+    "staff_count": 28,
+    "avg_customer_rating": 4.9,
+    "success_factors": [
+      "business district location",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "slower customer adoption",
+      "local regulations"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.08,
+    "notes": "Networked fault-tolerant encryption"
+  },
+  {
+    "expansion_id": "EXP-2020-UGX",
+    "city_id": "PLS",
+    "city_name": "Karleyboro, NH",
+    "opening_date": "2020-10-15",
+    "opening_cost": 530925,
+    "location_size_sqft": 3996,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 1491899,
+    "year_2_revenue": 1765444,
+    "year_3_revenue": 2131001,
+    "peak_revenue": 2037757,
+    "staff_count": 18,
+    "avg_customer_rating": 3.7,
+    "success_factors": [
+      "limited direct competition",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "higher competition than expected",
+      "construction delays"
+    ],
+    "outcome": "successful",
+    "roi_3year": -0.08,
+    "notes": "Sharable full-range strategy"
+  },
+  {
+    "expansion_id": "EXP-2024-MMV",
+    "city_id": "IKR",
+    "city_name": "Lake Guyfort, WY",
+    "opening_date": "2024-01-15",
+    "opening_cost": 445840,
+    "location_size_sqft": 3089,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1391021,
+    "year_2_revenue": 1543187,
+    "year_3_revenue": 1785320,
+    "peak_revenue": 2399702,
+    "staff_count": 30,
+    "avg_customer_rating": 4.3,
+    "success_factors": [
+      "supportive local government",
+      "strong tourism"
+    ],
+    "challenges": [
+      "permitting delays",
+      "initial staffing difficulties"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.3,
+    "notes": "Universal high-level budgetary management"
+  },
+  {
+    "expansion_id": "EXP-2022-YIF",
+    "city_id": "PIX",
+    "city_name": "Walkerland, SD",
+    "opening_date": "2022-10-15",
+    "opening_cost": 746894,
+    "location_size_sqft": 3602,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 3353555,
+    "year_2_revenue": 3798768,
+    "year_3_revenue": 4174992,
+    "peak_revenue": 5660908,
+    "staff_count": 19,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "limited direct competition",
+      "high foot traffic area",
+      "established food culture",
+      "excellent visibility"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "parking challenges"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": -0.1,
+    "notes": "Focused sustainable orchestration"
+  },
+  {
+    "expansion_id": "EXP-2023-MOE",
+    "city_id": "ORX",
+    "city_name": "Fort Quintenstad, IL",
+    "opening_date": "2023-08-15",
+    "opening_cost": 417638,
+    "location_size_sqft": 4181,
+    "time_to_profitability_months": 13,
+    "year_1_revenue": 1896078,
+    "year_2_revenue": 2165992,
+    "year_3_revenue": 2359832,
+    "peak_revenue": 2849789,
+    "staff_count": 30,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "business district location",
+      "established food culture"
+    ],
+    "challenges": [
+      "supply chain issues"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": -0.07,
+    "notes": "Monitored bottom-line monitoring"
+  },
+  {
+    "expansion_id": "EXP-2016-PFP",
+    "city_id": "YAY",
+    "city_name": "West Scarlett, FL",
+    "opening_date": "2016-11-15",
+    "opening_cost": 307231,
+    "location_size_sqft": 3426,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 860247,
+    "year_2_revenue": 1032006,
+    "year_3_revenue": 1041372,
+    "peak_revenue": 1418834,
+    "staff_count": 23,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "low unemployment",
+      "growing tech sector",
+      "business district location"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.22,
+    "notes": "AI-driven transitional monitoring"
+  },
+  {
+    "expansion_id": "EXP-2016-PBR",
+    "city_id": "CWL",
+    "city_name": "Viviannechester, NJ",
+    "opening_date": "2016-04-15",
+    "opening_cost": 828814,
+    "location_size_sqft": 4193,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2925712,
+    "year_2_revenue": 3288990,
+    "year_3_revenue": 4032272,
+    "peak_revenue": 4711054,
+    "staff_count": 23,
+    "avg_customer_rating": 3.6,
+    "success_factors": [
+      "strong nightlife",
+      "low unemployment",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "higher competition than expected"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.2,
+    "notes": "Persistent zero defect artificial intelligence"
+  },
+  {
+    "expansion_id": "EXP-2024-OPL",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2024-04-15",
+    "opening_cost": 495699,
+    "location_size_sqft": 3842,
+    "time_to_profitability_months": 7,
+    "year_1_revenue": 2354571,
+    "year_2_revenue": 2669861,
+    "year_3_revenue": 3268344,
+    "peak_revenue": 3375236,
+    "staff_count": 18,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "growing population",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.13,
+    "notes": "Advanced cohesive architecture"
+  },
+  {
+    "expansion_id": "EXP-2024-FAQ",
+    "city_id": "PII",
+    "city_name": "Bechtelarhaven, MN",
+    "opening_date": "2024-11-15",
+    "opening_cost": 823683,
+    "location_size_sqft": 3387,
+    "time_to_profitability_months": 5,
+    "year_1_revenue": 2479285,
+    "year_2_revenue": 2951708,
+    "year_3_revenue": 3187221,
+    "peak_revenue": 3286833,
+    "staff_count": 26,
+    "avg_customer_rating": 4.8,
+    "success_factors": [
+      "excellent visibility",
+      "high foot traffic area",
+      "diverse cuisine scene",
+      "growing tech sector"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "initial staffing difficulties",
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.22,
+    "notes": "Adaptive clear-thinking utilisation"
+  },
+  {
+    "expansion_id": "EXP-2024-ESR",
+    "city_id": "RSS",
+    "city_name": "Watsicafield, FL",
+    "opening_date": "2024-04-15",
+    "opening_cost": 525972,
+    "location_size_sqft": 3735,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 1762007,
+    "year_2_revenue": 1977377,
+    "year_3_revenue": 2250535,
+    "peak_revenue": 2346850,
+    "staff_count": 21,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "low unemployment",
+      "supportive local government",
+      "established food culture"
+    ],
+    "challenges": [
+      "seasonal fluctuations",
+      "higher than expected rent increases"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": -0.04,
+    "notes": "Cross-platform responsive alliance"
+  },
+  {
+    "expansion_id": "EXP-2024-LCU",
+    "city_id": "CML",
+    "city_name": "Lake Milton, AZ",
+    "opening_date": "2024-06-15",
+    "opening_cost": 685729,
+    "location_size_sqft": 4266,
+    "time_to_profitability_months": 8,
+    "year_1_revenue": 2845776,
+    "year_2_revenue": 3264804,
+    "year_3_revenue": 4237605,
+    "peak_revenue": 4517484,
+    "staff_count": 21,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "growing population",
+      "excellent visibility",
+      "strong local supplier network",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "supply chain issues",
+      "initial staffing difficulties"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.2,
+    "notes": "Innovative stable instruction set"
+  },
+  {
+    "expansion_id": "EXP-2015-NOB",
+    "city_id": "UTR",
+    "city_name": "Gradyboro, UT",
+    "opening_date": "2015-01-15",
+    "opening_cost": 656765,
+    "location_size_sqft": 3395,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 2029404,
+    "year_2_revenue": 2575642,
+    "year_3_revenue": 2881720,
+    "peak_revenue": 3492228,
+    "staff_count": 28,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "strong local supplier network",
+      "excellent visibility",
+      "limited direct competition",
+      "low unemployment"
+    ],
+    "challenges": [
+      "local regulations",
+      "parking challenges"
+    ],
+    "outcome": "moderate",
+    "roi_3year": 0.03,
+    "notes": "Integrated radical hub"
+  },
+  {
+    "expansion_id": "EXP-2020-XTK",
+    "city_id": "GHX",
+    "city_name": "Bayonne, KS",
+    "opening_date": "2020-04-15",
+    "opening_cost": 515095,
+    "location_size_sqft": 2612,
+    "time_to_profitability_months": 9,
+    "year_1_revenue": 1648304,
+    "year_2_revenue": 2137205,
+    "year_3_revenue": 2134521,
+    "peak_revenue": 2739847,
+    "staff_count": 34,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "diverse cuisine scene",
+      "strong nightlife"
+    ],
+    "challenges": [
+      "seasonal fluctuations"
+    ],
+    "outcome": "successful",
+    "roi_3year": -0.05,
+    "notes": "Networked explicit archive"
+  },
+  {
+    "expansion_id": "EXP-2022-CBY",
+    "city_id": "BQS",
+    "city_name": "Imogeneland, OK",
+    "opening_date": "2022-03-15",
+    "opening_cost": 528434,
+    "location_size_sqft": 4130,
+    "time_to_profitability_months": 14,
+    "year_1_revenue": 2214138,
+    "year_2_revenue": 2460266,
+    "year_3_revenue": 2959817,
+    "peak_revenue": 3595993,
+    "staff_count": 27,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "growing population",
+      "supportive local government"
+    ],
+    "challenges": [
+      "slower customer adoption",
+      "higher competition than expected",
+      "permitting delays"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0,
+    "notes": "Robust intangible core"
+  },
+  {
+    "expansion_id": "EXP-2021-WGB",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2021-01-15",
+    "opening_cost": 370238,
+    "location_size_sqft": 4187,
+    "time_to_profitability_months": 18,
+    "year_1_revenue": 1766035,
+    "year_2_revenue": 2022866,
+    "year_3_revenue": 2562925,
+    "peak_revenue": 2591084,
+    "staff_count": 19,
+    "avg_customer_rating": 4.5,
+    "success_factors": [
+      "excellent visibility",
+      "limited direct competition",
+      "favorable demographics",
+      "high foot traffic area"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "permitting delays"
+    ],
+    "outcome": "successful",
+    "roi_3year": 0.29,
+    "notes": "Self-enabling systematic definition"
+  },
+  {
+    "expansion_id": "EXP-2018-OFJ",
+    "city_id": "GTK",
+    "city_name": "North Johnnyfort, KS",
+    "opening_date": "2018-08-15",
+    "opening_cost": 345255,
+    "location_size_sqft": 4472,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 1166963,
+    "year_2_revenue": 1392316,
+    "year_3_revenue": 1486667,
+    "peak_revenue": 1981551,
+    "staff_count": 24,
+    "avg_customer_rating": 4.2,
+    "success_factors": [
+      "strong nightlife",
+      "growing tech sector",
+      "business district location",
+      "strong tourism",
+      "low unemployment"
+    ],
+    "challenges": [
+      "initial staffing difficulties",
+      "supply chain issues",
+      "local regulations"
+    ],
+    "outcome": "highly_successful",
+    "roi_3year": 0.02,
+    "notes": "Centralized zero defect neural-net"
+  },
+  {
+    "expansion_id": "EXP-2016-DSO",
+    "city_id": "NVG",
+    "city_name": "Kent, NH",
+    "opening_date": "2016-11-15",
+    "opening_cost": 661690,
+    "location_size_sqft": 4897,
+    "time_to_profitability_months": 11,
+    "year_1_revenue": 3057006,
+    "year_2_revenue": 3771292,
+    "year_3_revenue": 4253887,
+    "peak_revenue": 4101023,
+    "staff_count": 29,
+    "avg_customer_rating": 4.6,
+    "success_factors": [
+      "growing population",
+      "high median income"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "permitting delays",
+      "construction delays"
+    ],
+    "outcome": "moderate",
+    "roi_3year": -0.09,
+    "notes": "Distributed holistic methodology"
+  },
+  {
+    "expansion_id": "EXP-2018-ODU",
+    "city_id": "IKR",
+    "city_name": "Lake Guyfort, WY",
+    "opening_date": "2018-11-15",
+    "opening_cost": 823116,
+    "location_size_sqft": 3473,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 2354111,
+    "year_2_revenue": 2657794,
+    "year_3_revenue": 2925633,
+    "peak_revenue": 3314369,
+    "staff_count": 20,
+    "avg_customer_rating": 4.7,
+    "success_factors": [
+      "growing tech sector",
+      "strong nightlife",
+      "business district location",
+      "supportive local government"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "higher competition than expected"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.2,
+    "notes": "Profit-focused high-level project"
+  },
+  {
+    "expansion_id": "EXP-2024-GUL",
+    "city_id": "UOC",
+    "city_name": "Port Ines, TX",
+    "opening_date": "2024-01-15",
+    "opening_cost": 819142,
+    "location_size_sqft": 2915,
+    "time_to_profitability_months": 17,
+    "year_1_revenue": 3383055,
+    "year_2_revenue": 4385342,
+    "year_3_revenue": 4749231,
+    "peak_revenue": 5055461,
+    "staff_count": 26,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "limited direct competition",
+      "established food culture",
+      "strong nightlife",
+      "growing tech sector",
+      "strong local supplier network"
+    ],
+    "challenges": [
+      "local regulations",
+      "slower customer adoption",
+      "construction delays"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.29,
+    "notes": "Multi-tiered explicit benchmark"
+  },
+  {
+    "expansion_id": "EXP-2022-WRJ",
+    "city_id": "YAY",
+    "city_name": "West Scarlett, FL",
+    "opening_date": "2022-12-15",
+    "opening_cost": 599742,
+    "location_size_sqft": 2666,
+    "time_to_profitability_months": 6,
+    "year_1_revenue": 2261027,
+    "year_2_revenue": 2931437,
+    "year_3_revenue": 3253965,
+    "peak_revenue": 3433086,
+    "staff_count": 35,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "high foot traffic area",
+      "strong nightlife",
+      "diverse cuisine scene",
+      "limited direct competition"
+    ],
+    "challenges": [
+      "supply chain issues",
+      "permitting delays",
+      "higher competition than expected"
+    ],
+    "outcome": "unsuccessful",
+    "roi_3year": 0.02,
+    "notes": "Distributed well-modulated synergy"
+  },
+  {
+    "expansion_id": "EXP-2018-LZK",
+    "city_id": "GST",
+    "city_name": "Port Lavinaboro, DE",
+    "opening_date": "2018-02-15",
+    "opening_cost": 578842,
+    "location_size_sqft": 3773,
+    "time_to_profitability_months": 12,
+    "year_1_revenue": 1522354,
+    "year_2_revenue": 1854265,
+    "year_3_revenue": 1917111,
+    "peak_revenue": 2431906,
+    "staff_count": 19,
+    "avg_customer_rating": 3.8,
+    "success_factors": [
+      "growing population",
+      "high median income",
+      "strong local supplier network",
+      "diverse cuisine scene"
+    ],
+    "challenges": [
+      "higher than expected rent increases"
+    ],
+    "outcome": "challenging",
+    "roi_3year": 0.16,
+    "notes": "Persevering tertiary product"
+  },
+  {
+    "expansion_id": "EXP-2018-VVL",
+    "city_id": "IDW",
+    "city_name": "South Lucyfort, OH",
+    "opening_date": "2018-11-15",
+    "opening_cost": 765902,
+    "location_size_sqft": 3946,
+    "time_to_profitability_months": 15,
+    "year_1_revenue": 2029639,
+    "year_2_revenue": 2415011,
+    "year_3_revenue": 2535532,
+    "peak_revenue": 2662606,
+    "staff_count": 22,
+    "avg_customer_rating": 3.5,
+    "success_factors": [
+      "growing population",
+      "excellent visibility",
+      "supportive local government",
+      "low unemployment"
+    ],
+    "challenges": [
+      "higher than expected rent increases",
+      "seasonal fluctuations",
+      "initial staffing difficulties"
+    ],
+    "outcome": "challenging",
+    "roi_3year": -0.06,
+    "notes": "Compatible analyzing core"
+  }
+]
