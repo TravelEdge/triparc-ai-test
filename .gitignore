@@ -3,3 +3,9 @@ node_modules/
 *.swp
 *.swo
 .env
+
+# Internal evaluation files (not for candidates)
+.EVALUATOR_NOTES
+docs/ai-verification-notes.md
+docs/CHANGES_SUMMARY.md
+docs/COMPLETE_CHANGES_SUMMARY.md

@@ -203,30 +203,33 @@ See the downloaded files for complete field lists and all 250 records.
 
 We'll evaluate your submission on:
 
-**Architecture & Design**
+**Architecture & Design (35%)**
 - How agents are designed and coordinate with each other
 - Separation of concerns and scalability considerations
 - Overall system design decisions
 
-**RAG Implementation**
+**RAG Implementation (25%)**
 - Vectorization strategy and approach
 - Retrieval quality and relevance
 - How retrieved context is integrated into agent reasoning
 
-**AI Integration**
+**AI Integration (20%)**
 - Prompt engineering quality
 - How effectively agents reason and analyze
 - Context management between agents
 
-**Implementation Quality**
+**Implementation Quality (15%)**
 - Code organization and readability
-- Error handling and edge cases
+- Error handling and edge cases (data may have inconsistencies)
 - Choice of frameworks and tools
+- Data normalization approach
 
-**Documentation**
+**Documentation (5%)**
 - Clarity of setup instructions
 - Explanation of architectural decisions
 - RAG approach documented
+
+**Note**: During the technical interview, you'll be asked to explain design choices, modify code live, and discuss trade-offs you made. We evaluate engineering judgment, not just code output.
 
 ---
 
@@ -234,14 +237,35 @@ We'll evaluate your submission on:
 
 1. **GitHub Repository** with complete code
 2. **README.md** with all documentation
-3. **Sample data** included in repo
+3. **Sample data** included in repo (or clear instructions to load provided data)
 4. **Example output** showing agents working together
 5. **.env.example** with configuration template
 6. **n8n Workflow Export** (if using n8n) - Include `workflow-export.json` with complete workflow
 
+## Important Notes
+
+**On Data Quality:**
+The provided JSON files contain real-world data with some intentional variability:
+- Field names may vary slightly between records
+- Some optional fields may be missing in certain records
+- You'll need to implement proper data validation and normalization
+
+Handling these edge cases is part of the evaluation.
+
+**On AI Tool Usage:**
+You may use AI assistants (GitHub Copilot, ChatGPT, etc.) as you would in normal development. However, you must be able to:
+- Explain every design decision you made
+- Modify your code live during the technical interview
+- Debug issues on the spot
+- Discuss alternative approaches and trade-offs
+
+We're evaluating your engineering judgment and problem-solving ability, not just working code.
+
 ---
 
 ## Questions?
+
+If you encounter blocking issues or need clarification, please reach out. We're here to help!
 
 If you need clarification, please reach out. We're here to help!
 
